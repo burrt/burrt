@@ -4,6 +4,7 @@ import argparse
 import html
 import json
 import os
+import re
 import tempfile
 from datetime import date, datetime
 from pathlib import Path
@@ -18,6 +19,56 @@ END_MARKER = b"<!-- DAILY-PHILOSOPHY:END -->"
 PROGRESS_PATH = "philosophy/state/progress.json"
 INITIAL_READING = b"The first reading will appear here."
 PUBLICATION_TIMEZONE = ZoneInfo("Europe/London")
+
+
+def render_quote(original_text: bytes) -> str:
+    """Render a Markdown quote with reversible escapes for literal text.
+
+    Quote prefixes preserve blank lines. Escapes prevent Markdown from
+    interpreting numbered sections, emphasis, links, or indented code.
+    Browsers wrap the prose naturally; frozen source whitespace stays intact
+    in the generated Markdown after reversing the presentation escapes.
+    """
+    escaped_text = html.escape(original_text.decode("utf-8"), quote=False)
+    markdown_escapes = {
+        ord(character): "\\" + character for character in "\\`*_{}[]()#+-.!|~"
+    }
+    escaped_text = escaped_text.translate(markdown_escapes)
+    quoted_lines = []
+    for line in escaped_text.splitlines(keepends=True):
+        indentation = len(line) - len(line.lstrip(" "))
+        quoted_lines.append("> " + "&#32;" * indentation + line[indentation:])
+    quote = "".join(quoted_lines)
+    unquoted = "".join(line[2:] for line in quote.splitlines(keepends=True))
+    unescaped = re.sub(r"\\([\\`*_{}\[\]()#+\-.!|~])", r"\1", unquoted)
+    restored_text = html.unescape(unescaped).encode("utf-8")
+    if restored_text != original_text:
+        raise ValueError("Rendering changed source text")
+    return quote
+
+
+def split_translator_notes(original_text: bytes) -> list[tuple[bool, bytes]]:
+    """Separate printed note paragraphs without moving or changing any bytes.
+
+    A lettered definition begins a note. Subsequent indented paragraphs belong
+    to that note until unindented prose resumes. Indented verse outside a note
+    remains visible. Adjacent paragraphs of the same kind share one block.
+    """
+    blocks: list[tuple[bool, bytes]] = []
+    inside_note = False
+    paragraphs = re.findall(rb".+?(?:\r\n\r\n|\Z)", original_text, re.DOTALL)
+    for paragraph in paragraphs:
+        if re.match(rb"^ {0,4}\[[A-Z]\] ", paragraph):
+            inside_note = True
+        elif paragraph.strip() and not paragraph.startswith(b"    "):
+            inside_note = False
+        if blocks and blocks[-1][0] == inside_note:
+            blocks[-1] = (inside_note, blocks[-1][1] + paragraph)
+        else:
+            blocks.append((inside_note, paragraph))
+    if b"".join(content for _, content in blocks) != original_text:
+        raise ValueError("Separating notes changed source text")
+    return blocks
 
 
 def find_reading_region(readme: bytes) -> tuple[int, int]:
@@ -71,22 +122,22 @@ def render_reading(
     title = (
         f"**Marcus Aurelius — Meditations {book_numeral}.{section_reference}**"
         "  \n"
-        f"George Long translation · {publication_date} · "
-        f"Reading {reading_number} of {reading_count}\n\n"
+        f"<sub>George Long translation · {publication_date} · "
+        f"Reading {reading_number} of {reading_count}</sub>\n\n"
     )
 
     original_text = source[passage["start"] : passage["end"]]
-    escaped_text = html.escape(original_text.decode("utf-8"), quote=False)
-    restored_text = html.unescape(escaped_text).encode("utf-8")
-    if restored_text != original_text:
-        raise ValueError("Rendering changed source text")
-
-    # Prevent Markdown from interpreting section numbers, underscores or verse.
-    reading = title + f"<pre>{escaped_text}</pre>\n\n"
+    reading = title
+    for is_note, content in split_translator_notes(original_text):
+        if is_note:
+            reading += "<details>\n<summary>Translator notes</summary>\n\n"
+        reading += render_quote(content) + "\n\n"
+        if is_note:
+            reading += "</details>\n\n"
     reading += (
-        "[Source edition](https://www.gutenberg.org/ebooks/15877)"
-        " · [Reading archive](philosophy/README.md)\n\n"
-        "*The edition's translator notes and text markings are preserved.*"
+        '<sub><a href="https://www.gutenberg.org/ebooks/15877">'
+        "Source edition</a>"
+        ' · <a href="philosophy/README.md">Reading archive</a></sub>'
     )
     if reading_number == reading_count:
         reading += (

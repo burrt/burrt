@@ -106,9 +106,16 @@ Every daily run verifies all source checksums and reconstructs the catalog
 from the numbered sections and reviewed grouping plan. Joining the slices
 must reproduce each complete book body byte-for-byte, with no gaps or overlap.
 Every passage has its own SHA-256 checksum. The current and proposed README
-readings must match the exact source slice after reversible HTML escaping.
-The `<pre>` presentation prevents Markdown from renumbering sections or
-interpreting the edition's text markings.
+readings must match the exact source slice after reversing Markdown and HTML escapes.
+Markdown blockquotes let prose wrap naturally. Markdown escaping prevents
+Markdown from renumbering sections or interpreting the edition's text markings.
+Removing quote prefixes and reversing escapes recovers the original bytes,
+including line endings and indentation; browser layout may collapse whitespace.
+Translator note definitions and their indented continuation paragraphs appear
+in collapsed **Translator notes** sections on every daily reading. Inline
+references and bracketed prose remain visible. Notes stay in source order, and
+joining the visible and collapsible blocks recovers the entire source slice.
+Readings without notes have no extra collapsible section.
 
 Progress validation rejects changed catalogs, invalid indexes or dates,
 missing or repeated README markers, and edited reading content. The workflow

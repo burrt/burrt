@@ -47,8 +47,10 @@ throughout; the audit does not merge the formats or correct discrepancies.
 The automated checks establish exact fidelity to the frozen text snapshot.
 They verify source hashes, section numbering, contiguous coverage of each book,
 every reading's offsets and checksum, and the README content against its source
-slice. HTML entity escaping is the only change to the displayed payload, and it
-is verified to reverse to the original bytes.
+slice. Markdown quote prefixes, escapes, and collapsible note wrappers are
+presentation additions. Reversing them and joining all blocks in source order
+is verified to recover the original bytes. The browser wraps prose naturally and may collapse source whitespace;
+the linked source retains the original layout.
 
 AI review cannot certify that the ebook's transcription or translation is
 error-free. Apparent anomalies remain unchanged, including `who snowed` in

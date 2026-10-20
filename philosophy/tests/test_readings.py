@@ -3,6 +3,7 @@
 import copy
 import html
 import json
+import re
 import shutil
 import sys
 import tempfile
@@ -57,6 +58,21 @@ class ReadingsTests(unittest.TestCase):
             + daily.END_MARKER
             + b"\r\n## Links\r\nKeep these too.\r\n"
         )
+
+    def _quote_payload(self, rendered: bytes) -> bytes:
+        """Remove quote prefixes while retaining original line endings."""
+        body = rendered.split(b"</sub>\n\n", 1)[1].split(b"\n\n<sub>", 1)[0]
+        quotes = re.findall(
+            rb"(?:\A|\n\n)(> .*?)(?=(?<!\r)\n\n|\Z)", body, re.DOTALL
+        )
+        self.assertTrue(quotes)
+        payload = b""
+        for quote in quotes:
+            lines = quote.splitlines(keepends=True)
+            self.assertTrue(all(line.startswith(b"> ") for line in lines))
+            self.assertNotIn(b">     ", quote)
+            payload += b"".join(line[2:] for line in lines)
+        return re.sub(rb"\\([\\`*_{}\[\]()#+\-.!|~])", rb"\1", payload)
 
     def _write_json_file(self, relative_path: str, value: Any) -> None:
         """Write test data beneath the disposable repository root."""
@@ -186,12 +202,13 @@ class ReadingsTests(unittest.TestCase):
         """HTML escaping preserves literal markup, entities, and CRLF bytes."""
         original_text = (
             b"<section>&amp; & [A] _words_\r\n    indented\r\n</pre>\r\n"
+            b"\r\n2. Literal *stars*, `code`, [link](url), and \\slashes."
         )
         passage = dict(self.passages[0], start=0, end=len(original_text))
         rendered = daily.render_reading(
             original_text, passage, "2026-10-20", 1, 2
         )
-        payload = rendered.split(b"<pre>", 1)[1].split(b"</pre>", 1)[0]
+        payload = self._quote_payload(rendered)
         self.assertNotIn(b"<", payload)
         self.assertIn(b"&amp;amp;", payload)
         self.assertEqual(
@@ -209,11 +226,57 @@ class ReadingsTests(unittest.TestCase):
                     reading_number,
                     len(self.passages),
                 )
-                payload = rendered.split(b"<pre>", 1)[1].split(b"</pre>", 1)[0]
+                payload = self._quote_payload(rendered)
                 original_text = self.source[passage["start"] : passage["end"]]
                 self.assertEqual(
                     html.unescape(payload.decode()).encode(), original_text
                 )
+                definitions = re.findall(
+                    rb"(?m)^ {0,4}\[[A-Z]\] ", original_text
+                )
+                collapsed_notes = b"".join(
+                    re.findall(
+                        rb"<details>(.*?)</details>", rendered, re.DOTALL
+                    )
+                )
+                hidden_definitions = re.findall(
+                    rb"(?m)^> (?:&#32;){0,4}\\\[[A-Z]\\\] ",
+                    collapsed_notes,
+                )
+                self.assertEqual(len(hidden_definitions), len(definitions))
+                if not definitions:
+                    self.assertNotIn(b"<details>", rendered)
+
+    def test_notes_collapse_without_hiding_prose_or_verse(self) -> None:
+        """Only definitions and their continuation paragraphs are collapsed."""
+        prose = b"A thought[A] with [a clarification].\r\n\r\n"
+        verse = b"    Verse belongs in the main reading.\r\n\r\n"
+        note = (
+            b"    [A] A translator's explanation.\r\n\r\n"
+            b"    Another paragraph of that note.\r\n\r\n"
+        )
+        following = b"2. The next thought[B].\r\n\r\n"
+        second_note = b"[B] An unindented note."
+        original = prose + verse + note + following + second_note
+        self.assertEqual(
+            daily.split_translator_notes(original),
+            [
+                (False, prose + verse),
+                (True, note),
+                (False, following),
+                (True, second_note),
+            ],
+        )
+        passage = dict(self.passages[0], start=0, end=len(original))
+        rendered = daily.render_reading(original, passage, "2026-10-20", 1, 2)
+        self.assertEqual(rendered.count(b"<details>"), 2)
+        self.assertNotIn(b"<details open", rendered)
+        self.assertIn(b"\\[a clarification\\]", rendered)
+        self.assertNotIn(b"&#91;", rendered)
+        self.assertEqual(
+            html.unescape(self._quote_payload(rendered).decode()).encode(),
+            original,
+        )
 
     def test_daily_progress_rerun_and_missed_days(self) -> None:
         """Reruns are inert and missed dates never skip unread passages."""
@@ -224,9 +287,7 @@ class ReadingsTests(unittest.TestCase):
         daily.publish_daily_reading(self.root, today=date(2026, 10, 20))
         published_files = self._snapshot_publication()
         first_passage = self.passages[0]
-        payload = (
-            published_files[0].split(b"<pre>", 1)[1].split(b"</pre>", 1)[0]
-        )
+        payload = self._quote_payload(published_files[0])
         self.assertEqual(
             html.unescape(payload.decode()).encode(),
             self.source[first_passage["start"] : first_passage["end"]],
