@@ -1,0 +1,48 @@
+name: Daily reading
+
+on:
+  schedule:
+    - cron: "17 6 * * *"
+      timezone: Europe/London
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-reading
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    if: github.ref == format('refs/heads/{0}', github.event.repository.default_branch)
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          # Read current progress after any preceding run has finished.
+          ref: ${{ github.event.repository.default_branch }}
+
+      - name: Check and update the reading
+        run: |
+          python3 -m unittest discover -s philosophy/tests
+          python3 philosophy/scripts/audit_source.py
+          python3 philosophy/scripts/daily.py
+          python3 philosophy/scripts/daily.py --check
+
+      - name: Commit the reading and progress together
+        env:
+          # Explicit identity: hosted runners do not inherit local Git config.
+          GIT_AUTHOR_NAME: Geoffrey Choy
+          GIT_AUTHOR_EMAIL: 2559677+burrt@users.noreply.github.com
+          GIT_COMMITTER_NAME: Geoffrey Choy
+          GIT_COMMITTER_EMAIL: 2559677+burrt@users.noreply.github.com
+        run: |
+          git add -- README.md philosophy/state/progress.json
+          if git diff --cached --quiet; then
+            echo "No new reading to publish."
+            exit 0
+          fi
+          git commit -m "chore: publish automated daily Meditations reading"
+          git push

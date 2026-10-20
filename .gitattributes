@@ -1,0 +1,6 @@
+# Preserve downloaded source bytes, including original line endings.
+/philosophy/sources/meditations-george-long-mit.txt -text
+/philosophy/sources/meditations-george-long-gutenberg.txt -text
+/philosophy/sources/meditations-george-long-gutenberg.html -text
+# The generated reading embeds the source's original CRLF line endings.
+/README.md -text

@@ -1,0 +1,3939 @@
+{
+  "source": "philosophy/sources/meditations-george-long-gutenberg.txt",
+  "source_sha256": "06d297ee497058efbd89bd90a90582ecc68614b65ca75b44ff452a6b34b51cfb",
+  "passages": [
+    {
+      "id": "meditations-long-01-001-004",
+      "book": 1,
+      "first": 1,
+      "last": 4,
+      "start": 131006,
+      "end": 132539,
+      "sha256": "ab9eac93910a34c9e505fdacbacfe1e6d896be793a6711243fd2da767e27cd67"
+    },
+    {
+      "id": "meditations-long-01-005-005",
+      "book": 1,
+      "first": 5,
+      "last": 5,
+      "start": 132539,
+      "end": 132913,
+      "sha256": "991e338211c7f17ca78b291cf06c2a32396327a70cb9407e4db33c34f81c3d55"
+    },
+    {
+      "id": "meditations-long-01-006-006",
+      "book": 1,
+      "first": 6,
+      "last": 6,
+      "start": 132913,
+      "end": 134214,
+      "sha256": "994269ed0df1db89a5e5ec73e890ea5806f5ff34237167163cb6733ff5957400"
+    },
+    {
+      "id": "meditations-long-01-007-007",
+      "book": 1,
+      "first": 7,
+      "last": 7,
+      "start": 134214,
+      "end": 135839,
+      "sha256": "fc1a51148a13f59e9eb86bd4292064bd03a8bbc00df2d6ecae8d48051735f70e"
+    },
+    {
+      "id": "meditations-long-01-008-008",
+      "book": 1,
+      "first": 8,
+      "last": 8,
+      "start": 135839,
+      "end": 136676,
+      "sha256": "a563d480e4e58eae72f08a75de045a276323a2e3b588b56f3131c74bc4594302"
+    },
+    {
+      "id": "meditations-long-01-009-013",
+      "book": 1,
+      "first": 9,
+      "last": 13,
+      "start": 136676,
+      "end": 139271,
+      "sha256": "db0679dbc82b1bf0390ec5e6b6520bca28cd88ede66b3f91ae70d44d3be7dfcc"
+    },
+    {
+      "id": "meditations-long-01-014-014",
+      "book": 1,
+      "first": 14,
+      "last": 14,
+      "start": 139271,
+      "end": 140650,
+      "sha256": "b14b8517d68dced493c5e16c03833135920f1d1640fe25dbe274e1c03b1199ba"
+    },
+    {
+      "id": "meditations-long-01-015-015",
+      "book": 1,
+      "first": 15,
+      "last": 15,
+      "start": 140650,
+      "end": 141919,
+      "sha256": "1f86f36924b6ded1ac439794420f42e66a6e0b7085807e6c4dfce4363c4b4a9d"
+    },
+    {
+      "id": "meditations-long-01-016-016",
+      "book": 1,
+      "first": 16,
+      "last": 16,
+      "start": 141919,
+      "end": 147358,
+      "sha256": "14926eb9fdc0d779242fc43e97f16362134be215ddc833fc8bd346c1a792a13e"
+    },
+    {
+      "id": "meditations-long-01-017-017",
+      "book": 1,
+      "first": 17,
+      "last": 17,
+      "start": 147358,
+      "end": 151704,
+      "sha256": "df5cd47a588da2bc6909105570e184a8e5150b17aad73e55b09df3e8aa4c6096"
+    },
+    {
+      "id": "meditations-long-02-001-001",
+      "book": 2,
+      "first": 1,
+      "last": 1,
+      "start": 151723,
+      "end": 152650,
+      "sha256": "6d9f3a27a1992b0f24063e9cd36cc20c6e76556cfac8fa0ebf963cd673f7feac"
+    },
+    {
+      "id": "meditations-long-02-002-002",
+      "book": 2,
+      "first": 2,
+      "last": 2,
+      "start": 152650,
+      "end": 153330,
+      "sha256": "3b647ba2e306a15d1de61ba9da1a3743792c6833a50fb61e62706176a76072a9"
+    },
+    {
+      "id": "meditations-long-02-003-004",
+      "book": 2,
+      "first": 3,
+      "last": 4,
+      "start": 153330,
+      "end": 154609,
+      "sha256": "984b4ba57f075cec4a147216a8517d6a07a6da9a26a2f3a19b8f6b53e5b5a2ba"
+    },
+    {
+      "id": "meditations-long-02-005-005",
+      "book": 2,
+      "first": 5,
+      "last": 5,
+      "start": 154609,
+      "end": 155357,
+      "sha256": "baae804a1e5cc751d675323ec6a376f1aa3d06c2e686daa3294c03240e06ce1c"
+    },
+    {
+      "id": "meditations-long-02-006-006",
+      "book": 2,
+      "first": 6,
+      "last": 6,
+      "start": 155357,
+      "end": 155753,
+      "sha256": "42652ea68d75b6389e9cd33f9112fd7191a3256c0139812c98228bf96644472a"
+    },
+    {
+      "id": "meditations-long-02-007-007",
+      "book": 2,
+      "first": 7,
+      "last": 7,
+      "start": 155753,
+      "end": 156147,
+      "sha256": "4790bac56c1b29e47be6eb531f27eaaae340489541624b55e4d79a3158f0cd0a"
+    },
+    {
+      "id": "meditations-long-02-008-008",
+      "book": 2,
+      "first": 8,
+      "last": 8,
+      "start": 156147,
+      "end": 156342,
+      "sha256": "c6686f7bd215e9983e92d05963b44d22a480536161d7a4701507ac8e128cb996"
+    },
+    {
+      "id": "meditations-long-02-009-009",
+      "book": 2,
+      "first": 9,
+      "last": 9,
+      "start": 156342,
+      "end": 156674,
+      "sha256": "c6a82371a0278b02b2780573bf23d3e5579861b53a03fdd5a9e451d59a219671"
+    },
+    {
+      "id": "meditations-long-02-010-010",
+      "book": 2,
+      "first": 10,
+      "last": 10,
+      "start": 156674,
+      "end": 157612,
+      "sha256": "f829fcd63bb77cb0f0e8eb4c4506168714309b064810cb4d985657aec497021f"
+    },
+    {
+      "id": "meditations-long-02-011-011",
+      "book": 2,
+      "first": 11,
+      "last": 11,
+      "start": 157612,
+      "end": 159166,
+      "sha256": "c81736dedd373ff8f46405f80c07b2830ef6b0660c9fee2f8b254ec6a9673815"
+    },
+    {
+      "id": "meditations-long-02-012-012",
+      "book": 2,
+      "first": 12,
+      "last": 12,
+      "start": 159166,
+      "end": 160261,
+      "sha256": "f7da5adaa85d0803bd6b7e009a4cf3552722f07f17374598c70f531e58c79577"
+    },
+    {
+      "id": "meditations-long-02-013-013",
+      "book": 2,
+      "first": 13,
+      "last": 13,
+      "start": 160261,
+      "end": 161144,
+      "sha256": "fb15d7f0d71ac68fa1324d51c0e69ff0fb2e0d6ee271b5f574beadc64b6afdd1"
+    },
+    {
+      "id": "meditations-long-02-014-014",
+      "book": 2,
+      "first": 14,
+      "last": 14,
+      "start": 161144,
+      "end": 162254,
+      "sha256": "5e10a683dea94cff5b98225a74030b95dce1a292c308aa359b914f49c46b1f9f"
+    },
+    {
+      "id": "meditations-long-02-015-015",
+      "book": 2,
+      "first": 15,
+      "last": 15,
+      "start": 162254,
+      "end": 162457,
+      "sha256": "cfeb32a4265037283c291a036f9bfd6e64d8f2e8c59ac7848661b0166198d587"
+    },
+    {
+      "id": "meditations-long-02-016-016",
+      "book": 2,
+      "first": 16,
+      "last": 16,
+      "start": 162457,
+      "end": 163480,
+      "sha256": "fcd69854d10a0b8e64d48fe584e8635f736776feeea4e90e42b0542a8139909b"
+    },
+    {
+      "id": "meditations-long-02-017-017",
+      "book": 2,
+      "first": 17,
+      "last": 17,
+      "start": 163480,
+      "end": 165149,
+      "sha256": "306b15d78742661f8e8163706dda4569a71a747668c357677b8e319b6725d120"
+    },
+    {
+      "id": "meditations-long-03-001-001",
+      "book": 3,
+      "first": 1,
+      "last": 1,
+      "start": 165169,
+      "end": 166194,
+      "sha256": "c2aee07d3712310f1e4a4d1d31601834a663fbcdfb34173a131bb4dfdd06d46d"
+    },
+    {
+      "id": "meditations-long-03-002-002",
+      "book": 3,
+      "first": 2,
+      "last": 2,
+      "start": 166194,
+      "end": 167884,
+      "sha256": "1f8d42d20962c3bfd3330aae2f7ba1e43bbbe5169c174df487ca33d4c336abfa"
+    },
+    {
+      "id": "meditations-long-03-003-003",
+      "book": 3,
+      "first": 3,
+      "last": 3,
+      "start": 167884,
+      "end": 168896,
+      "sha256": "2a31f309b7ec350fc507c7cb8b610dc45d89a9f455a6f087abd1bad9e0f0aafa"
+    },
+    {
+      "id": "meditations-long-03-004-004",
+      "book": 3,
+      "first": 4,
+      "last": 4,
+      "start": 168896,
+      "end": 171635,
+      "sha256": "cc6988f7b6bbb8ea6a1f5449c70d61534c549130ffa7797d3bbf683f42682624"
+    },
+    {
+      "id": "meditations-long-03-005-005",
+      "book": 3,
+      "first": 5,
+      "last": 5,
+      "start": 171635,
+      "end": 172349,
+      "sha256": "6c1381f181acf6bbf79d9f0172704288ba60d46049ff3fff5965c0551c34ae36"
+    },
+    {
+      "id": "meditations-long-03-006-006",
+      "book": 3,
+      "first": 6,
+      "last": 6,
+      "start": 172349,
+      "end": 174120,
+      "sha256": "17db310276e6186a6e60c3a3d79e30cc6f3c5fd301b42f7cbb89ac5207272d38"
+    },
+    {
+      "id": "meditations-long-03-007-007",
+      "book": 3,
+      "first": 7,
+      "last": 7,
+      "start": 174120,
+      "end": 175095,
+      "sha256": "eeb77fb6398511ad62c9d37c0261962d9b76c07dafc4069fcfc674dc4f0dad28"
+    },
+    {
+      "id": "meditations-long-03-008-008",
+      "book": 3,
+      "first": 8,
+      "last": 8,
+      "start": 175095,
+      "end": 175589,
+      "sha256": "d137d3bedf3298d591c3189630118a6670bfe05e84f5dd3f9e5e5f3d7b765dd9"
+    },
+    {
+      "id": "meditations-long-03-009-011",
+      "book": 3,
+      "first": 9,
+      "last": 11,
+      "start": 175589,
+      "end": 178245,
+      "sha256": "3f52888e35549e59edf17532343b194a129ee6ff5a4fb58d35be0eae1606a8e0"
+    },
+    {
+      "id": "meditations-long-03-012-012",
+      "book": 3,
+      "first": 12,
+      "last": 12,
+      "start": 178245,
+      "end": 178760,
+      "sha256": "739f40f6fbbea155570b62d623d8a57cddc526b888d44bd6057482d53816e365"
+    },
+    {
+      "id": "meditations-long-03-013-013",
+      "book": 3,
+      "first": 13,
+      "last": 13,
+      "start": 178760,
+      "end": 179231,
+      "sha256": "fc678e25830ae9023956eff1c703562207c98033e22d6f0575b332e7e05c5205"
+    },
+    {
+      "id": "meditations-long-03-014-014",
+      "book": 3,
+      "first": 14,
+      "last": 14,
+      "start": 179231,
+      "end": 179914,
+      "sha256": "f952f75909b431746cf037a58ed15251c41669460d0b8bfb89a4defa2ddf3278"
+    },
+    {
+      "id": "meditations-long-03-015-015",
+      "book": 3,
+      "first": 15,
+      "last": 15,
+      "start": 179914,
+      "end": 180120,
+      "sha256": "b9ae50e7be8d328800afbf62f9fb15a991a14f8af8a1ac458b0f984eadc81ed4"
+    },
+    {
+      "id": "meditations-long-03-016-016",
+      "book": 3,
+      "first": 16,
+      "last": 16,
+      "start": 180120,
+      "end": 181596,
+      "sha256": "aa5bceafdf2918588132c59c1fc0ea9d9a8d37496fb7c02b6a4e94ab9a43a6d2"
+    },
+    {
+      "id": "meditations-long-04-001-001",
+      "book": 4,
+      "first": 1,
+      "last": 1,
+      "start": 181615,
+      "end": 182394,
+      "sha256": "58a2abbc178e8d622a82ba06c29468a4daca77fe3c4fa6a5e00a03554d6fc6d0"
+    },
+    {
+      "id": "meditations-long-04-002-002",
+      "book": 4,
+      "first": 2,
+      "last": 2,
+      "start": 182394,
+      "end": 182502,
+      "sha256": "40958c7bd10da1e4e465cfc7018bcfeedb70cbd89c0d3f45883939bfc93b7cf4"
+    },
+    {
+      "id": "meditations-long-04-003-003",
+      "book": 4,
+      "first": 3,
+      "last": 3,
+      "start": 182502,
+      "end": 185805,
+      "sha256": "7e9cedbd91c3989c42b034e64c3969988b5589805e3bb02f92ca249552cad9b1"
+    },
+    {
+      "id": "meditations-long-04-004-004",
+      "book": 4,
+      "first": 4,
+      "last": 4,
+      "start": 185805,
+      "end": 186849,
+      "sha256": "74fc796f0c8ca13f0e75db6759f4ca43a7fef35ef3d286688e02b7e4948e43ad"
+    },
+    {
+      "id": "meditations-long-04-005-005",
+      "book": 4,
+      "first": 5,
+      "last": 5,
+      "start": 186849,
+      "end": 187163,
+      "sha256": "98f968e4d4f23a4d78bab9285b9d1f23bf949005ba7a3825ac0038a5f26445aa"
+    },
+    {
+      "id": "meditations-long-04-006-006",
+      "book": 4,
+      "first": 6,
+      "last": 6,
+      "start": 187163,
+      "end": 187493,
+      "sha256": "082391d464064ec0f7c45648413a71544baa3412bfded809ab09d0cb7a63e1af"
+    },
+    {
+      "id": "meditations-long-04-007-007",
+      "book": 4,
+      "first": 7,
+      "last": 7,
+      "start": 187493,
+      "end": 187665,
+      "sha256": "2060433504c783978ac6b8417f0d321971ee935a4e6b679f9b302285c90ed0c8"
+    },
+    {
+      "id": "meditations-long-04-008-008",
+      "book": 4,
+      "first": 8,
+      "last": 8,
+      "start": 187665,
+      "end": 187814,
+      "sha256": "83b0ececce39d4355e6b4bd9b3ef0731e4eeeb57f40d33597ea914492b191296"
+    },
+    {
+      "id": "meditations-long-04-009-010",
+      "book": 4,
+      "first": 9,
+      "last": 10,
+      "start": 187814,
+      "end": 188409,
+      "sha256": "f9ba1b52b25410ed3eeb505c85bc08bf2d2108daf307eab1fa4340f0c01a0f10"
+    },
+    {
+      "id": "meditations-long-04-011-011",
+      "book": 4,
+      "first": 11,
+      "last": 11,
+      "start": 188409,
+      "end": 188561,
+      "sha256": "731e1a308c045e4748e8641bc99a5bda4ff46970ce4839bb4888ba746ff5cf9f"
+    },
+    {
+      "id": "meditations-long-04-012-012",
+      "book": 4,
+      "first": 12,
+      "last": 12,
+      "start": 188561,
+      "end": 189036,
+      "sha256": "0ad76e310e25b3809b1c6ae2d4524d59716e3f9b343db15f24f27f5dd134022f"
+    },
+    {
+      "id": "meditations-long-04-013-013",
+      "book": 4,
+      "first": 13,
+      "last": 13,
+      "start": 189036,
+      "end": 189159,
+      "sha256": "ebb9bdb8cbf8062ebbe09f560d9812e8f1c1a7abe1672d77116a38aaf2d0382e"
+    },
+    {
+      "id": "meditations-long-04-014-015",
+      "book": 4,
+      "first": 14,
+      "last": 15,
+      "start": 189159,
+      "end": 189453,
+      "sha256": "5cad1c35594b1ebc71669b8bb1659190c4272784984c09cca99733382b767fd3"
+    },
+    {
+      "id": "meditations-long-04-016-016",
+      "book": 4,
+      "first": 16,
+      "last": 16,
+      "start": 189453,
+      "end": 189614,
+      "sha256": "7d6d01a9bfff225824c75a12ac8873b672a255d1497d9a88b4efd12307854d53"
+    },
+    {
+      "id": "meditations-long-04-017-017",
+      "book": 4,
+      "first": 17,
+      "last": 17,
+      "start": 189614,
+      "end": 189760,
+      "sha256": "6bd5d5f9a61b1498e59f3db2eba8505e9a2794de1ac7f2596b74a80d1c036bfd"
+    },
+    {
+      "id": "meditations-long-04-018-018",
+      "book": 4,
+      "first": 18,
+      "last": 18,
+      "start": 189760,
+      "end": 190059,
+      "sha256": "610a26f5021982d18d9496be6bc93e1ab159bbf54e3bb8ece167082904fa3246"
+    },
+    {
+      "id": "meditations-long-04-019-019",
+      "book": 4,
+      "first": 19,
+      "last": 19,
+      "start": 190059,
+      "end": 190743,
+      "sha256": "16695ee4c1dfb978eed65ee6e22fc14ebcb5ee452e82f915eb1073a58c670f34"
+    },
+    {
+      "id": "meditations-long-04-020-020",
+      "book": 4,
+      "first": 20,
+      "last": 20,
+      "start": 190743,
+      "end": 191481,
+      "sha256": "6b5ced35ecc895abe0aabda102c5164960971249339dde43a635f32446cb1458"
+    },
+    {
+      "id": "meditations-long-04-021-021",
+      "book": 4,
+      "first": 21,
+      "last": 21,
+      "start": 191481,
+      "end": 192760,
+      "sha256": "76c5c35b3f785b232fd041a0c602e709ba87bc2f2f907c43a915bdf544cb0035"
+    },
+    {
+      "id": "meditations-long-04-022-022",
+      "book": 4,
+      "first": 22,
+      "last": 22,
+      "start": 192760,
+      "end": 192939,
+      "sha256": "60c382f9952d7dde2b56f877f2a279ecc593716caf59bca413ff9dc685461725"
+    },
+    {
+      "id": "meditations-long-04-023-023",
+      "book": 4,
+      "first": 23,
+      "last": 23,
+      "start": 192939,
+      "end": 193313,
+      "sha256": "5e9c7d111a7e0051b89c6f72617e2390b8f29281f3ba0681a476f6ff3dca63a6"
+    },
+    {
+      "id": "meditations-long-04-024-024",
+      "book": 4,
+      "first": 24,
+      "last": 24,
+      "start": 193313,
+      "end": 194063,
+      "sha256": "96317eee0b31adeb0a130d8ffabd3cb9ce050cce14325ee9272596d7495fc605"
+    },
+    {
+      "id": "meditations-long-04-025-026",
+      "book": 4,
+      "first": 25,
+      "last": 26,
+      "start": 194063,
+      "end": 194702,
+      "sha256": "26fe92933c38b255ae7cbc2f782c0b1eba70bbb7814f0a381ba2e505c8861715"
+    },
+    {
+      "id": "meditations-long-04-027-027",
+      "book": 4,
+      "first": 27,
+      "last": 27,
+      "start": 194702,
+      "end": 195104,
+      "sha256": "5baeedfcf130a9d41e7d67013231c0d3efd0a4373db648b0f80e99b76e89810c"
+    },
+    {
+      "id": "meditations-long-04-028-029",
+      "book": 4,
+      "first": 28,
+      "last": 29,
+      "start": 195104,
+      "end": 195946,
+      "sha256": "f4def4ede288fa7f8d114861bb497ae1ce1ea0aba2a60dce1b8acc12e490ab4f"
+    },
+    {
+      "id": "meditations-long-04-030-030",
+      "book": 4,
+      "first": 30,
+      "last": 30,
+      "start": 195946,
+      "end": 196193,
+      "sha256": "857bcd211ec369095ecb846ce27d64b28806f7c4c00948fcafaabb69e20ce26b"
+    },
+    {
+      "id": "meditations-long-04-031-031",
+      "book": 4,
+      "first": 31,
+      "last": 31,
+      "start": 196193,
+      "end": 196455,
+      "sha256": "6d4579050eaf7f28e6161fd08c1537c86a650b569a1c0998e8ace9192cf702af"
+    },
+    {
+      "id": "meditations-long-04-032-032",
+      "book": 4,
+      "first": 32,
+      "last": 32,
+      "start": 196455,
+      "end": 197605,
+      "sha256": "df2784ea11564b6b2dba95f5e80c50addd43a154af1b035295faca9e7bf5c051"
+    },
+    {
+      "id": "meditations-long-04-033-033",
+      "book": 4,
+      "first": 33,
+      "last": 33,
+      "start": 197605,
+      "end": 198511,
+      "sha256": "ce0661d5b92fdf51fe93d5bf4dff514ffb16e7581a29e6561c6a3dace960f984"
+    },
+    {
+      "id": "meditations-long-04-034-034",
+      "book": 4,
+      "first": 34,
+      "last": 34,
+      "start": 198511,
+      "end": 198643,
+      "sha256": "a6e270f8d68790b68a5e1b4e12d976e3235c6633597951e5a4669a5f049e1c1e"
+    },
+    {
+      "id": "meditations-long-04-035-035",
+      "book": 4,
+      "first": 35,
+      "last": 35,
+      "start": 198643,
+      "end": 198737,
+      "sha256": "7265f879a534f1a26e35cc6371da13a10da6cd18dc6ab52701e327678923c494"
+    },
+    {
+      "id": "meditations-long-04-036-036",
+      "book": 4,
+      "first": 36,
+      "last": 36,
+      "start": 198737,
+      "end": 199151,
+      "sha256": "c7f72b8817df512511346dafedd674fe391265f066061dea763a2d0cb6a3e68b"
+    },
+    {
+      "id": "meditations-long-04-037-037",
+      "book": 4,
+      "first": 37,
+      "last": 37,
+      "start": 199151,
+      "end": 199382,
+      "sha256": "8dde617b8acde811fdb00deebbd3ca55a4fa8a1c72f8f8b75f92d45519e6a15f"
+    },
+    {
+      "id": "meditations-long-04-038-038",
+      "book": 4,
+      "first": 38,
+      "last": 38,
+      "start": 199382,
+      "end": 199506,
+      "sha256": "fa30d86bb0d1ba25ab7fc644b555c9ec93e0134caf93a58c8cb7714deb1670c6"
+    },
+    {
+      "id": "meditations-long-04-039-039",
+      "book": 4,
+      "first": 39,
+      "last": 39,
+      "start": 199506,
+      "end": 200281,
+      "sha256": "bb9054c31840d61591b4b0ce4b929120a964d708b8ccc7614b8e114486e89f72"
+    },
+    {
+      "id": "meditations-long-04-040-040",
+      "book": 4,
+      "first": 40,
+      "last": 40,
+      "start": 200281,
+      "end": 200679,
+      "sha256": "b0227b760718c96974a7302a562157ebc46e929cf712d116cc4291c0de2782f2"
+    },
+    {
+      "id": "meditations-long-04-041-041",
+      "book": 4,
+      "first": 41,
+      "last": 41,
+      "start": 200679,
+      "end": 200771,
+      "sha256": "d9e1204e8375bc34b8dfd08e22451007e0a5f396d08035eb9cdf2a8839568a4d"
+    },
+    {
+      "id": "meditations-long-04-042-042",
+      "book": 4,
+      "first": 42,
+      "last": 42,
+      "start": 200771,
+      "end": 200883,
+      "sha256": "a78c55367c22f0e050dd29198aa780943bc9463b2115abdc988a5bf16b96cf18"
+    },
+    {
+      "id": "meditations-long-04-043-043",
+      "book": 4,
+      "first": 43,
+      "last": 43,
+      "start": 200883,
+      "end": 201096,
+      "sha256": "a3c2d0eea9edf798149a04e5c8aada7cfa4b8645d8b4115b1bb1e69e5f2cb6a3"
+    },
+    {
+      "id": "meditations-long-04-044-044",
+      "book": 4,
+      "first": 44,
+      "last": 44,
+      "start": 201096,
+      "end": 201315,
+      "sha256": "0aeb8faeb5c7bdfad3aefbcf3b601cfaae546d31f160ab837551a67fc9eed504"
+    },
+    {
+      "id": "meditations-long-04-045-045",
+      "book": 4,
+      "first": 45,
+      "last": 45,
+      "start": 201315,
+      "end": 201769,
+      "sha256": "7c48e3e514631bad6f7391fb563564260e380014ffc5136acdd9fdbf4c9db930"
+    },
+    {
+      "id": "meditations-long-04-046-046",
+      "book": 4,
+      "first": 46,
+      "last": 46,
+      "start": 201769,
+      "end": 202440,
+      "sha256": "35076973ea02ad026ac8acb5f08b0c99bfbfe941ee6ac2593af7cc3f90713cd0"
+    },
+    {
+      "id": "meditations-long-04-047-047",
+      "book": 4,
+      "first": 47,
+      "last": 47,
+      "start": 202440,
+      "end": 202805,
+      "sha256": "0c3541f9542cda3e2f248fdf430d7cfde8fef29fdeca50fb21b1669f490d9e49"
+    },
+    {
+      "id": "meditations-long-04-048-048",
+      "book": 4,
+      "first": 48,
+      "last": 48,
+      "start": 202805,
+      "end": 204015,
+      "sha256": "f7e7094b0f303cff2d7d76ace755ba18a2c468d918e017c803ceaa6e52724487"
+    },
+    {
+      "id": "meditations-long-04-049-049",
+      "book": 4,
+      "first": 49,
+      "last": 49,
+      "start": 204015,
+      "end": 205265,
+      "sha256": "c291166385ac77e3d4cace19c8acebc73057909260571fd0f3b2570329e2f013"
+    },
+    {
+      "id": "meditations-long-04-050-050",
+      "book": 4,
+      "first": 50,
+      "last": 50,
+      "start": 205265,
+      "end": 206648,
+      "sha256": "ffe309cc34d949cec812a44b9d411b7762ed622715d2190fc504cca4a77ac387"
+    },
+    {
+      "id": "meditations-long-04-051-051",
+      "book": 4,
+      "first": 51,
+      "last": 51,
+      "start": 206648,
+      "end": 206893,
+      "sha256": "2cf052058bff1d3bb7bd25fbb2fdd65f5286fba4d2ea21ffd2ca42f655e8c8de"
+    },
+    {
+      "id": "meditations-long-05-001-001",
+      "book": 5,
+      "first": 1,
+      "last": 1,
+      "start": 206911,
+      "end": 208569,
+      "sha256": "93be186b32e7051fd25778abecc7787881abb4c7edc00ebfceb133d9ff56280f"
+    },
+    {
+      "id": "meditations-long-05-002-002",
+      "book": 5,
+      "first": 2,
+      "last": 2,
+      "start": 208569,
+      "end": 208713,
+      "sha256": "8c01e4360e8fc21dc97b26615dce04533b2700c6afa46d42ee410ee613391be7"
+    },
+    {
+      "id": "meditations-long-05-003-003",
+      "book": 5,
+      "first": 3,
+      "last": 3,
+      "start": 208713,
+      "end": 209186,
+      "sha256": "39d31023697f70b3e92d8a783843a61123c305c4ef719f37592c286cf89bf89d"
+    },
+    {
+      "id": "meditations-long-05-004-004",
+      "book": 5,
+      "first": 4,
+      "last": 4,
+      "start": 209186,
+      "end": 209623,
+      "sha256": "75b90168380325de55f55ecb2ba6d601309cadba4264f0239d7e889614123634"
+    },
+    {
+      "id": "meditations-long-05-005-005",
+      "book": 5,
+      "first": 5,
+      "last": 5,
+      "start": 209623,
+      "end": 210777,
+      "sha256": "1b40c28d6f9a97cb36c5c7fd7215f3a8fe9238f4e60b59daa629c80e565bb020"
+    },
+    {
+      "id": "meditations-long-05-006-006",
+      "book": 5,
+      "first": 6,
+      "last": 6,
+      "start": 210777,
+      "end": 212172,
+      "sha256": "30339c4cface2a8719fef620eb768aa6d9e3ffeaf261e64399187983ace7104f"
+    },
+    {
+      "id": "meditations-long-05-007-007",
+      "book": 5,
+      "first": 7,
+      "last": 7,
+      "start": 212172,
+      "end": 212390,
+      "sha256": "d1a31b0196244aaa8daca444f705cf4d2d93a2cc8ba80dd749ebff4cf7456799"
+    },
+    {
+      "id": "meditations-long-05-008-008",
+      "book": 5,
+      "first": 8,
+      "last": 8,
+      "start": 212390,
+      "end": 215256,
+      "sha256": "c13fe33ef244798e7aabfbc12a88b170682a8ca6f74f58901f03ac1e130fd857"
+    },
+    {
+      "id": "meditations-long-05-009-009",
+      "book": 5,
+      "first": 9,
+      "last": 9,
+      "start": 215256,
+      "end": 216396,
+      "sha256": "438554a860cfbeaed540cd628c6e7cad67a9fc8c45da719515dbdc2e9e14c964"
+    },
+    {
+      "id": "meditations-long-05-010-010",
+      "book": 5,
+      "first": 10,
+      "last": 10,
+      "start": 216396,
+      "end": 217700,
+      "sha256": "280aefe871236579c9e7e7f9c9fd0d9f671ea0cf7ada58ddfb7676ea6d3795e2"
+    },
+    {
+      "id": "meditations-long-05-011-011",
+      "book": 5,
+      "first": 11,
+      "last": 11,
+      "start": 217700,
+      "end": 218038,
+      "sha256": "ca3be8512197804c770e755260f9deb9cca370f2006fd31d29d0deafb937bee6"
+    },
+    {
+      "id": "meditations-long-05-012-015",
+      "book": 5,
+      "first": 12,
+      "last": 15,
+      "start": 218038,
+      "end": 220988,
+      "sha256": "4ae7d13b4677db511c3307bf4e704df665cf9804d55f86de8bbd0f3c163278c0"
+    },
+    {
+      "id": "meditations-long-05-016-016",
+      "book": 5,
+      "first": 16,
+      "last": 16,
+      "start": 220988,
+      "end": 221954,
+      "sha256": "d4ca930db31e1f20a385bdb72e64ede5a555bafe375419bac78e5a1e197c2e4e"
+    },
+    {
+      "id": "meditations-long-05-017-020",
+      "book": 5,
+      "first": 17,
+      "last": 20,
+      "start": 221954,
+      "end": 223371,
+      "sha256": "913e4310c6d29aa8cd168aa972841647d809e622da4e48411c544ba74a7318c8"
+    },
+    {
+      "id": "meditations-long-05-021-021",
+      "book": 5,
+      "first": 21,
+      "last": 21,
+      "start": 223371,
+      "end": 223706,
+      "sha256": "33c32f682771d51d368d259301f164c7ff95ef54b71656e0cd7e8bc95194e40d"
+    },
+    {
+      "id": "meditations-long-05-022-022",
+      "book": 5,
+      "first": 22,
+      "last": 22,
+      "start": 223706,
+      "end": 224015,
+      "sha256": "799dc092c96b284cf3a735d63fe83241b2cf8e42b8d99b3d43d4785b9219c77f"
+    },
+    {
+      "id": "meditations-long-05-023-023",
+      "book": 5,
+      "first": 23,
+      "last": 23,
+      "start": 224015,
+      "end": 224642,
+      "sha256": "1eafb8a049cfd7179e05a4814613dac229c33c07cb1795ac86a42711a3f4694e"
+    },
+    {
+      "id": "meditations-long-05-024-024",
+      "book": 5,
+      "first": 24,
+      "last": 24,
+      "start": 224642,
+      "end": 224895,
+      "sha256": "fa1aaf1d23323d870b5fe5a311e49ad6323dd9595225ad8b1a2c6081fa308e38"
+    },
+    {
+      "id": "meditations-long-05-025-025",
+      "book": 5,
+      "first": 25,
+      "last": 25,
+      "start": 224895,
+      "end": 225099,
+      "sha256": "e3fb1ddb22b5f48bcc8d57300db662aadc2658c03e898a230c16b0541f815d15"
+    },
+    {
+      "id": "meditations-long-05-026-026",
+      "book": 5,
+      "first": 26,
+      "last": 26,
+      "start": 225099,
+      "end": 225641,
+      "sha256": "ab0e7fef75485a664df66eb665c33c7d2030e947cf6ff6fca73f1951e24a04a4"
+    },
+    {
+      "id": "meditations-long-05-027-027",
+      "book": 5,
+      "first": 27,
+      "last": 27,
+      "start": 225641,
+      "end": 225979,
+      "sha256": "c92c5e34af6ddc1278a59a0d8ebe86061cf54e45589b7d806cf13a9b5dceb6b4"
+    },
+    {
+      "id": "meditations-long-05-028-029",
+      "book": 5,
+      "first": 28,
+      "last": 29,
+      "start": 225979,
+      "end": 227562,
+      "sha256": "31694eeea6957578b12feea8990f447da47cc00fe4f3ac052c0c36fef2013a2b"
+    },
+    {
+      "id": "meditations-long-05-030-030",
+      "book": 5,
+      "first": 30,
+      "last": 30,
+      "start": 227562,
+      "end": 227922,
+      "sha256": "6f4590cbb40c19bfcc08b8f6b557a735280b1838c68ab3a04159234de980caea"
+    },
+    {
+      "id": "meditations-long-05-031-031",
+      "book": 5,
+      "first": 31,
+      "last": 31,
+      "start": 227922,
+      "end": 228674,
+      "sha256": "6a293704913cf2dc71c38b8a240ceaf2573a74a3d78d2ec56a42d4d6b9000629"
+    },
+    {
+      "id": "meditations-long-05-032-032",
+      "book": 5,
+      "first": 32,
+      "last": 32,
+      "start": 228674,
+      "end": 228966,
+      "sha256": "3c5f35ac6fbbf61f813e2b2071f4d35ad71c8f6046043c4a97236d0e9c936aa7"
+    },
+    {
+      "id": "meditations-long-05-033-033",
+      "book": 5,
+      "first": 33,
+      "last": 33,
+      "start": 228966,
+      "end": 230443,
+      "sha256": "4abc978e0fae5cb0a018635b5ae61348831d2e6156b7bb7820678ea5b5c44fac"
+    },
+    {
+      "id": "meditations-long-05-034-035",
+      "book": 5,
+      "first": 34,
+      "last": 35,
+      "start": 230443,
+      "end": 231048,
+      "sha256": "0b910e321e9131d73ee1db68e1dbbdd829cda206f86eb610f42c90861d20cda6"
+    },
+    {
+      "id": "meditations-long-05-036-036",
+      "book": 5,
+      "first": 36,
+      "last": 36,
+      "start": 231048,
+      "end": 232275,
+      "sha256": "003875377d94816d490ab1da055417c4779cc9910fb1e7256cf4a710e76edb1e"
+    },
+    {
+      "id": "meditations-long-06-001-001",
+      "book": 6,
+      "first": 1,
+      "last": 1,
+      "start": 232294,
+      "end": 232577,
+      "sha256": "5c18d9792be9ec4e2b1b0b96dc0588805027f2287aedd78991dda246da1f21d3"
+    },
+    {
+      "id": "meditations-long-06-002-002",
+      "book": 6,
+      "first": 2,
+      "last": 2,
+      "start": 232577,
+      "end": 232961,
+      "sha256": "ae155e96b71bff806758d36fbce23f854f55b89dbf230a2cf7594f0d300e79b8"
+    },
+    {
+      "id": "meditations-long-06-003-003",
+      "book": 6,
+      "first": 3,
+      "last": 3,
+      "start": 232961,
+      "end": 233053,
+      "sha256": "b05d42700f272b2eb5fdaa99b80f91e9685239bbed174ba4b867b56b58bd8bf3"
+    },
+    {
+      "id": "meditations-long-06-004-004",
+      "book": 6,
+      "first": 4,
+      "last": 4,
+      "start": 233053,
+      "end": 233194,
+      "sha256": "ab9528de25882d20a420ab681a52553aadbc141a0cd68b1ec0f5bdcc1f288a8f"
+    },
+    {
+      "id": "meditations-long-06-005-005",
+      "book": 6,
+      "first": 5,
+      "last": 5,
+      "start": 233194,
+      "end": 233310,
+      "sha256": "ae7009c36a335cb7777b59852234b8c0d7ef8baf9ff5978e1105123f546828ed"
+    },
+    {
+      "id": "meditations-long-06-006-006",
+      "book": 6,
+      "first": 6,
+      "last": 6,
+      "start": 233310,
+      "end": 233390,
+      "sha256": "b04b607508126fd8d1dcc2a1e0f2e62e84a50704766b4955baac30db4dbee17c"
+    },
+    {
+      "id": "meditations-long-06-007-007",
+      "book": 6,
+      "first": 7,
+      "last": 7,
+      "start": 233390,
+      "end": 233511,
+      "sha256": "80196357f66a1a2285a7256ba2606ea42ae2851001c19d5f775adb65f24c0c27"
+    },
+    {
+      "id": "meditations-long-06-008-008",
+      "book": 6,
+      "first": 8,
+      "last": 8,
+      "start": 233511,
+      "end": 233727,
+      "sha256": "5b65abd241e3d418e611347855d5e20dd12c04eba0f887010875ac48711289e4"
+    },
+    {
+      "id": "meditations-long-06-009-009",
+      "book": 6,
+      "first": 9,
+      "last": 9,
+      "start": 233727,
+      "end": 234085,
+      "sha256": "09e815bc371a28db613b9f5c49871d210ab537648aa88fb8feecca3bd44025f3"
+    },
+    {
+      "id": "meditations-long-06-010-010",
+      "book": 6,
+      "first": 10,
+      "last": 10,
+      "start": 234085,
+      "end": 234607,
+      "sha256": "e712a9f249bb82c7411ebb37ef4d5e87326fc90059ea1e8a60e12a064038e850"
+    },
+    {
+      "id": "meditations-long-06-011-011",
+      "book": 6,
+      "first": 11,
+      "last": 11,
+      "start": 234607,
+      "end": 234867,
+      "sha256": "d0699de5f656943543d406712968a76927c686ae188a357d169756f8883478eb"
+    },
+    {
+      "id": "meditations-long-06-012-012",
+      "book": 6,
+      "first": 12,
+      "last": 12,
+      "start": 234867,
+      "end": 235276,
+      "sha256": "e26c3dcf6e3af4172bf6d2e9709dfe0a3c30b936fc5a2643a2f7e4f102f4220c"
+    },
+    {
+      "id": "meditations-long-06-013-013",
+      "book": 6,
+      "first": 13,
+      "last": 13,
+      "start": 235276,
+      "end": 236196,
+      "sha256": "a6d7a8c76934417b0521b82b28e307531ccc606b1383b47ee181c691ab4de912"
+    },
+    {
+      "id": "meditations-long-06-014-014",
+      "book": 6,
+      "first": 14,
+      "last": 14,
+      "start": 236196,
+      "end": 237196,
+      "sha256": "d64c74fbb65eab5a7cc5321b12a48d5b995a282e0d304e2ab4063baaf2367c39"
+    },
+    {
+      "id": "meditations-long-06-015-015",
+      "book": 6,
+      "first": 15,
+      "last": 15,
+      "start": 237196,
+      "end": 238191,
+      "sha256": "3336ccb17f38d7e8d090f503e0064dda565fdc7b9a4b2c1048f08a6f8bad2944"
+    },
+    {
+      "id": "meditations-long-06-016-016",
+      "book": 6,
+      "first": 16,
+      "last": 16,
+      "start": 238191,
+      "end": 240122,
+      "sha256": "3e71ca84f66e24e9cbcdcfdea9fbd9bb829507d52c2381757ad56a522f9d3d81"
+    },
+    {
+      "id": "meditations-long-06-017-017",
+      "book": 6,
+      "first": 17,
+      "last": 17,
+      "start": 240122,
+      "end": 240335,
+      "sha256": "f8e6f6344a31c38fa54c2e90cc416e0fa0ebe8fc62eb671d3241ee8f6cff7911"
+    },
+    {
+      "id": "meditations-long-06-018-018",
+      "book": 6,
+      "first": 18,
+      "last": 18,
+      "start": 240335,
+      "end": 240707,
+      "sha256": "bef8362b887b89234db8d5f7c4d7442d1d65c33ec10ce9225aecd06e82123228"
+    },
+    {
+      "id": "meditations-long-06-019-019",
+      "book": 6,
+      "first": 19,
+      "last": 19,
+      "start": 240707,
+      "end": 240931,
+      "sha256": "a71b35b621cb212bfd3ea586e6ff964bd7e8a94d8c0b9da1d7f3f0e8b167623e"
+    },
+    {
+      "id": "meditations-long-06-020-020",
+      "book": 6,
+      "first": 20,
+      "last": 20,
+      "start": 240931,
+      "end": 241573,
+      "sha256": "ab6b0e14369395b9e8329f1238fa7a74615ddca97c0b411c587ac13a3377c6a1"
+    },
+    {
+      "id": "meditations-long-06-021-021",
+      "book": 6,
+      "first": 21,
+      "last": 21,
+      "start": 241573,
+      "end": 241798,
+      "sha256": "0fd7aa10fa9c44fd685135df67ab3674a7c3159cb4eec299eda4c52a6838ec0e"
+    },
+    {
+      "id": "meditations-long-06-022-022",
+      "book": 6,
+      "first": 22,
+      "last": 22,
+      "start": 241798,
+      "end": 241967,
+      "sha256": "8fe08b906266f776914b5f519ae9e2c3eb8e1fe192334a9216ae6da4ce5df8e6"
+    },
+    {
+      "id": "meditations-long-06-023-023",
+      "book": 6,
+      "first": 23,
+      "last": 23,
+      "start": 241967,
+      "end": 242403,
+      "sha256": "a705f1cade94143b20988ab8370fad34b894c6870563d5345f1fa80d17d9cf8b"
+    },
+    {
+      "id": "meditations-long-06-024-024",
+      "book": 6,
+      "first": 24,
+      "last": 24,
+      "start": 242403,
+      "end": 242620,
+      "sha256": "21d9dcd738caaeb39603c13aeec6b99f4e28bf1c9d6718ee210cfea9918d2d46"
+    },
+    {
+      "id": "meditations-long-06-025-025",
+      "book": 6,
+      "first": 25,
+      "last": 25,
+      "start": 242620,
+      "end": 242959,
+      "sha256": "b11c245fd3f6e41c9928bb67435387be19aa0325d6b692a3c4faedd66d2ea8ad"
+    },
+    {
+      "id": "meditations-long-06-026-026",
+      "book": 6,
+      "first": 26,
+      "last": 26,
+      "start": 242959,
+      "end": 243493,
+      "sha256": "52c29e54239b1a4ed93a14435bfbb20ec99760d07fb24655af50b60627ad090c"
+    },
+    {
+      "id": "meditations-long-06-027-027",
+      "book": 6,
+      "first": 27,
+      "last": 27,
+      "start": 243493,
+      "end": 243929,
+      "sha256": "275d0e4372d405c2c1fae702948e39a1a0aa4cdc3c1dd075b2836bec16723451"
+    },
+    {
+      "id": "meditations-long-06-028-028",
+      "book": 6,
+      "first": 28,
+      "last": 28,
+      "start": 243929,
+      "end": 244150,
+      "sha256": "cb1a6c63b50adfed34504f0ac99821387dab196354e978cfd5e4e2103a0dbe5d"
+    },
+    {
+      "id": "meditations-long-06-029-029",
+      "book": 6,
+      "first": 29,
+      "last": 29,
+      "start": 244150,
+      "end": 244256,
+      "sha256": "f311e8ef0b7b2fed72f3fcf57482b01f4a98475d3bd3a5d9ec6bfa9bfb7e82a4"
+    },
+    {
+      "id": "meditations-long-06-030-030",
+      "book": 6,
+      "first": 30,
+      "last": 30,
+      "start": 244256,
+      "end": 246074,
+      "sha256": "c53f9171a38a8b82c2760fc4de854add54b0935054d885e9192cda66d7b70363"
+    },
+    {
+      "id": "meditations-long-06-031-031",
+      "book": 6,
+      "first": 31,
+      "last": 31,
+      "start": 246074,
+      "end": 246350,
+      "sha256": "a086cbe2a868dc64fb5effb7a74dba1919bba549f68d6e6eb333a131d7333494"
+    },
+    {
+      "id": "meditations-long-06-032-032",
+      "book": 6,
+      "first": 32,
+      "last": 32,
+      "start": 246350,
+      "end": 246866,
+      "sha256": "37c08789cd5157c4004594aad4005fb9a632049b7222b431f1838ca7ef5ac27d"
+    },
+    {
+      "id": "meditations-long-06-033-033",
+      "book": 6,
+      "first": 33,
+      "last": 33,
+      "start": 246866,
+      "end": 247210,
+      "sha256": "507fe026da53641cffdebe053d2c118d6fab643b7603dde3ba6594d82e7bf662"
+    },
+    {
+      "id": "meditations-long-06-034-034",
+      "book": 6,
+      "first": 34,
+      "last": 34,
+      "start": 247210,
+      "end": 247288,
+      "sha256": "2c7b8a15cdcc8f50e783c39b2890cc0d2c273c7d6764535ae96e571d3c2a9638"
+    },
+    {
+      "id": "meditations-long-06-035-035",
+      "book": 6,
+      "first": 35,
+      "last": 35,
+      "start": 247288,
+      "end": 247730,
+      "sha256": "8f3fecc744bd487b643407acc4b77b79e732966fb9d478e35dc4ec7b7d14362d"
+    },
+    {
+      "id": "meditations-long-06-036-036",
+      "book": 6,
+      "first": 36,
+      "last": 36,
+      "start": 247730,
+      "end": 248369,
+      "sha256": "1899e48bcbdecd0b09166768caca36bec1b16328ace088f3059db56931bddfcb"
+    },
+    {
+      "id": "meditations-long-06-037-037",
+      "book": 6,
+      "first": 37,
+      "last": 37,
+      "start": 248369,
+      "end": 248577,
+      "sha256": "e12ea3ad80f19ef70f61ac143d0edf3e43839c79219e7762771d4f27d235432f"
+    },
+    {
+      "id": "meditations-long-06-038-038",
+      "book": 6,
+      "first": 38,
+      "last": 38,
+      "start": 248577,
+      "end": 248953,
+      "sha256": "dd52eaa55c046b55854e8b138eb492cf6431de79204566e98eaeff127a27fae2"
+    },
+    {
+      "id": "meditations-long-06-039-039",
+      "book": 6,
+      "first": 39,
+      "last": 39,
+      "start": 248953,
+      "end": 249119,
+      "sha256": "01cfaf51ab2f65d2d958af99fa56140594c7b3615695481a3ced1fe51d3a05f8"
+    },
+    {
+      "id": "meditations-long-06-040-040",
+      "book": 6,
+      "first": 40,
+      "last": 40,
+      "start": 249119,
+      "end": 249647,
+      "sha256": "4f576cff6a12029d832fee280b4216579c34ac404cdca470380c6466c69479e1"
+    },
+    {
+      "id": "meditations-long-06-041-041",
+      "book": 6,
+      "first": 41,
+      "last": 41,
+      "start": 249647,
+      "end": 250665,
+      "sha256": "b7cc2b08123ab58343adefbdc82beeca67c25b789f645bb94f97fb814e14d5f3"
+    },
+    {
+      "id": "meditations-long-06-042-042",
+      "book": 6,
+      "first": 42,
+      "last": 42,
+      "start": 250665,
+      "end": 251596,
+      "sha256": "91191e08cceea4b22077af481180cef23ddb26eb6b15c9b9c06c3934e43972c7"
+    },
+    {
+      "id": "meditations-long-06-043-043",
+      "book": 6,
+      "first": 43,
+      "last": 43,
+      "start": 251596,
+      "end": 251830,
+      "sha256": "70dded2736bcb73b4002e9699ab8f877a8d45184fce410a7575d26b768eb0fff"
+    },
+    {
+      "id": "meditations-long-06-044-044",
+      "book": 6,
+      "first": 44,
+      "last": 44,
+      "start": 251830,
+      "end": 253154,
+      "sha256": "4d075c799567c27497aaa0f7dffe2b938f2d6292518c1b6d559da910375484ee"
+    },
+    {
+      "id": "meditations-long-06-045-045",
+      "book": 6,
+      "first": 45,
+      "last": 45,
+      "start": 253154,
+      "end": 253543,
+      "sha256": "a6f198c23fe5c5fd6625b4d86709a2f74dd192dcc9a4e0f6956f76e149bbbcf1"
+    },
+    {
+      "id": "meditations-long-06-046-046",
+      "book": 6,
+      "first": 46,
+      "last": 46,
+      "start": 253543,
+      "end": 253814,
+      "sha256": "f8812b49655736fe268f504f41c3a3db1921a617751a94c49c8bd388d223dc0b"
+    },
+    {
+      "id": "meditations-long-06-047-047",
+      "book": 6,
+      "first": 47,
+      "last": 47,
+      "start": 253814,
+      "end": 254796,
+      "sha256": "accf40fd353b8f62b43d30cae483ade52145bff21310d48e36867e41618cfdc9"
+    },
+    {
+      "id": "meditations-long-06-048-048",
+      "book": 6,
+      "first": 48,
+      "last": 48,
+      "start": 254796,
+      "end": 255256,
+      "sha256": "f1fab6b3f3be763e35c56fb838579ae7d607b20b4fa3ca41d07f7503526a512b"
+    },
+    {
+      "id": "meditations-long-06-049-049",
+      "book": 6,
+      "first": 49,
+      "last": 49,
+      "start": 255256,
+      "end": 255565,
+      "sha256": "ab1c2304dabf4f4764ef9ecee12aea0800f5fcbc1b42c50ebb0e7a89c65b7d00"
+    },
+    {
+      "id": "meditations-long-06-050-050",
+      "book": 6,
+      "first": 50,
+      "last": 50,
+      "start": 255565,
+      "end": 256153,
+      "sha256": "7be13adb901df5b7fae13bf5a952763c1b6bd332ba541a01503c44b39854d969"
+    },
+    {
+      "id": "meditations-long-06-051-051",
+      "book": 6,
+      "first": 51,
+      "last": 51,
+      "start": 256153,
+      "end": 256352,
+      "sha256": "9db74217410fb6311cf98191ab3d67d6d304f99159df2826202d7721e606a040"
+    },
+    {
+      "id": "meditations-long-06-052-052",
+      "book": 6,
+      "first": 52,
+      "last": 52,
+      "start": 256352,
+      "end": 256518,
+      "sha256": "9efeb3761cb2e92ab1e0ec45d12a313258bfeb7045d7b4ff795b2e7c05a12712"
+    },
+    {
+      "id": "meditations-long-06-053-053",
+      "book": 6,
+      "first": 53,
+      "last": 53,
+      "start": 256518,
+      "end": 256648,
+      "sha256": "07a231cc8d8ea740799bc1cbe495f34ca49a4746eb2d8d1d0badd7c0193dd64b"
+    },
+    {
+      "id": "meditations-long-06-054-054",
+      "book": 6,
+      "first": 54,
+      "last": 54,
+      "start": 256648,
+      "end": 256726,
+      "sha256": "20faa4939d6db93027a28c82d4d1af56965f638224ce7b9fa7debf485d671725"
+    },
+    {
+      "id": "meditations-long-06-055-055",
+      "book": 6,
+      "first": 55,
+      "last": 55,
+      "start": 256726,
+      "end": 256943,
+      "sha256": "e63c79ba7ff9cab6443d30ae8edcf492d26cebdaaf556f6e23e84ab777c45bc8"
+    },
+    {
+      "id": "meditations-long-06-056-056",
+      "book": 6,
+      "first": 56,
+      "last": 56,
+      "start": 256943,
+      "end": 257029,
+      "sha256": "4a3454b5510b6c8b03956c2f1f74751094c8fda4eb07427e2249288b36e11bd2"
+    },
+    {
+      "id": "meditations-long-06-057-057",
+      "book": 6,
+      "first": 57,
+      "last": 57,
+      "start": 257029,
+      "end": 257331,
+      "sha256": "f22509b280e1b004b39a99a61ade75b5ce5a5491a6e73289d8b4aef9ff6bfbd0"
+    },
+    {
+      "id": "meditations-long-06-058-058",
+      "book": 6,
+      "first": 58,
+      "last": 58,
+      "start": 257331,
+      "end": 257495,
+      "sha256": "a7755f9f94fd678bc347b84d673b45f03e912994e3581bc266ca882e5c82a22a"
+    },
+    {
+      "id": "meditations-long-06-059-059",
+      "book": 6,
+      "first": 59,
+      "last": 59,
+      "start": 257495,
+      "end": 257677,
+      "sha256": "96cf0b7374ebb05888a61a21002afb6d2cfc8aea67a0eb86b0f197f13001d843"
+    },
+    {
+      "id": "meditations-long-07-001-001",
+      "book": 7,
+      "first": 1,
+      "last": 1,
+      "start": 257697,
+      "end": 258133,
+      "sha256": "afc2db013f1a0faee97c2788c7f5f1451240b15b2eb3121864ed5d11a1123c8f"
+    },
+    {
+      "id": "meditations-long-07-002-002",
+      "book": 7,
+      "first": 2,
+      "last": 2,
+      "start": 258133,
+      "end": 258704,
+      "sha256": "ccbd20db65d9f07500072e582116a67d7cef393cf6211ea1a814fb6590f6eb50"
+    },
+    {
+      "id": "meditations-long-07-003-003",
+      "book": 7,
+      "first": 3,
+      "last": 3,
+      "start": 258704,
+      "end": 259192,
+      "sha256": "b798ce58aeaf345fb03017392df772a01442a33aedb4da2fb268e0e6f3017839"
+    },
+    {
+      "id": "meditations-long-07-004-004",
+      "book": 7,
+      "first": 4,
+      "last": 4,
+      "start": 259192,
+      "end": 259433,
+      "sha256": "72a99db69ec42641dc2df816b338488387256944fddacafe481fed3701bb1aa4"
+    },
+    {
+      "id": "meditations-long-07-005-005",
+      "book": 7,
+      "first": 5,
+      "last": 5,
+      "start": 259433,
+      "end": 260050,
+      "sha256": "c294ff9c33fbfa669d0f3cc7f2e1d034a67a5995f3e1322caac515a62d41a43f"
+    },
+    {
+      "id": "meditations-long-07-006-006",
+      "book": 7,
+      "first": 6,
+      "last": 6,
+      "start": 260050,
+      "end": 260203,
+      "sha256": "5be8df92a27e07a0ed1e5c497727631cdce29f51b45da8261cf1624689ec6943"
+    },
+    {
+      "id": "meditations-long-07-007-007",
+      "book": 7,
+      "first": 7,
+      "last": 7,
+      "start": 260203,
+      "end": 260439,
+      "sha256": "87f1184da88cf633ba45213d4eb2bc6520c2e4383e781b2ddc9cc1928b6038b2"
+    },
+    {
+      "id": "meditations-long-07-008-008",
+      "book": 7,
+      "first": 8,
+      "last": 8,
+      "start": 260439,
+      "end": 260611,
+      "sha256": "5761ff123d9144b79b8e97147a9bf6993744821c18ec96f13284e2ab29757193"
+    },
+    {
+      "id": "meditations-long-07-009-009",
+      "book": 7,
+      "first": 9,
+      "last": 9,
+      "start": 260611,
+      "end": 261181,
+      "sha256": "33ffad9310fe58a4c956acea6bacf02f8f3964dd32f80ef3d4d620a0fac1219f"
+    },
+    {
+      "id": "meditations-long-07-010-010",
+      "book": 7,
+      "first": 10,
+      "last": 10,
+      "start": 261181,
+      "end": 261403,
+      "sha256": "1619ffae79ec68038ac5f7bfd653655b321d4414c33f5661a38c4a08ee861b6f"
+    },
+    {
+      "id": "meditations-long-07-011-011",
+      "book": 7,
+      "first": 11,
+      "last": 11,
+      "start": 261403,
+      "end": 261495,
+      "sha256": "f7550b64d60c8c2184957bfe8ba71d3101279e5793095c4fcbed368b21668d19"
+    },
+    {
+      "id": "meditations-long-07-012-012",
+      "book": 7,
+      "first": 12,
+      "last": 12,
+      "start": 261495,
+      "end": 261544,
+      "sha256": "6b7af9dba29b02ea897c229dda186acccd5e5729aad1eb0702b13c35e153423e"
+    },
+    {
+      "id": "meditations-long-07-013-013",
+      "book": 7,
+      "first": 13,
+      "last": 13,
+      "start": 261544,
+      "end": 262321,
+      "sha256": "57c9fde0b081af30d85a6b1ab566a48615451dea1403cde2ba53207a892e90b5"
+    },
+    {
+      "id": "meditations-long-07-014-014",
+      "book": 7,
+      "first": 14,
+      "last": 14,
+      "start": 262321,
+      "end": 262596,
+      "sha256": "5c9d66b779302b533a83380d604f21c44830ca32de4f766f1df54fcabe502696"
+    },
+    {
+      "id": "meditations-long-07-015-015",
+      "book": 7,
+      "first": 15,
+      "last": 15,
+      "start": 262596,
+      "end": 262797,
+      "sha256": "58b41edb60e6e4f4796278ea3c75d5b7658e856e1a3a14e942274d869e022db1"
+    },
+    {
+      "id": "meditations-long-07-016-016",
+      "book": 7,
+      "first": 16,
+      "last": 16,
+      "start": 262797,
+      "end": 263543,
+      "sha256": "9b4f7ba46649ce0585b9fded57a5b7c9bffcbb28fa1fb4a0687a0038d973533c"
+    },
+    {
+      "id": "meditations-long-07-017-017",
+      "book": 7,
+      "first": 17,
+      "last": 17,
+      "start": 263543,
+      "end": 263823,
+      "sha256": "6676e5deb2634277512060cfecc5217f744d223e435bd7a6884537a42dc2157c"
+    },
+    {
+      "id": "meditations-long-07-018-018",
+      "book": 7,
+      "first": 18,
+      "last": 18,
+      "start": 263823,
+      "end": 264293,
+      "sha256": "bd4fea6daf0de50c2030b614b11e846aeb10c3472afaebeb91adf19b0fdf3e3b"
+    },
+    {
+      "id": "meditations-long-07-019-019",
+      "book": 7,
+      "first": 19,
+      "last": 19,
+      "start": 264293,
+      "end": 264691,
+      "sha256": "6da31fc7c67e3df248301042afddd0d6b2e8e28f36686681724d3a21a5392744"
+    },
+    {
+      "id": "meditations-long-07-020-020",
+      "book": 7,
+      "first": 20,
+      "last": 20,
+      "start": 264691,
+      "end": 264871,
+      "sha256": "db98ea839301915a2f2436d21904c4534861dd8bf3491370eafd66f1043bbfb0"
+    },
+    {
+      "id": "meditations-long-07-021-021",
+      "book": 7,
+      "first": 21,
+      "last": 21,
+      "start": 264871,
+      "end": 264963,
+      "sha256": "05803e04dfc9fa1191ba65d32151660f3ae43f2436e5148a5a87998952ad19ef"
+    },
+    {
+      "id": "meditations-long-07-022-022",
+      "book": 7,
+      "first": 22,
+      "last": 22,
+      "start": 264963,
+      "end": 265332,
+      "sha256": "3dff08616700f3bb6c9e918b0b95c5b6cdf9c3c74cacc92eea6c4a4d50585e4a"
+    },
+    {
+      "id": "meditations-long-07-023-023",
+      "book": 7,
+      "first": 23,
+      "last": 23,
+      "start": 265332,
+      "end": 265719,
+      "sha256": "64d06606dd30e8f5050bc0677cd5e300b326dc0de8e1234a20b683aadc655def"
+    },
+    {
+      "id": "meditations-long-07-024-024",
+      "book": 7,
+      "first": 24,
+      "last": 24,
+      "start": 265719,
+      "end": 266126,
+      "sha256": "93067f125f8ca45d12ae2b0536b8875c2c74843c5066d40e770d06fd30beeec9"
+    },
+    {
+      "id": "meditations-long-07-025-025",
+      "book": 7,
+      "first": 25,
+      "last": 25,
+      "start": 266126,
+      "end": 266360,
+      "sha256": "46e3f61a1d76fc13baa322f972b40fd727a689a774d45f748184ae3a6a620865"
+    },
+    {
+      "id": "meditations-long-07-026-026",
+      "book": 7,
+      "first": 26,
+      "last": 26,
+      "start": 266360,
+      "end": 266840,
+      "sha256": "a6dd6008cedd4464b7cdc2ffac31f1b25ad9a7ef7a8deff69053a0f87054fb59"
+    },
+    {
+      "id": "meditations-long-07-027-027",
+      "book": 7,
+      "first": 27,
+      "last": 27,
+      "start": 266840,
+      "end": 267233,
+      "sha256": "48355d422977cacbe82da3ea8f523ad0440c066c26b0f891ad961b661c55dd7e"
+    },
+    {
+      "id": "meditations-long-07-028-028",
+      "book": 7,
+      "first": 28,
+      "last": 28,
+      "start": 267233,
+      "end": 267402,
+      "sha256": "b341901a5b6b11ca9b64e8c2f40a87791befd6a31568f49d757beb15f460a610"
+    },
+    {
+      "id": "meditations-long-07-029-029",
+      "book": 7,
+      "first": 29,
+      "last": 29,
+      "start": 267402,
+      "end": 267750,
+      "sha256": "f7d7eaaba18acd892032151a221d7957c74f53996e3c36c41d20b373c5536eeb"
+    },
+    {
+      "id": "meditations-long-07-030-030",
+      "book": 7,
+      "first": 30,
+      "last": 30,
+      "start": 267750,
+      "end": 267894,
+      "sha256": "777870370a7953dd9c9d7f9403a6a0566f8e2931be453c0ddff02457459ff1d4"
+    },
+    {
+      "id": "meditations-long-07-031-031",
+      "book": 7,
+      "first": 31,
+      "last": 31,
+      "start": 267894,
+      "end": 268192,
+      "sha256": "6579a0d0cdb65202c571ddc1f070965aefbb95e280f44391cd4b8c5bc2d0e803"
+    },
+    {
+      "id": "meditations-long-07-032-032",
+      "book": 7,
+      "first": 32,
+      "last": 32,
+      "start": 268192,
+      "end": 268321,
+      "sha256": "124460ee8c036f074fde6accd733e984736238b4ed0cd9f749772412608d31f1"
+    },
+    {
+      "id": "meditations-long-07-033-033",
+      "book": 7,
+      "first": 33,
+      "last": 33,
+      "start": 268321,
+      "end": 268640,
+      "sha256": "b58a9a523d3531692fbc5d8e43419946bacc5a4729fdb4432fae3e0d40e91a2d"
+    },
+    {
+      "id": "meditations-long-07-034-034",
+      "book": 7,
+      "first": 34,
+      "last": 34,
+      "start": 268640,
+      "end": 268968,
+      "sha256": "e2251a646a513177f5fdfef24ea509b8dbc11339a984b8663876651d93134e9f"
+    },
+    {
+      "id": "meditations-long-07-035-040",
+      "book": 7,
+      "first": 35,
+      "last": 40,
+      "start": 268968,
+      "end": 270074,
+      "sha256": "aa2b6e3f6e16b1860d8e31180603740ffdd891bcea4cc7ed158e703f3986e48c"
+    },
+    {
+      "id": "meditations-long-07-041-045",
+      "book": 7,
+      "first": 41,
+      "last": 45,
+      "start": 270074,
+      "end": 271072,
+      "sha256": "705e6f62c17491721e801370197e09d922a3f5d7f0f18fc8c90079e5e679d412"
+    },
+    {
+      "id": "meditations-long-07-046-048",
+      "book": 7,
+      "first": 46,
+      "last": 48,
+      "start": 271072,
+      "end": 272710,
+      "sha256": "c34395b1eaacc6ab45fa64d5be128d8e994b2044b03fd263af1b9c4c5a32ee45"
+    },
+    {
+      "id": "meditations-long-07-049-049",
+      "book": 7,
+      "first": 49,
+      "last": 49,
+      "start": 272710,
+      "end": 273130,
+      "sha256": "abc97914375a22002e33b509e1460fc80f74c1ae3303101c14c5ee0052f01204"
+    },
+    {
+      "id": "meditations-long-07-050-051",
+      "book": 7,
+      "first": 50,
+      "last": 51,
+      "start": 273130,
+      "end": 273739,
+      "sha256": "68a0c82be64cf62c4754de4e513a799398f1dc5ad9b0d4530a7447a885f31022"
+    },
+    {
+      "id": "meditations-long-07-052-052",
+      "book": 7,
+      "first": 52,
+      "last": 52,
+      "start": 273739,
+      "end": 273960,
+      "sha256": "f4bf74beab19f98591eafddd9f1bdbc770a123b4c1e3cfa2b93bef0c2a809673"
+    },
+    {
+      "id": "meditations-long-07-053-053",
+      "book": 7,
+      "first": 53,
+      "last": 53,
+      "start": 273960,
+      "end": 274246,
+      "sha256": "00ee8cda58d58b3a7b9c938cc92d7e1b87a2fd6ccea38d3e995b04932036a310"
+    },
+    {
+      "id": "meditations-long-07-054-054",
+      "book": 7,
+      "first": 54,
+      "last": 54,
+      "start": 274246,
+      "end": 274515,
+      "sha256": "4f422419463980474ed414b481873d98c59b913f4a0bd237f13694f1f77ef200"
+    },
+    {
+      "id": "meditations-long-07-055-055",
+      "book": 7,
+      "first": 55,
+      "last": 55,
+      "start": 274515,
+      "end": 275753,
+      "sha256": "b719f7dd31762a49988489cbc4d6d6f19d3a75064e184acbd117ccbc5c56a387"
+    },
+    {
+      "id": "meditations-long-07-056-056",
+      "book": 7,
+      "first": 56,
+      "last": 56,
+      "start": 275753,
+      "end": 275912,
+      "sha256": "720f5b80b166acfa5687e163898468fa29741f0a1efcbfd999b9caedcb611e9b"
+    },
+    {
+      "id": "meditations-long-07-057-057",
+      "book": 7,
+      "first": 57,
+      "last": 57,
+      "start": 275912,
+      "end": 276028,
+      "sha256": "4942bb2cee38df57b1d5379b7903cda6cc7f36e3ff1b8c9bd6defd06f46bac8e"
+    },
+    {
+      "id": "meditations-long-07-058-058",
+      "book": 7,
+      "first": 58,
+      "last": 58,
+      "start": 276028,
+      "end": 276975,
+      "sha256": "ef53eed26f3704c177596cf2566ddc00c7907334f3e6151f872a5c76dd473833"
+    },
+    {
+      "id": "meditations-long-07-059-059",
+      "book": 7,
+      "first": 59,
+      "last": 59,
+      "start": 276975,
+      "end": 277079,
+      "sha256": "25b764002c9d989e10197229268943f290134b5176cf21991bc1c277ddc4c281"
+    },
+    {
+      "id": "meditations-long-07-060-060",
+      "book": 7,
+      "first": 60,
+      "last": 60,
+      "start": 277079,
+      "end": 277392,
+      "sha256": "8a782f6271e169ece4a23b49a6268ef217a4e60bac6ab5cefbc69d36678237e8"
+    },
+    {
+      "id": "meditations-long-07-061-061",
+      "book": 7,
+      "first": 61,
+      "last": 61,
+      "start": 277392,
+      "end": 277572,
+      "sha256": "f5bd987f606b03e5318ba8ad2950afe00c9d400d9d721febde537217499058aa"
+    },
+    {
+      "id": "meditations-long-07-062-062",
+      "book": 7,
+      "first": 62,
+      "last": 62,
+      "start": 277572,
+      "end": 277864,
+      "sha256": "d1c6a65888b5f7054ad4c6bc999a17ee603d81cf8384df3016a1d88a2f507a9c"
+    },
+    {
+      "id": "meditations-long-07-063-063",
+      "book": 7,
+      "first": 63,
+      "last": 63,
+      "start": 277864,
+      "end": 278160,
+      "sha256": "6c68f36ac6c5cc8f006ced5a5a3600dfa856f0b6dd35415682edf39763f13602"
+    },
+    {
+      "id": "meditations-long-07-064-066",
+      "book": 7,
+      "first": 64,
+      "last": 66,
+      "start": 278160,
+      "end": 280621,
+      "sha256": "ba525aec9c7407705f4bf1a257d0d7245e846e5668439c9fb1f29b9342d604b8"
+    },
+    {
+      "id": "meditations-long-07-067-067",
+      "book": 7,
+      "first": 67,
+      "last": 67,
+      "start": 280621,
+      "end": 281242,
+      "sha256": "9287f922e61a2383ccfe3a2c07cb40596bd250baaf28e9814a2c53fa54e22274"
+    },
+    {
+      "id": "meditations-long-07-068-068",
+      "book": 7,
+      "first": 68,
+      "last": 68,
+      "start": 281242,
+      "end": 282325,
+      "sha256": "0371dcca372d08f6687bdbfd85dc95dfe89e99b06a41190b9cd3ab6526c63fb9"
+    },
+    {
+      "id": "meditations-long-07-069-069",
+      "book": 7,
+      "first": 69,
+      "last": 69,
+      "start": 282325,
+      "end": 282497,
+      "sha256": "0a49efb7ef7d49a57125a4b9ab0c5397a1ff68ab0a922f2eaebb1684eef3f652"
+    },
+    {
+      "id": "meditations-long-07-070-070",
+      "book": 7,
+      "first": 70,
+      "last": 70,
+      "start": 282497,
+      "end": 282835,
+      "sha256": "dc7cd2167db22561effdf8faec828ee279ac6379034652b2fb101aaaf64eb0a0"
+    },
+    {
+      "id": "meditations-long-07-071-071",
+      "book": 7,
+      "first": 71,
+      "last": 71,
+      "start": 282835,
+      "end": 282996,
+      "sha256": "5f292af9ebbb3b54daba087abe796dbb03c9547d65d36ace79ab36b2addf65dd"
+    },
+    {
+      "id": "meditations-long-07-072-072",
+      "book": 7,
+      "first": 72,
+      "last": 72,
+      "start": 282996,
+      "end": 283147,
+      "sha256": "31b2d0722fdf10f2326c482c333a51749766aa220c61655fe77d0dcbdac9aa59"
+    },
+    {
+      "id": "meditations-long-07-073-073",
+      "book": 7,
+      "first": 73,
+      "last": 73,
+      "start": 283147,
+      "end": 283366,
+      "sha256": "de586676fce228c6598c0200c6408981929059821ed0682d2323bb1beacd18fd"
+    },
+    {
+      "id": "meditations-long-07-074-074",
+      "book": 7,
+      "first": 74,
+      "last": 74,
+      "start": 283366,
+      "end": 283537,
+      "sha256": "4112446896659f8a58304c56d89ef36294c60e3dfdd154cfeb11b96f36a5bbb9"
+    },
+    {
+      "id": "meditations-long-07-075-075",
+      "book": 7,
+      "first": 75,
+      "last": 75,
+      "start": 283537,
+      "end": 289156,
+      "sha256": "88291d2136e1ad82cdf6f9d3fea1c59d6854e1890b7a4ec19eac45fd522f4326"
+    },
+    {
+      "id": "meditations-long-08-001-001",
+      "book": 8,
+      "first": 1,
+      "last": 1,
+      "start": 289177,
+      "end": 290471,
+      "sha256": "3483d572652250a5386e2a7f02e829db4a58e11670ba6436a98b2f9b068a23ee"
+    },
+    {
+      "id": "meditations-long-08-002-002",
+      "book": 8,
+      "first": 2,
+      "last": 2,
+      "start": 290471,
+      "end": 290775,
+      "sha256": "a87d103b5317ddf17102cab0bfe89d5230fb2c97c58176c6c1e884ff6c61b451"
+    },
+    {
+      "id": "meditations-long-08-003-003",
+      "book": 8,
+      "first": 3,
+      "last": 3,
+      "start": 290775,
+      "end": 291267,
+      "sha256": "051873db419fc1ee9090c0a641b7c88e613776b6633127debe027032ac6da6c9"
+    },
+    {
+      "id": "meditations-long-08-004-004",
+      "book": 8,
+      "first": 4,
+      "last": 4,
+      "start": 291267,
+      "end": 291365,
+      "sha256": "03078287321d6ec175822e96e03f79a753bc8ad5f3a9dc67b40350c567b51b0b"
+    },
+    {
+      "id": "meditations-long-08-005-005",
+      "book": 8,
+      "first": 5,
+      "last": 5,
+      "start": 291365,
+      "end": 291897,
+      "sha256": "d2805fc39c9d03368e903cd77aaddc16e7644097d94650e9774a49ebd01f7c33"
+    },
+    {
+      "id": "meditations-long-08-006-006",
+      "book": 8,
+      "first": 6,
+      "last": 6,
+      "start": 291897,
+      "end": 292222,
+      "sha256": "51906747f417b22971a21ac42bc3a6a19f19773a1e34ae9a7844a38d48cc533a"
+    },
+    {
+      "id": "meditations-long-08-007-007",
+      "book": 8,
+      "first": 7,
+      "last": 7,
+      "start": 292222,
+      "end": 293362,
+      "sha256": "dbe6eb005d26c495fe6d5ade5f071ef9c785b26e76c0a60f68e12809ab92e124"
+    },
+    {
+      "id": "meditations-long-08-008-008",
+      "book": 8,
+      "first": 8,
+      "last": 8,
+      "start": 293362,
+      "end": 293656,
+      "sha256": "67e4f448a6ae57d9a5c16d9eb39e6287ebe14200d804be57520b552bfe7cc2a4"
+    },
+    {
+      "id": "meditations-long-08-009-009",
+      "book": 8,
+      "first": 9,
+      "last": 9,
+      "start": 293656,
+      "end": 293754,
+      "sha256": "090ca6592f9c19975ccac505738a8f4db1a366941c47ee9612a6d6e73918ce33"
+    },
+    {
+      "id": "meditations-long-08-010-010",
+      "book": 8,
+      "first": 10,
+      "last": 10,
+      "start": 293754,
+      "end": 294053,
+      "sha256": "8d40199ce72e3bea4ef99616b2bc48c0ef962b6f2293b922e7d5435b7a9ff83e"
+    },
+    {
+      "id": "meditations-long-08-011-011",
+      "book": 8,
+      "first": 11,
+      "last": 11,
+      "start": 294053,
+      "end": 294260,
+      "sha256": "c1b18201fe5876f63f09f79ef654080a8ed250cfd6c71323a25743bf5024e2df"
+    },
+    {
+      "id": "meditations-long-08-012-012",
+      "book": 8,
+      "first": 12,
+      "last": 12,
+      "start": 294260,
+      "end": 294633,
+      "sha256": "fcea1ea2660b1383934d7b886f6ac9923733fea4879ab458419cd5006e8ced20"
+    },
+    {
+      "id": "meditations-long-08-013-013",
+      "book": 8,
+      "first": 13,
+      "last": 13,
+      "start": 294633,
+      "end": 294793,
+      "sha256": "977b8a0962373cbfb2440cdf1611026a3711af354b688683960084ac64449483"
+    },
+    {
+      "id": "meditations-long-08-014-014",
+      "book": 8,
+      "first": 14,
+      "last": 14,
+      "start": 294793,
+      "end": 295351,
+      "sha256": "62323ecbe19b5b7c63c32150cee25ab392f7b79bce5e82d5809f54730e6780cf"
+    },
+    {
+      "id": "meditations-long-08-015-015",
+      "book": 8,
+      "first": 15,
+      "last": 15,
+      "start": 295351,
+      "end": 295657,
+      "sha256": "975f07d487e633061344609f5a139e5ed87ac3f8f63423776640be8f72ac3ca7"
+    },
+    {
+      "id": "meditations-long-08-016-016",
+      "book": 8,
+      "first": 16,
+      "last": 16,
+      "start": 295657,
+      "end": 295953,
+      "sha256": "cc4799b992209c230a7a29f8be9f8a261a0d9340147441398f45769b16bbb23a"
+    },
+    {
+      "id": "meditations-long-08-017-017",
+      "book": 8,
+      "first": 17,
+      "last": 17,
+      "start": 295953,
+      "end": 296397,
+      "sha256": "250c69329c96e473cebefc3c6a828e790905b281bcc21431410e60793f9b93a6"
+    },
+    {
+      "id": "meditations-long-08-018-018",
+      "book": 8,
+      "first": 18,
+      "last": 18,
+      "start": 296397,
+      "end": 296632,
+      "sha256": "a11e3bc87fec1085615426a8219bb542085b25c307e0f5f1d30136d7f5633484"
+    },
+    {
+      "id": "meditations-long-08-019-019",
+      "book": 8,
+      "first": 19,
+      "last": 19,
+      "start": 296632,
+      "end": 296889,
+      "sha256": "73165a33732a867a8e3c768391ddf18cb43e4bde852a1d3a40a7f3425ac5762a"
+    },
+    {
+      "id": "meditations-long-08-020-020",
+      "book": 8,
+      "first": 20,
+      "last": 20,
+      "start": 296889,
+      "end": 297271,
+      "sha256": "a1a86f7defa3b177fe63998a6c12b51082f54b3f7bfed127d261f1aac083baf4"
+    },
+    {
+      "id": "meditations-long-08-021-021",
+      "book": 8,
+      "first": 21,
+      "last": 21,
+      "start": 297271,
+      "end": 297671,
+      "sha256": "1f3ea448cdb7fbbe1e22816f360c44de68678cf2f055846579d9bb92618dcd9d"
+    },
+    {
+      "id": "meditations-long-08-022-022",
+      "book": 8,
+      "first": 22,
+      "last": 22,
+      "start": 297671,
+      "end": 297874,
+      "sha256": "ba3e1c68a479e13baa1738c89a5d99749107d2f70c774e5467d6dc4a55bf6f8d"
+    },
+    {
+      "id": "meditations-long-08-023-023",
+      "book": 8,
+      "first": 23,
+      "last": 23,
+      "start": 297874,
+      "end": 298088,
+      "sha256": "f08f180b72d3e4d6fdf615a478fe8a462ee3b7bf30cd9d34709a2fefa39ba70a"
+    },
+    {
+      "id": "meditations-long-08-024-024",
+      "book": 8,
+      "first": 24,
+      "last": 24,
+      "start": 298088,
+      "end": 298227,
+      "sha256": "a4158323cc67aac424512800418af471032ebc9f380c691e860a948f798d20f4"
+    },
+    {
+      "id": "meditations-long-08-025-025",
+      "book": 8,
+      "first": 25,
+      "last": 25,
+      "start": 298227,
+      "end": 299062,
+      "sha256": "c4f0940a4a9e73e687095b434b6f3adc2d23ad1398a7d53f0a6ad487e75cc84f"
+    },
+    {
+      "id": "meditations-long-08-026-026",
+      "book": 8,
+      "first": 26,
+      "last": 26,
+      "start": 299062,
+      "end": 299380,
+      "sha256": "24b3d4ab84dbc9105dd81b1a542caa33eb6cc2933e7b05869c28d1be49f0c596"
+    },
+    {
+      "id": "meditations-long-08-027-027",
+      "book": 8,
+      "first": 27,
+      "last": 27,
+      "start": 299380,
+      "end": 299844,
+      "sha256": "553b5df57f8570b3dc38bea7d9567f87b5e6f08407919f075d036ecb3d22fb37"
+    },
+    {
+      "id": "meditations-long-08-028-028",
+      "book": 8,
+      "first": 28,
+      "last": 28,
+      "start": 299844,
+      "end": 300168,
+      "sha256": "b455aaecb30ee76f7a3a87945d4f09192307de0355a3459777e59fe63bcc5be2"
+    },
+    {
+      "id": "meditations-long-08-029-029",
+      "book": 8,
+      "first": 29,
+      "last": 29,
+      "start": 300168,
+      "end": 300474,
+      "sha256": "b571dcd16ff42d25b6a403f87c127e14599b04f1e61eb3eae29a667c214dc91f"
+    },
+    {
+      "id": "meditations-long-08-030-030",
+      "book": 8,
+      "first": 30,
+      "last": 30,
+      "start": 300474,
+      "end": 300606,
+      "sha256": "733e053558341e1db250d0f459d3d26d38af011a8ed8bd3e1452453be30d5712"
+    },
+    {
+      "id": "meditations-long-08-031-031",
+      "book": 8,
+      "first": 31,
+      "last": 31,
+      "start": 300606,
+      "end": 301343,
+      "sha256": "98f0b0a9f01739a89f23a00e0448ac1005a43bed914193215fcf32d645307694"
+    },
+    {
+      "id": "meditations-long-08-032-032",
+      "book": 8,
+      "first": 32,
+      "last": 32,
+      "start": 301343,
+      "end": 302028,
+      "sha256": "37233126261e813f2ef9582effbb3c64559070eaaeb4ef4a860d46b848dceff4"
+    },
+    {
+      "id": "meditations-long-08-033-033",
+      "book": 8,
+      "first": 33,
+      "last": 33,
+      "start": 302028,
+      "end": 302113,
+      "sha256": "1252f6871f9646cc3d7ec5c1e98a369a6a043839cb8651e898707ee04c4c8a1c"
+    },
+    {
+      "id": "meditations-long-08-034-034",
+      "book": 8,
+      "first": 34,
+      "last": 34,
+      "start": 302113,
+      "end": 302979,
+      "sha256": "c3f6d5da43ee965dd63324bce2538df7374522bf7d8f4eacc843dc9bb79bfbc7"
+    },
+    {
+      "id": "meditations-long-08-035-037",
+      "book": 8,
+      "first": 35,
+      "last": 37,
+      "start": 302979,
+      "end": 304868,
+      "sha256": "d681548f8a8bc8e78c3ee5695f34729517d6dd9846eec9ee37593a5243d08326"
+    },
+    {
+      "id": "meditations-long-08-038-038",
+      "book": 8,
+      "first": 38,
+      "last": 38,
+      "start": 304868,
+      "end": 304948,
+      "sha256": "5ea744a51fe8e240bbb45c1d4a0f6b2d3e3e430a39f97f99efb7a2dd18e6f67e"
+    },
+    {
+      "id": "meditations-long-08-039-039",
+      "book": 8,
+      "first": 39,
+      "last": 39,
+      "start": 304948,
+      "end": 305126,
+      "sha256": "4701a66bb5ab7aa88089d7444d9cae4586e63ee308a14645bf24307cc9def35a"
+    },
+    {
+      "id": "meditations-long-08-040-040",
+      "book": 8,
+      "first": 40,
+      "last": 40,
+      "start": 305126,
+      "end": 305459,
+      "sha256": "503f73c2013fabedce836ad125f50cf0459b9820b906f73bdb8a6aace0891265"
+    },
+    {
+      "id": "meditations-long-08-041-041",
+      "book": 8,
+      "first": 41,
+      "last": 41,
+      "start": 305459,
+      "end": 306508,
+      "sha256": "2819e859828a7c7ba8f8f9d5cd1f2680020f03443ef997d4793949445b6cb62a"
+    },
+    {
+      "id": "meditations-long-08-042-042",
+      "book": 8,
+      "first": 42,
+      "last": 42,
+      "start": 306508,
+      "end": 306621,
+      "sha256": "dbb7bd384af1b4bb0d30ebcc52464fb5dc1a01c762d3ea1676510cee9547d8ef"
+    },
+    {
+      "id": "meditations-long-08-043-043",
+      "book": 8,
+      "first": 43,
+      "last": 43,
+      "start": 306621,
+      "end": 306913,
+      "sha256": "bf25f6545f86a91441e012706b3b0bac9a03da0d8b8c8b9db957ad0f0ff66006"
+    },
+    {
+      "id": "meditations-long-08-044-044",
+      "book": 8,
+      "first": 44,
+      "last": 44,
+      "start": 306913,
+      "end": 307268,
+      "sha256": "de1846f8617045233e78c6987b5008a43ca17be3dfb29841e82b8a685ca2cb93"
+    },
+    {
+      "id": "meditations-long-08-045-045",
+      "book": 8,
+      "first": 45,
+      "last": 45,
+      "start": 307268,
+      "end": 307882,
+      "sha256": "331ed22e5a93e8142f5a9aedc24130dad720430b20f4c1442f5e4658c6f86aad"
+    },
+    {
+      "id": "meditations-long-08-046-046",
+      "book": 8,
+      "first": 46,
+      "last": 46,
+      "start": 307882,
+      "end": 308289,
+      "sha256": "e698c300c98fe727c39c979a97051d133e081a7a190c81c653c7134d60c64e11"
+    },
+    {
+      "id": "meditations-long-08-047-047",
+      "book": 8,
+      "first": 47,
+      "last": 47,
+      "start": 308289,
+      "end": 309065,
+      "sha256": "166a0bb23bc31a108dbc9dbbbcf02ed558235ae8a283186e2292f2ebb6b25497"
+    },
+    {
+      "id": "meditations-long-08-048-048",
+      "book": 8,
+      "first": 48,
+      "last": 48,
+      "start": 309065,
+      "end": 309638,
+      "sha256": "34661fd4739bacaf135553bd6355063bf497078ab22ba4772aa7ddfcef35104d"
+    },
+    {
+      "id": "meditations-long-08-049-049",
+      "book": 8,
+      "first": 49,
+      "last": 49,
+      "start": 309638,
+      "end": 310171,
+      "sha256": "cf72cd7701ab49f35d266448f5532aa4e8ee274856b9bfe9c7160ebfbffc2793"
+    },
+    {
+      "id": "meditations-long-08-050-050",
+      "book": 8,
+      "first": 50,
+      "last": 50,
+      "start": 310171,
+      "end": 311153,
+      "sha256": "41577c5db07971fcfcce9647ef6443fdf0d90d67eacbe1bbc22f11ef1caced83"
+    },
+    {
+      "id": "meditations-long-08-051-051",
+      "book": 8,
+      "first": 51,
+      "last": 51,
+      "start": 311153,
+      "end": 311963,
+      "sha256": "898b873169862c94e719c56daa8bcf05821e7ae48f53d4135078b33d6589fd4f"
+    },
+    {
+      "id": "meditations-long-08-052-052",
+      "book": 8,
+      "first": 52,
+      "last": 52,
+      "start": 311963,
+      "end": 312402,
+      "sha256": "b2b6141ebc56d47cc7547d3cbb8c13f234f871bd9912c0d907f791dd393b7edb"
+    },
+    {
+      "id": "meditations-long-08-053-053",
+      "book": 8,
+      "first": 53,
+      "last": 53,
+      "start": 312402,
+      "end": 312624,
+      "sha256": "75a870c87aaa5c6588d7fd01c71dd9cdd107894b4e4a264ae6e00c023787d8fe"
+    },
+    {
+      "id": "meditations-long-08-054-054",
+      "book": 8,
+      "first": 54,
+      "last": 54,
+      "start": 312624,
+      "end": 312997,
+      "sha256": "74b6704d28c21698b6763a983fc17b1a82fa1c5a34a230caa37332c1de917065"
+    },
+    {
+      "id": "meditations-long-08-055-055",
+      "book": 8,
+      "first": 55,
+      "last": 55,
+      "start": 312997,
+      "end": 313237,
+      "sha256": "c7008d0453f48d9ac2f96d01fde27b285a1e11d69b8fa69bec76dda56927d863"
+    },
+    {
+      "id": "meditations-long-08-056-056",
+      "book": 8,
+      "first": 56,
+      "last": 56,
+      "start": 313237,
+      "end": 313610,
+      "sha256": "92043d80078975b8c77dda5f6edd94af3e545a5a972d5ee62eeb5b072586741a"
+    },
+    {
+      "id": "meditations-long-08-057-057",
+      "book": 8,
+      "first": 57,
+      "last": 57,
+      "start": 313610,
+      "end": 314652,
+      "sha256": "23d75306a8f7c28ea2e2114c1e0ee8b22087d58c9b0d7f00259256a774c759ec"
+    },
+    {
+      "id": "meditations-long-08-058-058",
+      "book": 8,
+      "first": 58,
+      "last": 58,
+      "start": 314652,
+      "end": 314953,
+      "sha256": "bab4f2fb1af3dfb2a1293ecf039318873b257ed62ed6ef8c468d0c9185011c54"
+    },
+    {
+      "id": "meditations-long-08-059-059",
+      "book": 8,
+      "first": 59,
+      "last": 59,
+      "start": 314953,
+      "end": 315036,
+      "sha256": "ee5bfb5a6480fb818d216f31563a8877984dff506626ac2161ca9f8b617de65c"
+    },
+    {
+      "id": "meditations-long-08-060-060",
+      "book": 8,
+      "first": 60,
+      "last": 60,
+      "start": 315036,
+      "end": 315239,
+      "sha256": "8755b7e03e40916ed442e35d68bffdd73bf9c76c20df310b00eddf154825d73a"
+    },
+    {
+      "id": "meditations-long-08-061-061",
+      "book": 8,
+      "first": 61,
+      "last": 61,
+      "start": 315239,
+      "end": 315374,
+      "sha256": "7f8c714b6cf88dfbb5a4f0f563d443a65579f5df41d4cd557e2837d0da3cbccb"
+    },
+    {
+      "id": "meditations-long-09-001-001",
+      "book": 9,
+      "first": 1,
+      "last": 1,
+      "start": 315393,
+      "end": 319220,
+      "sha256": "b1c8a9f6ddc951e8dbc5edff703e5a1b5f55a246cb8c90afde2f1c2482ec2223"
+    },
+    {
+      "id": "meditations-long-09-002-002",
+      "book": 9,
+      "first": 2,
+      "last": 2,
+      "start": 319220,
+      "end": 319884,
+      "sha256": "4e74c95714923baa9d489e9734c5ec9f3bae0031e686512c3c49fd8d968ff69e"
+    },
+    {
+      "id": "meditations-long-09-003-003",
+      "book": 9,
+      "first": 3,
+      "last": 3,
+      "start": 319884,
+      "end": 321553,
+      "sha256": "5c1b2a1a9e5faf9519a63c1482977b9a835c8bf81f5fa8ae1b1a5a7bf8ca06d8"
+    },
+    {
+      "id": "meditations-long-09-004-004",
+      "book": 9,
+      "first": 4,
+      "last": 4,
+      "start": 321553,
+      "end": 321683,
+      "sha256": "a9e1b63cc3529a6de3f7ef2a69c4a6203562f39875435320aaa1aee844152685"
+    },
+    {
+      "id": "meditations-long-09-005-005",
+      "book": 9,
+      "first": 5,
+      "last": 5,
+      "start": 321683,
+      "end": 321784,
+      "sha256": "fbc6570232720477bce51928ade5ed93a82080d3eb135147861858b0c00e7bfd"
+    },
+    {
+      "id": "meditations-long-09-006-006",
+      "book": 9,
+      "first": 6,
+      "last": 6,
+      "start": 321784,
+      "end": 321978,
+      "sha256": "3026b791e56f1f9b507e2f304eb48c5a970f5ea0a342f223094fed4336707e50"
+    },
+    {
+      "id": "meditations-long-09-007-007",
+      "book": 9,
+      "first": 7,
+      "last": 7,
+      "start": 321978,
+      "end": 322084,
+      "sha256": "cac52527b4ba18d8ccccdd253ea546e0032406d40c270be6e25b720a38e66fc3"
+    },
+    {
+      "id": "meditations-long-09-008-008",
+      "book": 9,
+      "first": 8,
+      "last": 8,
+      "start": 322084,
+      "end": 322410,
+      "sha256": "4e4d85a3955a734edec1943225a26209ff787b3cabe64e8aac65642d9746c88d"
+    },
+    {
+      "id": "meditations-long-09-009-009",
+      "book": 9,
+      "first": 9,
+      "last": 9,
+      "start": 322410,
+      "end": 324683,
+      "sha256": "21fc3abe08c53854bb14b37c9be172d1ca08ec4e191d3f427771db2c01b41ef4"
+    },
+    {
+      "id": "meditations-long-09-010-010",
+      "book": 9,
+      "first": 10,
+      "last": 10,
+      "start": 324683,
+      "end": 325009,
+      "sha256": "4ca12d83441e683be6e52f87766ba666e63e0813f21c7a2b631fd43932e03eef"
+    },
+    {
+      "id": "meditations-long-09-011-011",
+      "book": 9,
+      "first": 11,
+      "last": 11,
+      "start": 325009,
+      "end": 325361,
+      "sha256": "01f6c3ca4636537887c4c84d7751347606721c63d05928a3ceb0d737c0ddd03d"
+    },
+    {
+      "id": "meditations-long-09-012-012",
+      "book": 9,
+      "first": 12,
+      "last": 12,
+      "start": 325361,
+      "end": 325568,
+      "sha256": "287cd904ffcd2cd406da528be240a3317acd82ef8615b5cc139428316ce275c5"
+    },
+    {
+      "id": "meditations-long-09-013-013",
+      "book": 9,
+      "first": 13,
+      "last": 13,
+      "start": 325568,
+      "end": 325708,
+      "sha256": "c39374d69ea832aa08e09c49f056be2702a25671ff774bac234e6610d3528ae5"
+    },
+    {
+      "id": "meditations-long-09-014-014",
+      "book": 9,
+      "first": 14,
+      "last": 14,
+      "start": 325708,
+      "end": 325893,
+      "sha256": "8c0874428dc4e373453d8915042b32713015f54ad490fbfbb1534dac866810d0"
+    },
+    {
+      "id": "meditations-long-09-015-015",
+      "book": 9,
+      "first": 15,
+      "last": 15,
+      "start": 325893,
+      "end": 326089,
+      "sha256": "f79e9f4eb5877785df736e81c769997512d86f2294b25665b3137f5983ce2812"
+    },
+    {
+      "id": "meditations-long-09-016-016",
+      "book": 9,
+      "first": 16,
+      "last": 16,
+      "start": 326089,
+      "end": 326345,
+      "sha256": "e11b0a8f8a7350a3e99ed4fed828df03055e81fdfb945778e206cc12f3b8efc7"
+    },
+    {
+      "id": "meditations-long-09-017-017",
+      "book": 9,
+      "first": 17,
+      "last": 17,
+      "start": 326345,
+      "end": 326476,
+      "sha256": "8bdf0dceefeb438e28cbdf3645e2891edffe4d082367ffe9a6393bd0db73c341"
+    },
+    {
+      "id": "meditations-long-09-018-018",
+      "book": 9,
+      "first": 18,
+      "last": 18,
+      "start": 326476,
+      "end": 326632,
+      "sha256": "3b1181c5d212032133f9ff421a9c188eeed2bdb7b13214a2c41532734ddeaeb5"
+    },
+    {
+      "id": "meditations-long-09-019-019",
+      "book": 9,
+      "first": 19,
+      "last": 19,
+      "start": 326632,
+      "end": 326780,
+      "sha256": "96547375cc1134053884cfa9abab27a49701c4160be7ee9f32d2cd7741ecc8f4"
+    },
+    {
+      "id": "meditations-long-09-020-020",
+      "book": 9,
+      "first": 20,
+      "last": 20,
+      "start": 326780,
+      "end": 326876,
+      "sha256": "27dd6dc031131652e4fca009cb37293c5e659ffb596575b5cb8e499b0e20096b"
+    },
+    {
+      "id": "meditations-long-09-021-021",
+      "book": 9,
+      "first": 21,
+      "last": 21,
+      "start": 326876,
+      "end": 327565,
+      "sha256": "88c50f813842cdf09e3f9f44b2aa216ce093077e3ac13fbfa9c626a147c05d8d"
+    },
+    {
+      "id": "meditations-long-09-022-022",
+      "book": 9,
+      "first": 22,
+      "last": 22,
+      "start": 327565,
+      "end": 327955,
+      "sha256": "fba1e9f145435e4890c9890fc6d47e0ac30d66ab3336001089cb6573d63e7a7d"
+    },
+    {
+      "id": "meditations-long-09-023-023",
+      "book": 9,
+      "first": 23,
+      "last": 23,
+      "start": 327955,
+      "end": 328377,
+      "sha256": "9e40e2a8af57dd253c8010d06e85970e34e61806d11ed5fba457fd428f07e8dd"
+    },
+    {
+      "id": "meditations-long-09-024-024",
+      "book": 9,
+      "first": 24,
+      "last": 24,
+      "start": 328377,
+      "end": 328842,
+      "sha256": "e9ec6b491cf44f76ad550e29681723cb69e6bd82d7feaa25af9111bea78ef887"
+    },
+    {
+      "id": "meditations-long-09-025-025",
+      "book": 9,
+      "first": 25,
+      "last": 25,
+      "start": 328842,
+      "end": 329079,
+      "sha256": "bf9d40737e712a9e3ccc9b7fbbc7083d2087d7e7960b7dcfd2c697daf8b8be58"
+    },
+    {
+      "id": "meditations-long-09-026-026",
+      "book": 9,
+      "first": 26,
+      "last": 26,
+      "start": 329079,
+      "end": 329265,
+      "sha256": "dab7d24d496e3e25eaee6c317f0725ba05c8d299ec8befb7d949c60bb11c90cd"
+    },
+    {
+      "id": "meditations-long-09-027-027",
+      "book": 9,
+      "first": 27,
+      "last": 27,
+      "start": 329265,
+      "end": 329774,
+      "sha256": "600bed72d43a2c9a621814f39bb0962b17406179b3f19226219f15e6661b1cd9"
+    },
+    {
+      "id": "meditations-long-09-028-028",
+      "book": 9,
+      "first": 28,
+      "last": 28,
+      "start": 329774,
+      "end": 330821,
+      "sha256": "04a6734417062a7b46fe4eea63196a74f7f3c84d9ff15e4c9c93eba4748d385b"
+    },
+    {
+      "id": "meditations-long-09-029-029",
+      "book": 9,
+      "first": 29,
+      "last": 29,
+      "start": 330821,
+      "end": 332008,
+      "sha256": "843cc1fa62cd969173d4fff7155df2893f7e8468b9115bf088c17a07d4f66562"
+    },
+    {
+      "id": "meditations-long-09-030-030",
+      "book": 9,
+      "first": 30,
+      "last": 30,
+      "start": 332008,
+      "end": 332625,
+      "sha256": "a94917a724054eccdec17093d1a162eef1b8d0cff9195002767ff27ca686eb4f"
+    },
+    {
+      "id": "meditations-long-09-031-031",
+      "book": 9,
+      "first": 31,
+      "last": 31,
+      "start": 332625,
+      "end": 332932,
+      "sha256": "127cb007af636d3d4a237a7f1adb79b82bcaf1a8822f28b400b766e15d7965f9"
+    },
+    {
+      "id": "meditations-long-09-032-032",
+      "book": 9,
+      "first": 32,
+      "last": 32,
+      "start": 332932,
+      "end": 333407,
+      "sha256": "9185b08d0870219640af2627085eda4fee5f67a50499709774fea843ef3dcdc8"
+    },
+    {
+      "id": "meditations-long-09-033-033",
+      "book": 9,
+      "first": 33,
+      "last": 33,
+      "start": 333407,
+      "end": 333651,
+      "sha256": "977631c3c44dcf5954e2635bff4654c03d6870c83beadd6b30d1980133115cbe"
+    },
+    {
+      "id": "meditations-long-09-034-034",
+      "book": 9,
+      "first": 34,
+      "last": 34,
+      "start": 333651,
+      "end": 333941,
+      "sha256": "408a7ee904df0ec3a688d1b689dbd11f38bbab1c25c412c8b054da7b70362672"
+    },
+    {
+      "id": "meditations-long-09-035-035",
+      "book": 9,
+      "first": 35,
+      "last": 35,
+      "start": 333941,
+      "end": 334421,
+      "sha256": "a464aa1d98f259eac5823c1e3cd5dbd32cc7c89a0d2e502510da4894ede7ce54"
+    },
+    {
+      "id": "meditations-long-09-036-036",
+      "book": 9,
+      "first": 36,
+      "last": 36,
+      "start": 334421,
+      "end": 334825,
+      "sha256": "6bdb328f03c37a69c56cadb78ad6b21dc8285a3a5354fcec0153f699b86adabf"
+    },
+    {
+      "id": "meditations-long-09-037-037",
+      "book": 9,
+      "first": 37,
+      "last": 37,
+      "start": 334825,
+      "end": 335223,
+      "sha256": "123dfd5d950cb4091fa02351dad88ccc041f5f223ab0938cd821b7632afafa96"
+    },
+    {
+      "id": "meditations-long-09-038-038",
+      "book": 9,
+      "first": 38,
+      "last": 38,
+      "start": 335223,
+      "end": 335311,
+      "sha256": "6e1b117a7fd3249e437f6ee35fa3cb3bb7dcc623203d543f2e1436949b4a0aa6"
+    },
+    {
+      "id": "meditations-long-09-039-039",
+      "book": 9,
+      "first": 39,
+      "last": 39,
+      "start": 335311,
+      "end": 336045,
+      "sha256": "bd184075b4912a909bf8e0188c5de7903463a2ce2bf3020d4f5804def72b8c6e"
+    },
+    {
+      "id": "meditations-long-09-040-040",
+      "book": 9,
+      "first": 40,
+      "last": 40,
+      "start": 336045,
+      "end": 337303,
+      "sha256": "b74810ea5eb5252c88f8fa41b8ee381f8310e0b38f6099b14d3f1136405358bf"
+    },
+    {
+      "id": "meditations-long-09-041-041",
+      "book": 9,
+      "first": 41,
+      "last": 41,
+      "start": 337303,
+      "end": 338270,
+      "sha256": "c5f500cb18f20530f9e3dcc12306abd864648ae2d0d3e9af0f53371c6653289b"
+    },
+    {
+      "id": "meditations-long-09-042-042",
+      "book": 9,
+      "first": 42,
+      "last": 42,
+      "start": 338270,
+      "end": 341195,
+      "sha256": "bb026ff1b888627ee385629f634745a5ab0b007e1ab652a7a2a996618663254e"
+    },
+    {
+      "id": "meditations-long-10-001-001",
+      "book": 10,
+      "first": 1,
+      "last": 1,
+      "start": 341213,
+      "end": 342528,
+      "sha256": "8b5908276487f782606ff748daf9a5a96b7a69c23cb1980c841996cec8352a46"
+    },
+    {
+      "id": "meditations-long-10-002-002",
+      "book": 10,
+      "first": 2,
+      "last": 2,
+      "start": 342528,
+      "end": 343073,
+      "sha256": "4f918d917db785689aa0db49828aef0dd5b539ed96d6e497b5d9ab66d401d985"
+    },
+    {
+      "id": "meditations-long-10-003-003",
+      "book": 10,
+      "first": 3,
+      "last": 3,
+      "start": 343073,
+      "end": 343747,
+      "sha256": "c7e7fe7871155f21a85c7c6cd923d8aa02f3e81b456927c04ae4f471f8f1e96f"
+    },
+    {
+      "id": "meditations-long-10-004-004",
+      "book": 10,
+      "first": 4,
+      "last": 4,
+      "start": 343747,
+      "end": 343888,
+      "sha256": "ae6cf3170c522c87d22bc7a95329a4aba4da7588558cc5380469cdce97c9f2a4"
+    },
+    {
+      "id": "meditations-long-10-005-005",
+      "book": 10,
+      "first": 5,
+      "last": 5,
+      "start": 343888,
+      "end": 344107,
+      "sha256": "02aee5d48299719d30dc78ff5667d0b03bdc4cd2417d2349d4cd4b266f0f7386"
+    },
+    {
+      "id": "meditations-long-10-006-006",
+      "book": 10,
+      "first": 6,
+      "last": 6,
+      "start": 344107,
+      "end": 345554,
+      "sha256": "89fd8c3977380a77e5bb095020ad1d8516a00e99c57cbfc6546645627d225d21"
+    },
+    {
+      "id": "meditations-long-10-007-007",
+      "book": 10,
+      "first": 7,
+      "last": 7,
+      "start": 345554,
+      "end": 348060,
+      "sha256": "bf92dbc343224c05c38211d793643097f0fa5865a87a5638c53d98b0e434e8a7"
+    },
+    {
+      "id": "meditations-long-10-008-009",
+      "book": 10,
+      "first": 8,
+      "last": 9,
+      "start": 348060,
+      "end": 352700,
+      "sha256": "6f2c9fb86582210c2d960ab486974f46ad8ac36d05e5baa407eefc6f7fe889d4"
+    },
+    {
+      "id": "meditations-long-10-010-011",
+      "book": 10,
+      "first": 10,
+      "last": 11,
+      "start": 352700,
+      "end": 354283,
+      "sha256": "ec2e4e8caefbd04e793a34c59e5f84601cefc667ca54a2e5e6dc1fa008a99d12"
+    },
+    {
+      "id": "meditations-long-10-012-012",
+      "book": 10,
+      "first": 12,
+      "last": 12,
+      "start": 354283,
+      "end": 354879,
+      "sha256": "cd6e7ea46318b7072e6bd129dd61a63f4b521381fcd5c6e1b6ecbe0103bbea3a"
+    },
+    {
+      "id": "meditations-long-10-013-013",
+      "book": 10,
+      "first": 13,
+      "last": 13,
+      "start": 354879,
+      "end": 355547,
+      "sha256": "c276653857046caa8ec0e816ac57c10035ae09827db3002c29f48e70452c8a8e"
+    },
+    {
+      "id": "meditations-long-10-014-014",
+      "book": 10,
+      "first": 14,
+      "last": 14,
+      "start": 355547,
+      "end": 355768,
+      "sha256": "109a45b00c908748d6217bc8e25e5f094d4f8c5eb577bf09387aac4f708be82b"
+    },
+    {
+      "id": "meditations-long-10-015-015",
+      "book": 10,
+      "first": 15,
+      "last": 15,
+      "start": 355768,
+      "end": 356153,
+      "sha256": "7e5288bc14f25a292e8224ddcb56a47ac7324f6d53d18d5d1d32ee05e1c249f2"
+    },
+    {
+      "id": "meditations-long-10-016-016",
+      "book": 10,
+      "first": 16,
+      "last": 16,
+      "start": 356153,
+      "end": 356247,
+      "sha256": "ee9194aeee210a52e336f182d70d50440005f524acad4e5d55aa9f7fa7c27c17"
+    },
+    {
+      "id": "meditations-long-10-017-017",
+      "book": 10,
+      "first": 17,
+      "last": 17,
+      "start": 356247,
+      "end": 356443,
+      "sha256": "868fdb8014bf8946e1dc8661b83aa850ac18bbcb7c7bd9d31acb0eaa94e115f1"
+    },
+    {
+      "id": "meditations-long-10-018-018",
+      "book": 10,
+      "first": 18,
+      "last": 18,
+      "start": 356443,
+      "end": 356646,
+      "sha256": "54173a32494b5d23a8283120f3a719fab0c3f403b1ba45bcdc7b040fed02fe46"
+    },
+    {
+      "id": "meditations-long-10-019-019",
+      "book": 10,
+      "first": 19,
+      "last": 19,
+      "start": 356646,
+      "end": 357015,
+      "sha256": "bd5ab009cc5b7e6f412b51bbd6863da1aadfa16d5ec30ab8848b745d1ba67be6"
+    },
+    {
+      "id": "meditations-long-10-020-020",
+      "book": 10,
+      "first": 20,
+      "last": 20,
+      "start": 357015,
+      "end": 357161,
+      "sha256": "b9269d86c864b44f4a919785b6fcf2d8685767573ac1637e625668cbd627216c"
+    },
+    {
+      "id": "meditations-long-10-021-023",
+      "book": 10,
+      "first": 21,
+      "last": 23,
+      "start": 357161,
+      "end": 358906,
+      "sha256": "fbbc91854233fa678d8026c7ee4ac06cd78638925339d2e7f72ea5507bef99c2"
+    },
+    {
+      "id": "meditations-long-10-024-024",
+      "book": 10,
+      "first": 24,
+      "last": 24,
+      "start": 358906,
+      "end": 359190,
+      "sha256": "0fb5003d5b7149aac46a76687c0c767d8149f31ca578b5e1117ee290d9d28793"
+    },
+    {
+      "id": "meditations-long-10-025-025",
+      "book": 10,
+      "first": 25,
+      "last": 25,
+      "start": 359190,
+      "end": 359757,
+      "sha256": "4cd89aaac7b992217044ddb392c1128b8920194ce2a67e178fe4a65a0f85c047"
+    },
+    {
+      "id": "meditations-long-10-026-026",
+      "book": 10,
+      "first": 26,
+      "last": 26,
+      "start": 359757,
+      "end": 360323,
+      "sha256": "8a187f2eb69d95ac8262791ba7d03089a115b1bbf2e7b922f9b32b3df4a5142b"
+    },
+    {
+      "id": "meditations-long-10-027-027",
+      "book": 10,
+      "first": 27,
+      "last": 27,
+      "start": 360323,
+      "end": 360808,
+      "sha256": "f8e5878f0139a1dca78c36d4183b1539e81bd29e43a6bf090fecda291295ce46"
+    },
+    {
+      "id": "meditations-long-10-028-028",
+      "book": 10,
+      "first": 28,
+      "last": 28,
+      "start": 360808,
+      "end": 361180,
+      "sha256": "ec4348e35ac27e319bf7b7c3285b9199bb8527626660e5716d149bc08d50c3a8"
+    },
+    {
+      "id": "meditations-long-10-029-029",
+      "book": 10,
+      "first": 29,
+      "last": 29,
+      "start": 361180,
+      "end": 361330,
+      "sha256": "ebdfb2910136211eac49b08973769271f5a9cb2b09aaef7fbc3b49a918aed709"
+    },
+    {
+      "id": "meditations-long-10-030-030",
+      "book": 10,
+      "first": 30,
+      "last": 30,
+      "start": 361330,
+      "end": 361780,
+      "sha256": "b6a3d27f69fe8594df0edcec2ced96222469ad3a3bed6510e5e99dfc0b5be012"
+    },
+    {
+      "id": "meditations-long-10-031-032",
+      "book": 10,
+      "first": 31,
+      "last": 32,
+      "start": 361780,
+      "end": 364108,
+      "sha256": "9a4457421641ff10bef980c1642e90489a1f70917eb1228ce3b06f594b3259ff"
+    },
+    {
+      "id": "meditations-long-10-033-033",
+      "book": 10,
+      "first": 33,
+      "last": 33,
+      "start": 364108,
+      "end": 366227,
+      "sha256": "2180e65bd479927a1654726cc83e562db6d5c52ee4dd74a0750349d59e111c7c"
+    },
+    {
+      "id": "meditations-long-10-034-034",
+      "book": 10,
+      "first": 34,
+      "last": 34,
+      "start": 366227,
+      "end": 367242,
+      "sha256": "dd99d8b51d9a60371e090f01794b10d2fb1ee4fa7a3c63c30897d65d4a1c5bc0"
+    },
+    {
+      "id": "meditations-long-10-035-035",
+      "book": 10,
+      "first": 35,
+      "last": 35,
+      "start": 367242,
+      "end": 367887,
+      "sha256": "b009d7b3f865e87176081ff17492cd8f9c7d4d4993ddc958334318c4cca77442"
+    },
+    {
+      "id": "meditations-long-10-036-036",
+      "book": 10,
+      "first": 36,
+      "last": 36,
+      "start": 367887,
+      "end": 369566,
+      "sha256": "837444dc6779532a505354e2d8d85a66f75637815fc02673985037eaaa32c170"
+    },
+    {
+      "id": "meditations-long-10-037-037",
+      "book": 10,
+      "first": 37,
+      "last": 37,
+      "start": 369566,
+      "end": 369781,
+      "sha256": "3d075859821a666493ea6702b72b3544cf963615467f2f56062ae3ad80486ef8"
+    },
+    {
+      "id": "meditations-long-10-038-038",
+      "book": 10,
+      "first": 38,
+      "last": 38,
+      "start": 369781,
+      "end": 370382,
+      "sha256": "157ea51fc2339d3aabc691c137986c4bd1d4f9a04a77e8baf401b325f801b026"
+    },
+    {
+      "id": "meditations-long-11-001-001",
+      "book": 11,
+      "first": 1,
+      "last": 1,
+      "start": 370401,
+      "end": 371891,
+      "sha256": "370abe8637c6fc8bdfcb973be214395536e98bf7ad83abfa80371603e44af3bb"
+    },
+    {
+      "id": "meditations-long-11-002-002",
+      "book": 11,
+      "first": 2,
+      "last": 2,
+      "start": 371891,
+      "end": 372509,
+      "sha256": "4f262a1dfdf30ffa75a97b03220d92f901f45a763e236431ae43b698e81bf764"
+    },
+    {
+      "id": "meditations-long-11-003-003",
+      "book": 11,
+      "first": 3,
+      "last": 3,
+      "start": 372509,
+      "end": 373044,
+      "sha256": "6b4fe3dd2d1619577889115c34c0e45e219d16b2a29b6169660ee92a0e826e19"
+    },
+    {
+      "id": "meditations-long-11-004-004",
+      "book": 11,
+      "first": 4,
+      "last": 4,
+      "start": 373044,
+      "end": 373207,
+      "sha256": "4814507505597425a6e3021680b4fe2a2b171d9ad5abb2fb12d7bb145c547113"
+    },
+    {
+      "id": "meditations-long-11-005-005",
+      "book": 11,
+      "first": 5,
+      "last": 5,
+      "start": 373207,
+      "end": 373396,
+      "sha256": "81c7a9bce23034dbc3d4b5d705d9f62327e75081adea371efe4453818a0309c4"
+    },
+    {
+      "id": "meditations-long-11-006-006",
+      "book": 11,
+      "first": 6,
+      "last": 6,
+      "start": 373396,
+      "end": 374866,
+      "sha256": "3bbd973ca4affde79f1e9da2a9def8bb8715bf700e32703fbb60a0fe27cc42be"
+    },
+    {
+      "id": "meditations-long-11-007-007",
+      "book": 11,
+      "first": 7,
+      "last": 7,
+      "start": 374866,
+      "end": 375020,
+      "sha256": "0732820d55131d4c12fd7e881d2ee5ed13e0d4fec2cdeb3a42f5a627d5434764"
+    },
+    {
+      "id": "meditations-long-11-008-008",
+      "book": 11,
+      "first": 8,
+      "last": 8,
+      "start": 375020,
+      "end": 376175,
+      "sha256": "0c013d71270c0782c34b0fed8e9c0a3eb849e29b01596d55e8ac04ed7a549938"
+    },
+    {
+      "id": "meditations-long-11-009-009",
+      "book": 11,
+      "first": 9,
+      "last": 9,
+      "start": 376175,
+      "end": 376896,
+      "sha256": "e5f34bf1a0eaa2cc4580dd7f948fb03f1e6079e47bfc397fbf18cb931434189e"
+    },
+    {
+      "id": "meditations-long-11-010-010",
+      "book": 11,
+      "first": 10,
+      "last": 10,
+      "start": 376896,
+      "end": 377514,
+      "sha256": "6b99fcab5863b1e2684cba32bf5a41f6d75183919e923dc40d16fbe54b87d72f"
+    },
+    {
+      "id": "meditations-long-11-011-011",
+      "book": 11,
+      "first": 11,
+      "last": 11,
+      "start": 377514,
+      "end": 377776,
+      "sha256": "8deef9381bda721dabe0bf42603730c7b3816aa32a2a6b14bf6cf4e293f48528"
+    },
+    {
+      "id": "meditations-long-11-012-012",
+      "book": 11,
+      "first": 12,
+      "last": 12,
+      "start": 377776,
+      "end": 378080,
+      "sha256": "e854e1e8fa9efa0ec7d5dd6b1a95ae3b58804880320b95a6ba34cbbf3de515c9"
+    },
+    {
+      "id": "meditations-long-11-013-013",
+      "book": 11,
+      "first": 13,
+      "last": 13,
+      "start": 378080,
+      "end": 378977,
+      "sha256": "d9c0e7ecef033edbd121aad2b7088cb9480f4cf8c376a618129d1fe83f716777"
+    },
+    {
+      "id": "meditations-long-11-014-014",
+      "book": 11,
+      "first": 14,
+      "last": 14,
+      "start": 378977,
+      "end": 379117,
+      "sha256": "67b40caa3b47806729c4589a4a448afccbbf75d0bbf5b82bb6e557cd125cfc3e"
+    },
+    {
+      "id": "meditations-long-11-015-015",
+      "book": 11,
+      "first": 15,
+      "last": 15,
+      "start": 379117,
+      "end": 380239,
+      "sha256": "df33aa7449c686396c3f602a3cad69e3590ce891e663ca8b66d3e88a76a10ace"
+    },
+    {
+      "id": "meditations-long-11-016-016",
+      "book": 11,
+      "first": 16,
+      "last": 16,
+      "start": 380239,
+      "end": 381293,
+      "sha256": "73da7b3aa43fbbcd2e51effbaf6bb3d45bff4da79185586d13331901fde9215f"
+    },
+    {
+      "id": "meditations-long-11-017-017",
+      "book": 11,
+      "first": 17,
+      "last": 17,
+      "start": 381293,
+      "end": 381482,
+      "sha256": "2d1b4ed80e39097ddcff82db698e20e1e1552cb1ff989e61026a84d278a34dcc"
+    },
+    {
+      "id": "meditations-long-11-018-018",
+      "book": 11,
+      "first": 18,
+      "last": 18,
+      "start": 381482,
+      "end": 386554,
+      "sha256": "14c542d43cb05979c7de4738c16d0e4af3cb22e2edccef1f39e110c3de83572e"
+    },
+    {
+      "id": "meditations-long-11-019-019",
+      "book": 11,
+      "first": 19,
+      "last": 19,
+      "start": 386554,
+      "end": 387281,
+      "sha256": "0b55870faf30e2abbb1a858d4e4e50cbd1ffbfd7e95297292ed57c2193c8f16b"
+    },
+    {
+      "id": "meditations-long-11-020-020",
+      "book": 11,
+      "first": 20,
+      "last": 20,
+      "start": 387281,
+      "end": 389957,
+      "sha256": "a214116633469590ddd9bc9a5e8369ab0a07630222aad39c9b5c0f270ebf704d"
+    },
+    {
+      "id": "meditations-long-11-021-021",
+      "book": 11,
+      "first": 21,
+      "last": 21,
+      "start": 389957,
+      "end": 390610,
+      "sha256": "e97df723427c7850a9f30656e522341a0d7fcbf1c0c5680be7852712dcf883b7"
+    },
+    {
+      "id": "meditations-long-11-022-026",
+      "book": 11,
+      "first": 22,
+      "last": 26,
+      "start": 390610,
+      "end": 391676,
+      "sha256": "33419ed571f309ffd65cddae2e34b6e5f23d42fe2ff9537feff6b04d33dd1346"
+    },
+    {
+      "id": "meditations-long-11-027-027",
+      "book": 11,
+      "first": 27,
+      "last": 27,
+      "start": 391676,
+      "end": 391948,
+      "sha256": "7a471cae039a9d82279faf90341eeb513e44d31392598a6d9659da827006e537"
+    },
+    {
+      "id": "meditations-long-11-028-028",
+      "book": 11,
+      "first": 28,
+      "last": 28,
+      "start": 391948,
+      "end": 392193,
+      "sha256": "eaf2045ba7727c12ed2ece5b6ed3c030063e127c0bab5ba9525f062bbbd01ae5"
+    },
+    {
+      "id": "meditations-long-11-029-029",
+      "book": 11,
+      "first": 29,
+      "last": 29,
+      "start": 392193,
+      "end": 392373,
+      "sha256": "430768675faa6fed4eba77c072d0c6b9715500faa7fa16e444bb3da8a6f4f9b0"
+    },
+    {
+      "id": "meditations-long-11-030-030",
+      "book": 11,
+      "first": 30,
+      "last": 30,
+      "start": 392373,
+      "end": 392427,
+      "sha256": "9cf1e3ad9c15cd09150618792fd7cb301216a3fe3958c3f90ceda253e567e85c"
+    },
+    {
+      "id": "meditations-long-11-031-031",
+      "book": 11,
+      "first": 31,
+      "last": 31,
+      "start": 392427,
+      "end": 392510,
+      "sha256": "a530ff88e744211d503aa6adeb3bbfcbe966b55de1afb1ada02eb162e7188de1"
+    },
+    {
+      "id": "meditations-long-11-032-032",
+      "book": 11,
+      "first": 32,
+      "last": 32,
+      "start": 392510,
+      "end": 392616,
+      "sha256": "d51768ccdd31ada775591a513f9f65803406eb60ce996c863d65e03efe7f8b5f"
+    },
+    {
+      "id": "meditations-long-11-033-033",
+      "book": 11,
+      "first": 33,
+      "last": 33,
+      "start": 392616,
+      "end": 392765,
+      "sha256": "32e464ce5c4d7db6c1f8cef800684413aaf6d1de0cd2d863327f9b39839d6fd4"
+    },
+    {
+      "id": "meditations-long-11-034-034",
+      "book": 11,
+      "first": 34,
+      "last": 34,
+      "start": 392765,
+      "end": 393124,
+      "sha256": "a270f97fc6844a695d0030b655e0c5a8ed24716b83c6d1090e60e18b7579817a"
+    },
+    {
+      "id": "meditations-long-11-035-035",
+      "book": 11,
+      "first": 35,
+      "last": 35,
+      "start": 393124,
+      "end": 393281,
+      "sha256": "71deb934addb96f8652671dc800e8c310600269c253019c13e40bdc47a2a65c9"
+    },
+    {
+      "id": "meditations-long-11-036-036",
+      "book": 11,
+      "first": 36,
+      "last": 36,
+      "start": 393281,
+      "end": 393350,
+      "sha256": "c69647ed0732f73ad5a602a1b20043cc40725f38b500a788ba9adf380bf92957"
+    },
+    {
+      "id": "meditations-long-11-037-038",
+      "book": 11,
+      "first": 37,
+      "last": 38,
+      "start": 393350,
+      "end": 393930,
+      "sha256": "d1aacf108e2873e8d2c7771e34bd0305a0a9f978d76abcf684e0ae05357b5d4d"
+    },
+    {
+      "id": "meditations-long-11-039-039",
+      "book": 11,
+      "first": 39,
+      "last": 39,
+      "start": 393930,
+      "end": 394181,
+      "sha256": "c8761505d2a706f759032c87d4489633af3f67a67b9818103b0d7658995e8072"
+    },
+    {
+      "id": "meditations-long-12-001-001",
+      "book": 12,
+      "first": 1,
+      "last": 1,
+      "start": 394201,
+      "end": 395582,
+      "sha256": "5799d6945437538d419621130b918f5a1b76122264f7d69dfe5dcf5b32705f5b"
+    },
+    {
+      "id": "meditations-long-12-002-002",
+      "book": 12,
+      "first": 2,
+      "last": 2,
+      "start": 395582,
+      "end": 396093,
+      "sha256": "75f9f4f1c3aa0c7925091cee40ed8315c23c34f6aa2b68d033875f7382409709"
+    },
+    {
+      "id": "meditations-long-12-003-004",
+      "book": 12,
+      "first": 3,
+      "last": 4,
+      "start": 396093,
+      "end": 398279,
+      "sha256": "7eafce71d80675a878bc149fa73462492e57a1993878a13bb269a6b9ea49dfad"
+    },
+    {
+      "id": "meditations-long-12-005-005",
+      "book": 12,
+      "first": 5,
+      "last": 5,
+      "start": 398279,
+      "end": 399341,
+      "sha256": "f89cabf6699335a5933f2c15b383613ae01f0ae809fadd17324107895c12cb01"
+    },
+    {
+      "id": "meditations-long-12-006-006",
+      "book": 12,
+      "first": 6,
+      "last": 6,
+      "start": 399341,
+      "end": 399603,
+      "sha256": "26924ca25495250d9b1efbb4b06c903b3d898148bf3122ca4cb1db25c6ccb7a1"
+    },
+    {
+      "id": "meditations-long-12-007-007",
+      "book": 12,
+      "first": 7,
+      "last": 7,
+      "start": 399603,
+      "end": 399818,
+      "sha256": "c05d815c6480089e14d0efa998610c18dfc4c8354681404e8f094770af8d3aab"
+    },
+    {
+      "id": "meditations-long-12-008-008",
+      "book": 12,
+      "first": 8,
+      "last": 8,
+      "start": 399818,
+      "end": 400104,
+      "sha256": "a685df84a1289c526624bb57bf0d83f1055d33c47c458457f1e992be194a66fb"
+    },
+    {
+      "id": "meditations-long-12-009-009",
+      "book": 12,
+      "first": 9,
+      "last": 9,
+      "start": 400104,
+      "end": 400353,
+      "sha256": "6b09d6c891f27ee06dee82885983c2c6b01b18b0b7dc59ff943e9f975eec29ea"
+    },
+    {
+      "id": "meditations-long-12-010-010",
+      "book": 12,
+      "first": 10,
+      "last": 10,
+      "start": 400353,
+      "end": 400442,
+      "sha256": "bd6d0a90159d152c03f34bc0eeccb28f9b01222438f61db1c3464ddeb83425cc"
+    },
+    {
+      "id": "meditations-long-12-011-011",
+      "book": 12,
+      "first": 11,
+      "last": 11,
+      "start": 400442,
+      "end": 400556,
+      "sha256": "f02198b35a27c866a33e81d78b23a0c711eb8b78c58c46f20b5634581cbb5f6d"
+    },
+    {
+      "id": "meditations-long-12-012-012",
+      "book": 12,
+      "first": 12,
+      "last": 12,
+      "start": 400556,
+      "end": 400853,
+      "sha256": "7f2f70d9007e6c95f243f44992d5f38ec39757789364054cf0dd62113315ee0f"
+    },
+    {
+      "id": "meditations-long-12-013-013",
+      "book": 12,
+      "first": 13,
+      "last": 13,
+      "start": 400853,
+      "end": 400954,
+      "sha256": "ffe39ed3acb9321fd223e741c6b4ff668a26718951093292a357bbe07e84979c"
+    },
+    {
+      "id": "meditations-long-12-014-014",
+      "book": 12,
+      "first": 14,
+      "last": 14,
+      "start": 400954,
+      "end": 401592,
+      "sha256": "244a75b3270a9b8930fd7aca516b01378125d53d2f1878cca6906d816f94481a"
+    },
+    {
+      "id": "meditations-long-12-015-015",
+      "book": 12,
+      "first": 15,
+      "last": 15,
+      "start": 401592,
+      "end": 401788,
+      "sha256": "c869ed0a60fd90fed4c3ba4f98b6bc8f46a3d5f95825e837855fe33ec09868fe"
+    },
+    {
+      "id": "meditations-long-12-016-017",
+      "book": 12,
+      "first": 16,
+      "last": 17,
+      "start": 401788,
+      "end": 402755,
+      "sha256": "7ea09031ee371b448c7950aba04ede6959fda7c36ba1cc3e669208aeb1a27233"
+    },
+    {
+      "id": "meditations-long-12-018-018",
+      "book": 12,
+      "first": 18,
+      "last": 18,
+      "start": 402755,
+      "end": 402963,
+      "sha256": "848e743201ca196fb951c0f558a28d60019f6b9ced01d39e78b2cafd57b86ec8"
+    },
+    {
+      "id": "meditations-long-12-019-019",
+      "book": 12,
+      "first": 19,
+      "last": 19,
+      "start": 402963,
+      "end": 403237,
+      "sha256": "470cd32046120f34a63749051245aca6ec041850fb4c33e333874d4039ed8c37"
+    },
+    {
+      "id": "meditations-long-12-020-020",
+      "book": 12,
+      "first": 20,
+      "last": 20,
+      "start": 403237,
+      "end": 403369,
+      "sha256": "cce65ddbc59f897020a07f1fe6aab486faa984eca61bb97aae25c1a6c02b76e0"
+    },
+    {
+      "id": "meditations-long-12-021-021",
+      "book": 12,
+      "first": 21,
+      "last": 21,
+      "start": 403369,
+      "end": 403678,
+      "sha256": "4a89d55335968f6b813081bf9c7ebab0017fce9c67bbf1a6e457bfd0158b6542"
+    },
+    {
+      "id": "meditations-long-12-022-022",
+      "book": 12,
+      "first": 22,
+      "last": 22,
+      "start": 403678,
+      "end": 403914,
+      "sha256": "6d47edfe09f8cd35382f122cf0ee07521f6e4706a3bf86ea9f06515e8d328da5"
+    },
+    {
+      "id": "meditations-long-12-023-023",
+      "book": 12,
+      "first": 23,
+      "last": 23,
+      "start": 403914,
+      "end": 405116,
+      "sha256": "bedcb18d24f48e8d4c1065f703d8975a0412c770b528b49e695e31121a70d14d"
+    },
+    {
+      "id": "meditations-long-12-024-024",
+      "book": 12,
+      "first": 24,
+      "last": 24,
+      "start": 405116,
+      "end": 406174,
+      "sha256": "84bed57c813a02b6739fd5c77d4083e2b1a8c365ce8b5ca0c2a560f57e43218a"
+    },
+    {
+      "id": "meditations-long-12-025-025",
+      "book": 12,
+      "first": 25,
+      "last": 25,
+      "start": 406174,
+      "end": 406261,
+      "sha256": "40f36b4e223b71ce5b4b4eb5aee44b41e58db5fb8831473b7e0882a431dcaa13"
+    },
+    {
+      "id": "meditations-long-12-026-026",
+      "book": 12,
+      "first": 26,
+      "last": 26,
+      "start": 406261,
+      "end": 407176,
+      "sha256": "e3c51125489276c2c9fadde45f5e6adb6a85304608d6a3ae1dc56ef839e4d28a"
+    },
+    {
+      "id": "meditations-long-12-027-027",
+      "book": 12,
+      "first": 27,
+      "last": 27,
+      "start": 407176,
+      "end": 408179,
+      "sha256": "1a6f4c6e2fdb343969c46d2a1529297e4d6171eb18d373138a05706932d570b2"
+    },
+    {
+      "id": "meditations-long-12-028-028",
+      "book": 12,
+      "first": 28,
+      "last": 28,
+      "start": 408179,
+      "end": 410080,
+      "sha256": "7115cd5595f4be74d98fac5c7fa0d713325daf0671343320e41acddc990a1456"
+    },
+    {
+      "id": "meditations-long-12-029-029",
+      "book": 12,
+      "first": 29,
+      "last": 29,
+      "start": 410080,
+      "end": 410399,
+      "sha256": "8c9c972ece3094c3487a5b1035f5e348d785b038a2e11d1e0acfcb02f4974b42"
+    },
+    {
+      "id": "meditations-long-12-030-030",
+      "book": 12,
+      "first": 30,
+      "last": 30,
+      "start": 410399,
+      "end": 411240,
+      "sha256": "f6b402bda2c79fa1f931d60aa41bca361d1cfb24a22f246c37b462195f72e61b"
+    },
+    {
+      "id": "meditations-long-12-031-031",
+      "book": 12,
+      "first": 31,
+      "last": 31,
+      "start": 411240,
+      "end": 411736,
+      "sha256": "ecbf2562dfcbfaf1403b4ad2a5478c2713bace8811ce04c211a0f803cae9170f"
+    },
+    {
+      "id": "meditations-long-12-032-032",
+      "book": 12,
+      "first": 32,
+      "last": 32,
+      "start": 411736,
+      "end": 412173,
+      "sha256": "c087def1c057f26410e1c920481e96b65507c997a9d2ad2e847c1fa87a963dd4"
+    },
+    {
+      "id": "meditations-long-12-033-033",
+      "book": 12,
+      "first": 33,
+      "last": 33,
+      "start": 412173,
+      "end": 412354,
+      "sha256": "6bc26ff5e4052871818907d0c95193f03fbea33b5af2201376ec1641e507e65e"
+    },
+    {
+      "id": "meditations-long-12-034-034",
+      "book": 12,
+      "first": 34,
+      "last": 34,
+      "start": 412354,
+      "end": 412517,
+      "sha256": "fe4dbcc3b1748eb04d0d4f7792197d42606e87d47f48438846f8feb3b4ec1b35"
+    },
+    {
+      "id": "meditations-long-12-035-035",
+      "book": 12,
+      "first": 35,
+      "last": 35,
+      "start": 412517,
+      "end": 412872,
+      "sha256": "bd1da48d3851e98f7afcddd7d3f4aa321fcaffc0fbe8fe861f0596cc7f61bccc"
+    },
+    {
+      "id": "meditations-long-12-036-036",
+      "book": 12,
+      "first": 36,
+      "last": 36,
+      "start": 412872,
+      "end": 413726,
+      "sha256": "f7f8185d05c348b17d274975ed28d320e1f668d2a16e3b049066dee3e696fb40"
+    }
+  ]
+}

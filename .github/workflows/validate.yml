@@ -1,0 +1,44 @@
+name: Validate readings
+
+on:
+  push:
+    paths:
+      - "README.md"
+      - "philosophy/**"
+      - ".gitattributes"
+      - ".github/workflows/**"
+      - "pyproject.toml"
+      - "requirements-dev.txt"
+  pull_request:
+    paths:
+      - "README.md"
+      - "philosophy/**"
+      - ".gitattributes"
+      - ".github/workflows/**"
+      - "pyproject.toml"
+      - "requirements-dev.txt"
+
+permissions:
+  contents: read
+
+concurrency:
+  group: validate-readings-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  validate:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - name: Check Python style
+        run: |
+          python3 -m venv "$RUNNER_TEMP/reading-checks"
+          "$RUNNER_TEMP/reading-checks/bin/pip" install -r requirements-dev.txt
+          "$RUNNER_TEMP/reading-checks/bin/ruff" check philosophy
+          "$RUNNER_TEMP/reading-checks/bin/ruff" format --check philosophy
+      - run: python3 -m unittest discover -s philosophy/tests
+      - run: python3 philosophy/scripts/audit_source.py
+      - run: python3 philosophy/scripts/daily.py --check

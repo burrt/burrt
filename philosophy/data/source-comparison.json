@@ -1,0 +1,84 @@
+{
+  "review_date": "2026-10-20",
+  "method": "AI review of each remaining difference between the frozen HTML and plain-text section bodies. All twelve books and 487 section numbers agree. This is a comparison of two formats of the same edition, not an independent historical witness.",
+  "comparison_rules": "For audit copies only, exclude translator notes and illustration captions, collapse whitespace, remove underscore emphasis markers, and equate double hyphens with em dashes. The publication source bytes are never normalized.",
+  "differences": [
+    {
+      "book": 2,
+      "section": 11,
+      "text_sha256": "a26df0774dfff4a72124cbf885a769db6850c96ca3af3eef375f261b4d0048e5",
+      "html_sha256": "84feafc23aa9e4bac334537291504872086d1e939ecaf7005eef107ef31fb9b8",
+      "reason": "HTML has a space after the dash before having; the plain text does not."
+    },
+    {
+      "book": 3,
+      "section": 6,
+      "text_sha256": "f2e4f39034c4885e40b0c4d723c991afd45dcb127ed423210e547b496ab44baa",
+      "html_sha256": "c9851e0420a8352cc087565e56f4ff4068dbd2f3ac7b05b394c9e9502a2f4385",
+      "reason": "HTML reads enioyment where the plain text reads enjoyment. Preserve the selected plain-text edition."
+    },
+    {
+      "book": 4,
+      "section": 19,
+      "text_sha256": "34eb1f029ff1ba9c856a08695956a1bfc48fff51836fdb417ff3f2479abc548c",
+      "html_sha256": "f0ec8906448b1ac71ad5baaafda363db54af285bc25affb08ae2798435555489",
+      "reason": "The closing uncertainty marker differs: plain text has ... +. while HTML has ...+."
+    },
+    {
+      "book": 7,
+      "section": 13,
+      "text_sha256": "aaf8bebde4644384e0522bdfc87456fca775157ab74491588a5bdb3aa7ee84e8",
+      "html_sha256": "fcfffa066bf2ca01956af5561a600855436decb135d0b9f65ff6d5656536de1f",
+      "reason": "Plain text uses bracketed Greek transliterations; HTML uses Greek characters and has f where the plain text has of."
+    },
+    {
+      "book": 7,
+      "section": 46,
+      "text_sha256": "d32778ef756c288752fcb2daac2103806342964f947152ae76bffa49c6330e9a",
+      "html_sha256": "3f59525fc9038604e2bea1cac6cf490d1968afc4350d478f393a6d31a666f485",
+      "reason": "Plain text has a triple hyphen before a thing; HTML has a space. Do not repair the source punctuation."
+    },
+    {
+      "book": 8,
+      "section": 8,
+      "text_sha256": "6eeed281e24bf53b6dbdb5b5fafdafdc5637945d54561475ec368dd08e36da4c",
+      "html_sha256": "3148dc00aadb327417f9eb44b928c73fca1f10e7d3fc8370e740791a0f8a5cd9",
+      "reason": "HTML adds a period after stupid that is absent from the plain text."
+    },
+    {
+      "book": 8,
+      "section": 57,
+      "text_sha256": "6cbf2c76ec0cfc8ea2695aa67f3be5a7ce353b0b356405497def2d1bd2c176c6",
+      "html_sha256": "bbbc38d097a163749f51d85d25fc093bbcd5b975ff330e5cbeeeb78fedc9f4d9",
+      "reason": "Greek is transliterated in the plain text and printed in Greek characters in HTML; HTML also adds a space before the following period."
+    },
+    {
+      "book": 9,
+      "section": 27,
+      "text_sha256": "de02de6d4b6016d0ccb2ab8df2b6162655f1a17c12945d14cc95ea026424d4cd",
+      "html_sha256": "2ed79544668c4eee32f7101d2edeb186587f3f856be8b8e2b6af2a1982cc71f2",
+      "reason": "HTML has a space before the closing uncertainty marker; plain text does not."
+    },
+    {
+      "book": 11,
+      "section": 6,
+      "text_sha256": "a699256776b642cd9415877a63a5616bbd10115fa46deec668106dc6f29edd3c",
+      "html_sha256": "ff158b2fcb234b5a981f842a6f820f974abff5c2e0d0e12cc665e68727929a4d",
+      "reason": "Plain text includes And other things of the same kind. after the verse quotation; HTML omits that sentence."
+    },
+    {
+      "book": 11,
+      "section": 10,
+      "text_sha256": "1954964a911199c4bc36441a3bfa1077272c525fdaa2876793eaaf1e2e57e766",
+      "html_sha256": "49727bd822151afa4b9cdf34600068c9cf00bd940a28c3c5dfb7a5d38ab1d068",
+      "reason": "The cross-reference reads v. 16. 30 in plain text and v. 16, 30 in HTML."
+    },
+    {
+      "book": 11,
+      "section": 18,
+      "text_sha256": "f5bcc95058c26e73a143747e021642ac4ddaefbc6e3d97a8cb23611d207b4c03",
+      "html_sha256": "e93ea8e540744075c6d9568a58537be233d50954a5cdc4bb2da743477e126a77",
+      "reason": "HTML has a space between an ellipsis and the following footnote reference; plain text does not."
+    }
+  ]
+}

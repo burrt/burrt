@@ -218,3 +218,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local reference and scratch files; not part of the published corpus.
+/philosophy/sources/meditations-george-long-mit.txt
+/philosophy/test.txt

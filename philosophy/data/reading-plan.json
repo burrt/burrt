@@ -1,0 +1,162 @@
+{
+  "review_date": "2026-10-20",
+  "review_method": "AI editorial review of all 487 numbered sections; exact source slices only. Unlisted sections remain individual readings.",
+  "groups": [
+    {
+      "book": 1,
+      "first": 1,
+      "last": 4,
+      "reason": "The notes for I.1–3 occur after I.4; keep the opening account of family influences with all four corresponding notes."
+    },
+    {
+      "book": 1,
+      "first": 9,
+      "last": 13,
+      "reason": "The notes for Sextus, Alexander, and Fronto in I.9–11 occur after I.13; preserve the intervening section and all matching notes in one contiguous reading."
+    },
+    {
+      "book": 2,
+      "first": 3,
+      "last": 4,
+      "reason": "II.4 opens by referring to putting off these things; II.3 supplies the preceding principles about nature, providence, and using the time available."
+    },
+    {
+      "book": 3,
+      "first": 9,
+      "last": 11,
+      "reason": "III.10 refers to these few principles and III.11 to the aids already mentioned; III.9 supplies the faculty of judgment and its principles."
+    },
+    {
+      "book": 4,
+      "first": 9,
+      "last": 10,
+      "reason": "IV.9 is a single sentence with an unspecified this; IV.10 supplies the fuller account of happenings, universal justice, and responding well."
+    },
+    {
+      "book": 4,
+      "first": 14,
+      "last": 15,
+      "reason": "IV.14 supplies the context of mortality and return to the whole for IV.15’s brief, otherwise unexplained image of grains of frankincense falling at different times."
+    },
+    {
+      "book": 4,
+      "first": 25,
+      "last": 26,
+      "reason": "IV.26 opens by directing attention from those things to these; IV.25 supplies the preceding example of a good life, followed by practical examples in IV.26."
+    },
+    {
+      "book": 4,
+      "first": 28,
+      "last": 29,
+      "reason": "IV.28 is a bare list of defective characters; IV.29 supplies the accompanying account of separation from reason, society, and the universe."
+    },
+    {
+      "book": 5,
+      "first": 12,
+      "last": 15,
+      "reason": "V.15 refers to these things without naming external possessions; V.12 supplies the contrast between virtue and wealth, luxury, and fame, followed by the intervening account of material things and reason."
+    },
+    {
+      "book": 5,
+      "first": 17,
+      "last": 20,
+      "reason": "V.17 leaves the bad person’s action unspecified; the following connected reflections lead to V.20’s explicit example of another person obstructing one’s acts and explain the response."
+    },
+    {
+      "book": 5,
+      "first": 28,
+      "last": 29,
+      "reason": "The translator’s note after V.28 explicitly explains the corrupt or incomplete opening of V.29; keep the section with that note as well as V.29’s own note."
+    },
+    {
+      "book": 5,
+      "first": 34,
+      "last": 35,
+      "reason": "V.35’s this is left unspecified; V.34 supplies the distinction between one’s just acts and matters outside one’s control that grounds the concluding question."
+    },
+    {
+      "book": 7,
+      "first": 35,
+      "last": 40,
+      "reason": "Preserve references [A] in 35 and [B] in 38 with their definitions after 40, alongside the intervening quotations."
+    },
+    {
+      "book": 7,
+      "first": 41,
+      "last": 45,
+      "reason": "Section 42 begins with a reason following 41; its [A] definition and the Plato references in 44–45 are collected after 45. Keep the full contiguous span."
+    },
+    {
+      "book": 7,
+      "first": 46,
+      "last": 48,
+      "reason": "The [A] note explaining the Plato quotation in 46 is printed after 48, together with 48’s [B] note."
+    },
+    {
+      "book": 7,
+      "first": 50,
+      "last": 51,
+      "reason": "The [A] source of the verse in 50 is given after 51 together with 51’s [B] source."
+    },
+    {
+      "book": 7,
+      "first": 64,
+      "last": 66,
+      "reason": "The notes [A] for 64 and [B] for 65 are collected after 66 together with the notes belonging to 66."
+    },
+    {
+      "book": 8,
+      "first": 35,
+      "last": 37,
+      "reason": "The [A] explanation of the corrupt opening of 35 is printed after 37 with 37’s [B] note."
+    },
+    {
+      "book": 10,
+      "first": 8,
+      "last": 9,
+      "reason": "Section 8 names and develops the virtues to retain; 9 opens by warning about what will erase those holy principles. Preserve that referential context."
+    },
+    {
+      "book": 10,
+      "first": 10,
+      "last": 11,
+      "reason": "The [A] explanation of conquerors and Sarmatians in 10 appears after 11 beside 11’s [B] note."
+    },
+    {
+      "book": 10,
+      "first": 21,
+      "last": 23,
+      "reason": "The [A] note explaining the verse and the word loves in 21 is collected after 23 alongside its [B] note."
+    },
+    {
+      "book": 10,
+      "first": 31,
+      "last": 32,
+      "reason": "The [A] and [B] notes identifying names in 31 are printed after 32, with 32’s [C] note."
+    },
+    {
+      "book": 11,
+      "first": 22,
+      "last": 26,
+      "reason": "The [A] note on the mice in 22 and [B] note on Perdiccas in 25 are collected after 26 with its [C] note."
+    },
+    {
+      "book": 11,
+      "first": 37,
+      "last": 38,
+      "reason": "The speaker in 38’s he said is Epictetus, named in 37, and 38 continues the same teaching."
+    },
+    {
+      "book": 12,
+      "first": 3,
+      "last": 4,
+      "reason": "The [A] note about Empedocles’ verse in 3 is printed after 4 alongside 4’s [B] note."
+    },
+    {
+      "book": 12,
+      "first": 16,
+      "last": 17,
+      "reason": "The [A] explanation of irritable in 16 is printed after 17, together with the note marking 17’s ending incomplete."
+    }
+  ]
+}
