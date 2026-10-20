@@ -2,23 +2,23 @@
 
 <!-- DAILY-PHILOSOPHY:START -->
 
-**Marcus Aurelius — Meditations I.1–4**
+**Marcus Aurelius — Meditations I.1–4**  
 <sub>George Long translation · 2026-10-20 · Reading 1 of 437</sub>
 
 > From my grandfather Verus\[A\] \[I learned\] good morals and the government
 > of my temper\.
->
+> 
 > 2\. From the reputation and remembrance of my father,\[B\] modesty and a
 > manly character\.
->
+> 
 > 3\. From my mother,\[C\] piety and beneficence, and abstinence, not only
 > from evil deeds, but even from evil thoughts; and further, simplicity in
 > my way of living, far removed from the habits of the rich\.
->
+> 
 > 4\. From my great\-grandfather,\[D\] not to have frequented public schools,
 > and to have had good teachers at home, and to know that on such things a
 > man should spend liberally\.
->
+> 
 
 
 <details>
@@ -36,13 +36,13 @@
 > &#32;&#32;&#32;&#32;for it, or at least might have been: for it would be a mistake
 > &#32;&#32;&#32;&#32;to understand Marcus as saying that he possessed all the
 > &#32;&#32;&#32;&#32;virtues which he observed in his kinsmen and teachers\.
->
+> 
 > &#32;&#32;&#32;&#32;\[B\] His father's name was Annius Verus\.
->
+> 
 > &#32;&#32;&#32;&#32;\[C\] His mother was Domitia Calvilla, named also Lucilla\.
->
+> 
 > &#32;&#32;&#32;&#32;\[D\] Perhaps his mother's grandfather, Catilius Severus\.
->
+> 
 
 
 </details>
