@@ -2,50 +2,17 @@
 
 <!-- DAILY-PHILOSOPHY:START -->
 
-**Marcus Aurelius — Meditations I.1–4**  
-<sub>George Long translation · 2026-10-20 · Reading 1 of 437</sub>
+**Marcus Aurelius — Meditations I.5**  
+<sub>George Long translation · 2026-10-21 · Reading 2 of 437</sub>
 
-> From my grandfather Verus\[A\] \[I learned\] good morals and the government
-> of my temper\.
-> 
-> 2\. From the reputation and remembrance of my father,\[B\] modesty and a
-> manly character\.
-> 
-> 3\. From my mother,\[C\] piety and beneficence, and abstinence, not only
-> from evil deeds, but even from evil thoughts; and further, simplicity in
-> my way of living, far removed from the habits of the rich\.
-> 
-> 4\. From my great\-grandfather,\[D\] not to have frequented public schools,
-> and to have had good teachers at home, and to know that on such things a
-> man should spend liberally\.
+> 5\. From my governor, to be neither of the green nor of the blue party at
+> the games in the Circus, nor a partisan either of the Parmularius or the
+> Scutarius at the gladiators' fights; from him too I learned endurance of
+> labor, and to want little, and to work with my own hands, and not to
+> meddle with other people's affairs, and not to be ready to listen to
+> slander\.
 > 
 
-
-<details>
-<summary>Translator notes</summary>
-
-> &#32;&#32;&#32;&#32;\[A\] Annius Verus was his grandfather's name\. There is no verb
-> &#32;&#32;&#32;&#32;in this section connected with the word "from," nor in the
-> &#32;&#32;&#32;&#32;following sections of this book; and it is not quite certain
-> &#32;&#32;&#32;&#32;what verb should be supplied\. What I have added may express the
-> &#32;&#32;&#32;&#32;meaning here, though there are sections which it will not fit\.
-> &#32;&#32;&#32;&#32;If he does not mean to say that he learned all these good
-> &#32;&#32;&#32;&#32;things from the several persons whom he mentions, he means that
-> &#32;&#32;&#32;&#32;he observed certain good qualities in them, or received certain
-> &#32;&#32;&#32;&#32;benefits from them, and it is implied that he was the better
-> &#32;&#32;&#32;&#32;for it, or at least might have been: for it would be a mistake
-> &#32;&#32;&#32;&#32;to understand Marcus as saying that he possessed all the
-> &#32;&#32;&#32;&#32;virtues which he observed in his kinsmen and teachers\.
-> 
-> &#32;&#32;&#32;&#32;\[B\] His father's name was Annius Verus\.
-> 
-> &#32;&#32;&#32;&#32;\[C\] His mother was Domitia Calvilla, named also Lucilla\.
-> 
-> &#32;&#32;&#32;&#32;\[D\] Perhaps his mother's grandfather, Catilius Severus\.
-> 
-
-
-</details>
 
 <sub><a href="https://www.gutenberg.org/ebooks/15877">Source edition</a> · <a href="philosophy/README.md">Reading archive</a></sub>
 
