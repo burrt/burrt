@@ -2,35 +2,41 @@
 
 <!-- DAILY-PHILOSOPHY:START -->
 
-**Marcus Aurelius — Meditations I.6**  
-<sub>George Long translation · 2026-10-22 · Reading 3 of 437</sub>
+**Marcus Aurelius — Meditations I.7**  
+<sub>George Long translation · 2026-10-23 · Reading 4 of 437</sub>
 
-> 6\. From Diognetus,\[A\] not to busy myself about trifling things, and not
-> to give credit to what was said by miracle\-workers and jugglers about
-> incantations and the driving away of daemons and such things; and not to
-> breed quails \[for fighting\], nor to give myself up passionately to such
-> things; and to endure freedom of speech; and to have become intimate
-> with philosophy; and to have been a hearer, first of Bacchius, then of
-> Tandasis and Marcianus; and to have written dialogues in my youth; and
-> to have desired a plank bed and skin, and whatever else of the kind
-> belongs to the Grecian discipline\.
+> 7\. From Rusticus\[A\] I received the impression that my character required
+> improvement and discipline; and from him I learned not to be led astray
+> to sophistic emulation, nor to writing on speculative matters, nor to
+> delivering little hortatory orations, nor to showing myself off as a man
+> who practises much discipline, or does benevolent acts in order to make
+> a display; and to abstain from rhetoric, and poetry, and fine writing;
+> and not to walk about in the house in my outdoor dress, nor to do other
+> things of the kind; and to write my letters with simplicity, like the
+> letter which Rusticus wrote from Sinuessa to my mother; and with respect
+> to those who have offended me by words, or done me wrong, to be easily
+> disposed to be pacified and reconciled, as soon as they have shown a
+> readiness to be reconciled; and to read carefully, and not to be
+> satisfied with a superficial understanding of a book; nor hastily to
+> give my assent to those who talk overmuch; and I am indebted to him for
+> being acquainted with the discourses of Epictetus, which he communicated
+> to me out of his own collection\.
 > 
 
 
 <details>
 <summary>Translator notes</summary>
 
-> &#32;&#32;&#32;&#32;\[A\] In the works of Justinus there is printed a letter to one
-> &#32;&#32;&#32;&#32;Diognetus, whom the writer names "most excellent\." He was a
-> &#32;&#32;&#32;&#32;Gentile, but he wished very much to know what the religion of
-> &#32;&#32;&#32;&#32;the Christians was, what God they worshipped, and how this
-> &#32;&#32;&#32;&#32;worship made them despise the world and death, and neither
-> &#32;&#32;&#32;&#32;believe in the gods of the Greeks nor observe the superstition
-> &#32;&#32;&#32;&#32;of the Jews; and what was this love to one another which they
-> &#32;&#32;&#32;&#32;had, and why this new kind of religion was introduced now and
-> &#32;&#32;&#32;&#32;not before\. My friend Mr\. Jenkins, rector of Lyminge in Kent,
-> &#32;&#32;&#32;&#32;has suggested to me that this Diognetus may have been the tutor
-> &#32;&#32;&#32;&#32;of M\. Antoninus\.
+> &#32;&#32;&#32;&#32;\[A\] Q\. Junius Rusticus was a Stoic philosopher, whom Antoninus
+> &#32;&#32;&#32;&#32;valued highly, and often took his advice \(Capitol\. \_M\. Antonin\_\.
+> &#32;&#32;&#32;&#32;iii\)\.
+> 
+> &#32;&#32;&#32;&#32;Antoninus says, \[Greek: tois Epiktêteiois hypomnêmasin\] which
+> &#32;&#32;&#32;&#32;must not be translated, "the writings of Epictetus," for
+> &#32;&#32;&#32;&#32;Epictetus wrote nothing\. His pupil Arrian, who has preserved
+> &#32;&#32;&#32;&#32;for us all that we know of Epictetus, says, \[Greek: tauta
+> &#32;&#32;&#32;&#32;epeirathên hypomnêmata emautô diaphylaxai tês ekeinou dianoias\]
+> &#32;&#32;&#32;&#32;\(\_Ep\. ad\. Gell\_\.\)
 > 
 
 
