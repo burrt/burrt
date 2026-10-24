@@ -2,41 +2,28 @@
 
 <!-- DAILY-PHILOSOPHY:START -->
 
-**Marcus Aurelius — Meditations I.7**  
-<sub>George Long translation · 2026-10-23 · Reading 4 of 437</sub>
+**Marcus Aurelius — Meditations I.8**  
+<sub>George Long translation · 2026-10-24 · Reading 5 of 437</sub>
 
-> 7\. From Rusticus\[A\] I received the impression that my character required
-> improvement and discipline; and from him I learned not to be led astray
-> to sophistic emulation, nor to writing on speculative matters, nor to
-> delivering little hortatory orations, nor to showing myself off as a man
-> who practises much discipline, or does benevolent acts in order to make
-> a display; and to abstain from rhetoric, and poetry, and fine writing;
-> and not to walk about in the house in my outdoor dress, nor to do other
-> things of the kind; and to write my letters with simplicity, like the
-> letter which Rusticus wrote from Sinuessa to my mother; and with respect
-> to those who have offended me by words, or done me wrong, to be easily
-> disposed to be pacified and reconciled, as soon as they have shown a
-> readiness to be reconciled; and to read carefully, and not to be
-> satisfied with a superficial understanding of a book; nor hastily to
-> give my assent to those who talk overmuch; and I am indebted to him for
-> being acquainted with the discourses of Epictetus, which he communicated
-> to me out of his own collection\.
+> 8\. From Apollonius\[A\] I learned freedom of will and undeviating
+> steadiness of purpose; and to look to nothing else, not even for a
+> moment, except to reason; and to be always the same, in sharp pains, on
+> the occasion of the loss of a child, and in long illness; and to see
+> clearly in a living example that the same man can be both most resolute
+> and yielding, and not peevish in giving his instruction; and to have had
+> before my eyes a man who clearly considered his experience and his skill
+> in expounding philosophical principles as the smallest of his merits;
+> and from him I learned how to receive from friends what are esteemed
+> favors, without being either humbled by them or letting them pass
+> unnoticed\.
 > 
 
 
 <details>
 <summary>Translator notes</summary>
 
-> &#32;&#32;&#32;&#32;\[A\] Q\. Junius Rusticus was a Stoic philosopher, whom Antoninus
-> &#32;&#32;&#32;&#32;valued highly, and often took his advice \(Capitol\. \_M\. Antonin\_\.
-> &#32;&#32;&#32;&#32;iii\)\.
-> 
-> &#32;&#32;&#32;&#32;Antoninus says, \[Greek: tois Epiktêteiois hypomnêmasin\] which
-> &#32;&#32;&#32;&#32;must not be translated, "the writings of Epictetus," for
-> &#32;&#32;&#32;&#32;Epictetus wrote nothing\. His pupil Arrian, who has preserved
-> &#32;&#32;&#32;&#32;for us all that we know of Epictetus, says, \[Greek: tauta
-> &#32;&#32;&#32;&#32;epeirathên hypomnêmata emautô diaphylaxai tês ekeinou dianoias\]
-> &#32;&#32;&#32;&#32;\(\_Ep\. ad\. Gell\_\.\)
+> &#32;&#32;&#32;&#32;\[A\] Apollonius of Chalcis came to Rome in the time of Pius to
+> &#32;&#32;&#32;&#32;be Marcus' preceptor\. He was a rigid Stoic\.
 > 
 
 
