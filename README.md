@@ -2,28 +2,62 @@
 
 <!-- DAILY-PHILOSOPHY:START -->
 
-**Marcus Aurelius — Meditations I.8**  
-<sub>George Long translation · 2026-10-24 · Reading 5 of 437</sub>
+**Marcus Aurelius — Meditations I.9–13**  
+<sub>George Long translation · 2026-10-25 · Reading 6 of 437</sub>
 
-> 8\. From Apollonius\[A\] I learned freedom of will and undeviating
-> steadiness of purpose; and to look to nothing else, not even for a
-> moment, except to reason; and to be always the same, in sharp pains, on
-> the occasion of the loss of a child, and in long illness; and to see
-> clearly in a living example that the same man can be both most resolute
-> and yielding, and not peevish in giving his instruction; and to have had
-> before my eyes a man who clearly considered his experience and his skill
-> in expounding philosophical principles as the smallest of his merits;
-> and from him I learned how to receive from friends what are esteemed
-> favors, without being either humbled by them or letting them pass
-> unnoticed\.
+> 9\. From Sextus,\[A\] a benevolent disposition, and the example of a
+> family governed in a fatherly manner, and the idea of living conformably
+> to nature; and gravity without affectation, and to look carefully after
+> the interests of friends, and to tolerate ignorant persons, and those
+> who form opinions without consideration:\+ he had the power of readily
+> accommodating himself to all, so that intercourse with him was more
+> agreeable than any flattery; and at the same time he was most highly
+> venerated by those who associated with him: and he had the faculty both
+> of discovery and ordering, in an intelligent and methodical way, the
+> principles necessary for life; and he never showed anger or any other
+> passion, but was entirely free from passion, and also most affectionate;
+> and he could express approbation without noisy display, and he possessed
+> much knowledge without ostentation\.
+> 
+> 10\. From Alexander\[B\] the grammarian, to refrain from fault\-finding, and
+> not in a reproachful way to chide those who uttered any barbarous or
+> solecistic or strange\-sounding expression; but dexterously to introduce
+> the very expression which ought to have been used, and in the way of
+> answer or giving confirmation, or joining in an inquiry about the thing
+> itself, not about the word, or by some other fit suggestion\.
+> 
+> 11\. From Fronto\[C\] I learned to observe what envy and duplicity and
+> hypocrisy are in a tyrant, and that generally those among us who are
+> called Patricians are rather deficient in paternal affection\.
+> 
+> 12\. From Alexander the Platonic, not frequently nor without necessity to
+> say to any one, or to write in a letter, that I have no leisure; nor
+> continually to excuse the neglect of duties required by our relation to
+> those with whom we live, by alleging urgent occupations\.
+> 
+> 13\. From Catulus\[D\] not to be indifferent when a friend finds fault,
+> even if he should find fault without reason, but to try to restore him
+> to his usual disposition; and to be ready to speak well of teachers, as
+> it is reported of Domitius and Athenodotus; and to love my children
+> truly\.
 > 
 
 
 <details>
 <summary>Translator notes</summary>
 
-> &#32;&#32;&#32;&#32;\[A\] Apollonius of Chalcis came to Rome in the time of Pius to
-> &#32;&#32;&#32;&#32;be Marcus' preceptor\. He was a rigid Stoic\.
+> &#32;&#32;&#32;&#32;\[A\] Sextus of Chaeronea, a grandson of Plutarch, or nephew, as
+> &#32;&#32;&#32;&#32;some say; but more probably a grandson\.
+> 
+> &#32;&#32;&#32;&#32;\[B\] Alexander was a Grammaticus, a native of Phrygia\. He wrote
+> &#32;&#32;&#32;&#32;a commentary on Homer; and the rhetorician Aristides wrote a
+> &#32;&#32;&#32;&#32;panegyric on Alexander in a funeral oration\.
+> 
+> &#32;&#32;&#32;&#32;\[C\] M\. Cornelius Fronto was a rhetorician, and in great favor
+> &#32;&#32;&#32;&#32;with Marcus\. There are extant various letters between Marcus
+> &#32;&#32;&#32;&#32;and Fronto\.
+> 
+> &#32;&#32;&#32;&#32;\[D\] Cinna Catulus, a Stoic philosopher\.
 > 
 
 
