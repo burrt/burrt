@@ -161,21 +161,16 @@ def render_reading(
     return ("\n\n" + reading + "\n\n").encode("utf-8")
 
 
-def reading_url(passage: Passage, reading_number: int) -> str:
+def reading_url(reading_number: int) -> str:
     """Return the repository-relative archive URL for a numbered reading."""
-    return (
-        f"philosophy/readings/book-{passage['book']:02d}.md"
-        f"#reading-{reading_number}"
-    )
+    return f"philosophy/readings/reading-{reading_number:03d}.md"
 
 
-def previous_reading_url(
-    passages: list[Passage], reading_number: int
-) -> Optional[str]:
+def previous_reading_url(reading_number: int) -> Optional[str]:
     """Link to the preceding passage, leaving the first reading unlinked."""
     if reading_number <= 1:
         return None
-    return reading_url(passages[reading_number - 2], reading_number - 1)
+    return reading_url(reading_number - 1)
 
 
 def _validate_state(
@@ -248,7 +243,7 @@ def validate_progress(
             state["last_published_date"],
             next_index,
             len(passages),
-            previous_url=previous_reading_url(passages, next_index),
+            previous_url=previous_reading_url(next_index),
         )
 
     start_offset, end_offset = find_reading_region(readme)
@@ -319,7 +314,7 @@ def publish_daily_reading(
         publication_date.isoformat(),
         next_index + 1,
         len(passages),
-        previous_url=previous_reading_url(passages, next_index + 1),
+        previous_url=previous_reading_url(next_index + 1),
     )
     start_offset, end_offset = find_reading_region(readme)
     new_readme = readme[:start_offset] + new_reading + readme[end_offset:]

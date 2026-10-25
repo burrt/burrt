@@ -3,7 +3,7 @@
 <!-- DAILY-PHILOSOPHY:START -->
 
 **Marcus Aurelius — Meditations I.9–13**  
-<sub>George Long translation · 2026-10-25 · <a href="philosophy/readings/book-01.md#reading-5" aria-label="Previous reading">←</a> Reading 6 of 437</sub>
+<sub>George Long translation · 2026-10-25 · <a href="philosophy/readings/reading-005.md" aria-label="Previous reading">←</a> Reading 6 of 437</sub>
 
 > 9\. From Sextus,\[A\] a benevolent disposition, and the example of a
 > family governed in a fatherly manner, and the idea of living conformably

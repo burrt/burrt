@@ -263,15 +263,18 @@ class ReadingsTests(unittest.TestCase):
     def test_archive_navigation_and_source(self) -> None:
         """Every archive arrow resolves and every payload preserves bytes."""
         pages = archive.render_archive(self.source, self.passages)
-        self.assertEqual(len(pages), 12)
+        self.assertEqual(len(pages), len(self.passages))
         for reading_number, passage in enumerate(self.passages, start=1):
             with self.subTest(reading=reading_number):
-                filename = f"book-{passage['book']:02d}.md"
-                reading = (
-                    pages[filename]
-                    .split(f"\n## Reading {reading_number}\n".encode(), 1)[1]
-                    .split(b"\n## Reading ", 1)[0]
+                filename = f"reading-{reading_number:03d}.md"
+                reading = pages[filename]
+                self.assertEqual(reading.count(b"# Reading "), 1)
+                self.assertTrue(
+                    reading.startswith(
+                        f"# Reading {reading_number}\n".encode()
+                    )
                 )
+                self.assertEqual(reading.count(b"**Marcus Aurelius"), 1)
                 payload = self._quote_payload(reading)
                 self.assertEqual(
                     html.unescape(payload.decode()).encode(),
@@ -285,13 +288,21 @@ class ReadingsTests(unittest.TestCase):
                     b'aria-label="Next reading"' in reading,
                     reading_number < len(self.passages),
                 )
-                for target, anchor in re.findall(
-                    rb'href="(book-\d+\.md)#(reading-\d+)"', reading
-                ):
-                    heading = b"\n## " + anchor.replace(
-                        b"reading-", b"Reading "
+                targets = re.findall(rb'href="(reading-\d+\.md)"', reading)
+                expected_targets = []
+                if reading_number > 1:
+                    expected_targets.append(
+                        f"reading-{reading_number - 1:03d}.md"
                     )
-                    self.assertIn(heading + b"\n", pages[target.decode()])
+                if reading_number < len(self.passages):
+                    expected_targets.append(
+                        f"reading-{reading_number + 1:03d}.md"
+                    )
+                self.assertEqual(
+                    [target.decode() for target in targets], expected_targets
+                )
+                for target in targets:
+                    self.assertIn(target.decode(), pages)
 
     def test_daily_previous_arrow_crosses_book_boundary(self) -> None:
         """The daily reading links directly to the preceding archived text."""
@@ -306,13 +317,9 @@ class ReadingsTests(unittest.TestCase):
             "2026-10-20",
             reading_number,
             len(self.passages),
-            previous_url=daily.previous_reading_url(
-                self.passages, reading_number
-            ),
+            previous_url=daily.previous_reading_url(reading_number),
         )
-        self.assertIn(
-            b'href="philosophy/readings/book-01.md#reading-10"', rendered
-        )
+        self.assertIn(b'href="philosophy/readings/reading-010.md"', rendered)
 
     def test_notes_collapse_without_hiding_prose_or_verse(self) -> None:
         """Only definitions and their continuation paragraphs are collapsed."""
@@ -431,7 +438,7 @@ class ReadingsTests(unittest.TestCase):
             "2026-10-19",
             next_index,
             len(self.passages),
-            previous_url=daily.previous_reading_url(self.passages, next_index),
+            previous_url=daily.previous_reading_url(next_index),
         )
         self.readme_path.write_bytes(
             daily.START_MARKER + previous_reading + daily.END_MARKER
