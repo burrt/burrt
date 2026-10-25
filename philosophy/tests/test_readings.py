@@ -15,6 +15,7 @@ from typing import Any
 REPOSITORY_ROOT = Path(__file__).resolve().parents[2]
 sys.path.insert(0, str(REPOSITORY_ROOT / "philosophy/scripts"))
 
+import archive  # noqa: E402
 import audit_source  # noqa: E402
 import corpus  # noqa: E402
 import daily  # noqa: E402
@@ -247,6 +248,60 @@ class ReadingsTests(unittest.TestCase):
                 if not definitions:
                     self.assertNotIn(b"<details>", rendered)
 
+    def test_archive_navigation_and_source(self) -> None:
+        """Every archive arrow resolves and every payload preserves bytes."""
+        pages = archive.render_archive(self.source, self.passages)
+        self.assertEqual(len(pages), 12)
+        for reading_number, passage in enumerate(self.passages, start=1):
+            with self.subTest(reading=reading_number):
+                filename = f"book-{passage['book']:02d}.md"
+                reading = (
+                    pages[filename]
+                    .split(f"\n## Reading {reading_number}\n".encode(), 1)[1]
+                    .split(b"\n## Reading ", 1)[0]
+                )
+                payload = self._quote_payload(reading)
+                self.assertEqual(
+                    html.unescape(payload.decode()).encode(),
+                    self.source[passage["start"] : passage["end"]],
+                )
+                self.assertEqual(
+                    b'aria-label="Previous reading"' in reading,
+                    reading_number > 1,
+                )
+                self.assertEqual(
+                    b'aria-label="Next reading"' in reading,
+                    reading_number < len(self.passages),
+                )
+                for target, anchor in re.findall(
+                    rb'href="(book-\d+\.md)#(reading-\d+)"', reading
+                ):
+                    heading = b"\n## " + anchor.replace(
+                        b"reading-", b"Reading "
+                    )
+                    self.assertIn(heading + b"\n", pages[target.decode()])
+
+    def test_daily_previous_arrow_crosses_book_boundary(self) -> None:
+        """The daily reading links directly to the preceding archived text."""
+        reading_number = next(
+            index + 1
+            for index, passage in enumerate(self.passages)
+            if passage["book"] == 2
+        )
+        rendered = daily.render_reading(
+            self.source,
+            self.passages[reading_number - 1],
+            "2026-10-20",
+            reading_number,
+            len(self.passages),
+            previous_url=daily.previous_reading_url(
+                self.passages, reading_number
+            ),
+        )
+        self.assertIn(
+            b'href="philosophy/readings/book-01.md#reading-10"', rendered
+        )
+
     def test_notes_collapse_without_hiding_prose_or_verse(self) -> None:
         """Only definitions and their continuation paragraphs are collapsed."""
         prose = b"A thought[A] with [a clarification].\r\n\r\n"
@@ -364,6 +419,7 @@ class ReadingsTests(unittest.TestCase):
             "2026-10-19",
             next_index,
             len(self.passages),
+            previous_url=daily.previous_reading_url(self.passages, next_index),
         )
         self.readme_path.write_bytes(
             daily.START_MARKER + previous_reading + daily.END_MARKER

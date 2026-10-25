@@ -96,18 +96,24 @@ def find_reading_region(readme: bytes) -> tuple[int, int]:
 def render_reading(
     source: bytes,
     passage: Passage,
-    publication_date: str,
+    publication_date: Optional[str],
     reading_number: int,
     reading_count: int,
+    previous_url: Optional[str] = None,
+    next_url: Optional[str] = None,
+    archive_url: str = "philosophy/README.md#readings",
 ) -> bytes:
     """Format a reading while preserving the source payload exactly.
 
     Args:
         source: Frozen source bytes.
         passage: Reviewed section boundaries and source offsets.
-        publication_date: Publication date in ISO format.
+        publication_date: Publication date in ISO format, or None for archives.
         reading_number: One-based position in the reading sequence.
         reading_count: Total number of readings in the catalog.
+        previous_url: Link to the previous reading, when available.
+        next_url: Link to the next reading, when browsing the archive.
+        archive_url: Link to the full reading index.
 
     Returns:
         README content for the region between the reading markers.
@@ -119,11 +125,19 @@ def render_reading(
     if passage["last"] != passage["first"]:
         section_reference += f"–{passage['last']}"
     book_numeral = corpus.BOOK_NUMERALS[passage["book"] - 1]
+    navigation = f"Reading {reading_number} of {reading_count}"
+    if previous_url is not None:
+        navigation = (
+            f'<a href="{previous_url}" aria-label="Previous reading">'
+            "←</a> " + navigation
+        )
+    if next_url is not None:
+        navigation += f' <a href="{next_url}" aria-label="Next reading">→</a>'
+    date_label = f" · {publication_date}" if publication_date else ""
     title = (
         f"**Marcus Aurelius — Meditations {book_numeral}.{section_reference}**"
         "  \n"
-        f"<sub>George Long translation · {publication_date} · "
-        f"Reading {reading_number} of {reading_count}</sub>\n\n"
+        f"<sub>George Long translation{date_label} · {navigation}</sub>\n\n"
     )
 
     original_text = source[passage["start"] : passage["end"]]
@@ -137,7 +151,7 @@ def render_reading(
     reading += (
         '<sub><a href="https://www.gutenberg.org/ebooks/15877">'
         "Source edition</a>"
-        ' · <a href="philosophy/README.md">Reading archive</a></sub>'
+        f' · <a href="{archive_url}">Reading archive</a></sub>'
     )
     if reading_number == reading_count:
         reading += (
@@ -145,6 +159,23 @@ def render_reading(
             "All readings remain available in the archive.**"
         )
     return ("\n\n" + reading + "\n\n").encode("utf-8")
+
+
+def reading_url(passage: Passage, reading_number: int) -> str:
+    """Return the repository-relative archive URL for a numbered reading."""
+    return (
+        f"philosophy/readings/book-{passage['book']:02d}.md"
+        f"#reading-{reading_number}"
+    )
+
+
+def previous_reading_url(
+    passages: list[Passage], reading_number: int
+) -> Optional[str]:
+    """Link to the preceding passage, leaving the first reading unlinked."""
+    if reading_number <= 1:
+        return None
+    return reading_url(passages[reading_number - 2], reading_number - 1)
 
 
 def _validate_state(
@@ -217,6 +248,7 @@ def validate_progress(
             state["last_published_date"],
             next_index,
             len(passages),
+            previous_url=previous_reading_url(passages, next_index),
         )
 
     start_offset, end_offset = find_reading_region(readme)
@@ -287,6 +319,7 @@ def publish_daily_reading(
         publication_date.isoformat(),
         next_index + 1,
         len(passages),
+        previous_url=previous_reading_url(passages, next_index + 1),
     )
     start_offset, end_offset = find_reading_region(readme)
     new_readme = readme[:start_offset] + new_reading + readme[end_offset:]

@@ -4,3 +4,4 @@
 /philosophy/sources/meditations-george-long-gutenberg.html -text
 # The generated reading embeds the source's original CRLF line endings.
 /README.md -text
+/philosophy/readings/*.md -text

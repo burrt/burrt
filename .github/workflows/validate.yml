@@ -42,3 +42,4 @@ jobs:
       - run: python3 -m unittest discover -s philosophy/tests
       - run: python3 philosophy/scripts/audit_source.py
       - run: python3 philosophy/scripts/daily.py --check
+      - run: python3 philosophy/scripts/archive.py --check

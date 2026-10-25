@@ -63,7 +63,7 @@
 
 </details>
 
-<sub><a href="https://www.gutenberg.org/ebooks/15877">Source edition</a> · <a href="philosophy/README.md">Reading archive</a></sub>
+<sub><a href="https://www.gutenberg.org/ebooks/15877">Source edition</a> · <a href="philosophy/README.md#readings">Reading archive</a></sub>
 
 <!-- DAILY-PHILOSOPHY:END -->
 
