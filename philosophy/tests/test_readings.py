@@ -1,4 +1,4 @@
-"""Exercise publication and integrity checks using isolated source copies."""
+"""Check repository output and exercise publication in isolated copies."""
 
 import copy
 import html
@@ -19,6 +19,18 @@ import archive  # noqa: E402
 import audit_source  # noqa: E402
 import corpus  # noqa: E402
 import daily  # noqa: E402
+
+
+class RepositoryOutputTests(unittest.TestCase):
+    """Require checked-in output to match the current renderer and progress."""
+
+    def test_current_reading_matches_saved_progress(self) -> None:
+        """Catch stale README formatting without publishing another reading."""
+        daily.publish_daily_reading(REPOSITORY_ROOT, check_only=True)
+
+    def test_archive_matches_current_renderer(self) -> None:
+        """Catch stale archive output after source or rendering changes."""
+        archive.prepare_archive(REPOSITORY_ROOT, check_only=True)
 
 
 class ReadingsTests(unittest.TestCase):

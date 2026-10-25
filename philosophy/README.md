@@ -63,6 +63,11 @@ python3 philosophy/scripts/daily.py --check
 python3 philosophy/scripts/archive.py --check
 ```
 
+Run these checks after changing output or rendering code, and again if a
+merge or daily update changes the final files. The test suite also checks
+the actual README against saved progress and verifies every generated archive
+page against the current renderer. All of these checks are read-only.
+
 To simulate three future readings and preview the next one:
 
 ```sh

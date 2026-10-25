@@ -35,4 +35,14 @@ Read-only validation commands:
 python3 -m unittest discover -s philosophy/tests
 python3 philosophy/scripts/audit_source.py
 python3 philosophy/scripts/daily.py --check
+python3 philosophy/scripts/archive.py --check
 ```
+
+After changing rendered output, rendering code, the catalog, or progress,
+run all four commands against the final working tree before handing off or
+committing. The test suite validates the actual README and archive as well
+as isolated fixtures. Repeat validation if a merge, pull, or automated daily
+update changes those files after the checks pass.
+
+When formatting changes, update the displayed reading using its saved
+passage and publication date; do not advance progress to fix stale output.
