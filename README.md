@@ -2,62 +2,37 @@
 
 <!-- DAILY-PHILOSOPHY:START -->
 
-**Marcus Aurelius — Meditations I.9–13**  
-<sub>George Long translation · 2026-10-25 · <a href="philosophy/readings/reading-005.md" aria-label="Previous reading">←</a> Reading 6 of 437</sub>
+**Marcus Aurelius — Meditations I.14**  
+<sub>George Long translation · 2026-10-26 · <a href="philosophy/readings/reading-006.md" aria-label="Previous reading">←</a> Reading 7 of 437</sub>
 
-> 9\. From Sextus,\[A\] a benevolent disposition, and the example of a
-> family governed in a fatherly manner, and the idea of living conformably
-> to nature; and gravity without affectation, and to look carefully after
-> the interests of friends, and to tolerate ignorant persons, and those
-> who form opinions without consideration:\+ he had the power of readily
-> accommodating himself to all, so that intercourse with him was more
-> agreeable than any flattery; and at the same time he was most highly
-> venerated by those who associated with him: and he had the faculty both
-> of discovery and ordering, in an intelligent and methodical way, the
-> principles necessary for life; and he never showed anger or any other
-> passion, but was entirely free from passion, and also most affectionate;
-> and he could express approbation without noisy display, and he possessed
-> much knowledge without ostentation\.
-> 
-> 10\. From Alexander\[B\] the grammarian, to refrain from fault\-finding, and
-> not in a reproachful way to chide those who uttered any barbarous or
-> solecistic or strange\-sounding expression; but dexterously to introduce
-> the very expression which ought to have been used, and in the way of
-> answer or giving confirmation, or joining in an inquiry about the thing
-> itself, not about the word, or by some other fit suggestion\.
-> 
-> 11\. From Fronto\[C\] I learned to observe what envy and duplicity and
-> hypocrisy are in a tyrant, and that generally those among us who are
-> called Patricians are rather deficient in paternal affection\.
-> 
-> 12\. From Alexander the Platonic, not frequently nor without necessity to
-> say to any one, or to write in a letter, that I have no leisure; nor
-> continually to excuse the neglect of duties required by our relation to
-> those with whom we live, by alleging urgent occupations\.
-> 
-> 13\. From Catulus\[D\] not to be indifferent when a friend finds fault,
-> even if he should find fault without reason, but to try to restore him
-> to his usual disposition; and to be ready to speak well of teachers, as
-> it is reported of Domitius and Athenodotus; and to love my children
-> truly\.
+> 14\. From my brother\[A\] Severus, to love my kin, and to love truth, and
+> to love justice; and through him I learned to know Thrasea, Helvidius,
+> Cato, Dion, Brutus;\[B\] and from him I received the idea of a polity in
+> which there is the same law for all, a polity administered with regard
+> to equal rights and equal freedom of speech, and the idea of a kingly
+> government which respects most of all the freedom of the governed; I
+> learned from him also \+ consistency and undeviating steadiness in my
+> regard for philosophy; and a disposition to do good, and to give to
+> others readily, and to cherish good hopes, and to believe that I am
+> loved by my friends; and in him I observed no concealment of his
+> opinions with respect to those whom he condemned, and that his friends
+> had no need to conjecture what he wished or did not wish, but it was
+> quite plain\.
 > 
 
 
 <details>
 <summary>Translator notes</summary>
 
-> &#32;&#32;&#32;&#32;\[A\] Sextus of Chaeronea, a grandson of Plutarch, or nephew, as
-> &#32;&#32;&#32;&#32;some say; but more probably a grandson\.
+> &#32;&#32;&#32;&#32;\[A\] The word brother may not be genuine\. Antoninus had no
+> &#32;&#32;&#32;&#32;brother\. It has been supposed that he may mean some cousin\.
+> &#32;&#32;&#32;&#32;Schultz in his translation omits "brother," and says that this
+> &#32;&#32;&#32;&#32;Severus is probably Claudius Severus, a peripatetic\.
 > 
-> &#32;&#32;&#32;&#32;\[B\] Alexander was a Grammaticus, a native of Phrygia\. He wrote
-> &#32;&#32;&#32;&#32;a commentary on Homer; and the rhetorician Aristides wrote a
-> &#32;&#32;&#32;&#32;panegyric on Alexander in a funeral oration\.
-> 
-> &#32;&#32;&#32;&#32;\[C\] M\. Cornelius Fronto was a rhetorician, and in great favor
-> &#32;&#32;&#32;&#32;with Marcus\. There are extant various letters between Marcus
-> &#32;&#32;&#32;&#32;and Fronto\.
-> 
-> &#32;&#32;&#32;&#32;\[D\] Cinna Catulus, a Stoic philosopher\.
+> &#32;&#32;&#32;&#32;\[B\] We know, from Tacitus \(\_Annal\.\_ xiii\., xvi\. 21; and other
+> &#32;&#32;&#32;&#32;passages\), who Thrasea and Helvidius were\. Plutarch has written
+> &#32;&#32;&#32;&#32;the lives of the two Catos, and of Dion and Brutus\. Antoninus
+> &#32;&#32;&#32;&#32;probably alludes to Cato of Utica, who was a Stoic\.
 > 
 
 
