@@ -2,37 +2,34 @@
 
 <!-- DAILY-PHILOSOPHY:START -->
 
-**Marcus Aurelius — Meditations I.14**  
-<sub>George Long translation · 2026-10-26 · <a href="philosophy/readings/reading-006.md" aria-label="Previous reading">←</a> Reading 7 of 437</sub>
+**Marcus Aurelius — Meditations I.15**  
+<sub>George Long translation · 2026-10-27 · <a href="philosophy/readings/reading-007.md" aria-label="Previous reading">←</a> Reading 8 of 437</sub>
 
-> 14\. From my brother\[A\] Severus, to love my kin, and to love truth, and
-> to love justice; and through him I learned to know Thrasea, Helvidius,
-> Cato, Dion, Brutus;\[B\] and from him I received the idea of a polity in
-> which there is the same law for all, a polity administered with regard
-> to equal rights and equal freedom of speech, and the idea of a kingly
-> government which respects most of all the freedom of the governed; I
-> learned from him also \+ consistency and undeviating steadiness in my
-> regard for philosophy; and a disposition to do good, and to give to
-> others readily, and to cherish good hopes, and to believe that I am
-> loved by my friends; and in him I observed no concealment of his
-> opinions with respect to those whom he condemned, and that his friends
-> had no need to conjecture what he wished or did not wish, but it was
-> quite plain\.
+> 15\. From Maximus\[A\] I learned self\-government, and not to be led aside
+> by anything; and cheerfulness in all circumstances, as well as in
+> illness; and a just admixture in the moral character of sweetness and
+> dignity, and to do what was set before me without complaining\. I
+> observed that everybody believed that he thought as he spoke, and that
+> in all that he did he never had any bad intention; and he never showed
+> amazement and surprise, and was never in a hurry, and never put off
+> doing a thing, nor was perplexed nor dejected, nor did he ever laugh to
+> disguise his vexation, nor, on the other hand, was he ever passionate or
+> suspicious\. He was accustomed to do acts of beneficence, and was ready
+> to forgive, and was free from all falsehood; and he presented the
+> appearance of a man who could not be diverted from right, rather than of
+> a man who had been improved\. I observed, too, that no man could ever
+> think that he was despised by Maximus, or ever venture to think himself
+> a better man\. He had also the art of being humorous in an agreeable
+> way\.\+
 > 
 
 
 <details>
 <summary>Translator notes</summary>
 
-> &#32;&#32;&#32;&#32;\[A\] The word brother may not be genuine\. Antoninus had no
-> &#32;&#32;&#32;&#32;brother\. It has been supposed that he may mean some cousin\.
-> &#32;&#32;&#32;&#32;Schultz in his translation omits "brother," and says that this
-> &#32;&#32;&#32;&#32;Severus is probably Claudius Severus, a peripatetic\.
-> 
-> &#32;&#32;&#32;&#32;\[B\] We know, from Tacitus \(\_Annal\.\_ xiii\., xvi\. 21; and other
-> &#32;&#32;&#32;&#32;passages\), who Thrasea and Helvidius were\. Plutarch has written
-> &#32;&#32;&#32;&#32;the lives of the two Catos, and of Dion and Brutus\. Antoninus
-> &#32;&#32;&#32;&#32;probably alludes to Cato of Utica, who was a Stoic\.
+> &#32;&#32;&#32;&#32;\[A\] Claudius Maximus was a Stoic philosopher, who was highly
+> &#32;&#32;&#32;&#32;esteemed also by Antoninus Pius, Marcus' predecessor\. The
+> &#32;&#32;&#32;&#32;character of Maximus is that of a perfect man\. \(See viii\. 25\.\)
 > 
 
 
