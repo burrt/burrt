@@ -15,13 +15,17 @@
 > case of the knave, and the faithless man, and of every man who does
 > wrong in any way\. For at the same time that thou dost remind thyself
 > that it is impossible that such kind of men should not exist, thou wilt
-> become more kindly disposed towards every one individually\. It is useful
+> become more kindly disposed towards every one individually\.&#32;
+
+> It is useful
 > to perceive this, too, immediately when the occasion arises, what virtue
 > nature has given to man to oppose to every wrongful act\. For she has
 > given to man, as an antidote against the stupid man, mildness, and
 > against another kind of man some other power\. And in all cases it is
 > possible for thee to correct by teaching the man who is gone astray; for
-> every man who errs misses his object and is gone astray\. Besides,
+> every man who errs misses his object and is gone astray\.&#32;
+
+> Besides,
 > wherein hast thou been injured? For thou wilt find that no one among
 > those against whom thou art irritated has done anything by which thy
 > mind could be made worse; but that which is evil to thee and harmful has
@@ -31,7 +35,9 @@
 > thyself, because thou didst not expect such a man to err in such a way\.
 > For thou hadst means given thee by thy reason to suppose that it was
 > likely that he would commit this error, and yet thou hast forgotten and
-> art amazed that he has erred\. But most of all when thou blamest a man as
+> art amazed that he has erred\.&#32;
+
+> But most of all when thou blamest a man as
 > faithless or ungrateful, turn to thyself\. For the fault is manifestly
 > thy own, whether thou didst trust that a man who had such a disposition
 > would keep his promise, or when conferring thy kindness thou didst not
@@ -58,5 +64,5 @@
 
 </details>
 
-<sub><a href="https://www.gutenberg.org/ebooks/15877">Source edition</a> · <a href="../README.md#readings">Reading archive</a></sub>
+<sub><a href="https://www.gutenberg.org/ebooks/15877">Source edition</a> · <a href="../README.md#readings">Reading archive</a> · <a href="../paragraph-review.md">Editorial paragraph breaks</a></sub>
 

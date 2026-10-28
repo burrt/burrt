@@ -13,7 +13,9 @@
 > worshipper of the gods, kind, affectionate, strenuous in all proper
 > acts\. Strive to continue to be such as philosophy wished to make thee\.
 > Reverence the gods, and help men\. Short is life\. There is only one fruit
-> of this terrene life\-\-a pious disposition and social acts\. Do everything
+> of this terrene life\-\-a pious disposition and social acts\.&#32;
+
+> Do everything
 > as a disciple of Antoninus\. Remember his constancy in every act which
 > was conformable to reason, and his evenness in all things, and his
 > piety, and the serenity of his countenance, and his sweetness, and his
@@ -36,5 +38,5 @@
 > 
 
 
-<sub><a href="https://www.gutenberg.org/ebooks/15877">Source edition</a> · <a href="../README.md#readings">Reading archive</a></sub>
+<sub><a href="https://www.gutenberg.org/ebooks/15877">Source edition</a> · <a href="../README.md#readings">Reading archive</a> · <a href="../paragraph-review.md">Editorial paragraph breaks</a></sub>
 

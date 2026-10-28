@@ -5,6 +5,10 @@ Each reading opens on its own page, with ← and → navigation.
 Only the selected passage is displayed.
 The original-text links open the exact source lines, including the edition's notes.
 Readings vary in length; no numbered section has been split.
+Selected long passages have conservatively reviewed editorial paragraph breaks.
+The [paragraph and daily-reading review](paragraph-review.md) records the
+comparison editions, decisions, and limits. These presentation changes do not
+alter the reading sequence or the source wording.
 
 ## Operation
 
@@ -122,8 +126,13 @@ Every passage has its own SHA-256 checksum. The current and proposed README
 readings must match the exact source slice after reversing Markdown and HTML escapes.
 Markdown blockquotes let prose wrap naturally. Markdown escaping prevents
 Markdown from renumbering sections or interpreting the edition's text markings.
-Removing quote prefixes and reversing escapes recovers the original bytes,
-including line endings and indentation; browser layout may collapse whitespace.
+Removing quote prefixes, reversing escapes, and joining quote blocks in source
+order recovers the original bytes, including line endings and indentation;
+browser layout may collapse whitespace. Explicit sentence beginnings in
+`scripts/paragraphs.py` add reviewed paragraph divisions to selected long prose
+blocks. They do not split sentences, indented text, or translator notes, and
+affected readings link to the editorial review. The source files, passage
+boundaries, catalog, and publication progress do not change for paragraphing.
 Translator note definitions and their indented continuation paragraphs appear
 in collapsed **Translator notes** sections on every daily reading. Inline
 references and bracketed prose remain visible. Notes stay in source order, and

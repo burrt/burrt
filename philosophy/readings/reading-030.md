@@ -13,7 +13,9 @@
 > thoughts as these,\-\-What is such a person doing, and why, and what is he
 > saying, and what is he thinking of, and what is he contriving, and
 > whatever else of the kind makes us wander away from the observation of
-> our own ruling power\. We ought then to check in the series of our
+> our own ruling power\.&#32;
+
+> We ought then to check in the series of our
 > thoughts everything that is without a purpose and useless, but most of
 > all the over\-curious feeling and the malignant; and a man should use
 > himself to think of those things only about which if one should suddenly
@@ -23,7 +25,9 @@
 > such as befits a social animal, and one that cares not for thoughts
 > about pleasure or sensual enjoyments at all, nor has any rivalry or envy
 > and suspicion, or anything else for which thou wouldst blush if thou
-> shouldst say that thou hadst it in thy mind\. For the man who is such,
+> shouldst say that thou hadst it in thy mind\.&#32;
+
+> For the man who is such,
 > and no longer delays being among the number of the best, is like a
 > priest and minister of the gods, using too the \[deity\] which is planted
 > within him, which makes the man uncontaminated by pleasure, unharmed by
@@ -37,7 +41,9 @@
 > allotted to himself out of the sum total of things, and he makes his own
 > acts fair, and he is persuaded that his own portion is good\. For the lot
 > which is assigned to each man is carried along with him and carries him
-> along with it\.\+ And he remembers also that every rational animal is his
+> along with it\.\+&#32;
+
+> And he remembers also that every rational animal is his
 > kinsman, and that to care for all men is according to man's nature; and
 > a man should hold on to the opinion not of all, but of those only who
 > confessedly live according to nature\. But as to those who live not so,
@@ -49,5 +55,5 @@
 > 
 
 
-<sub><a href="https://www.gutenberg.org/ebooks/15877">Source edition</a> · <a href="../README.md#readings">Reading archive</a></sub>
+<sub><a href="https://www.gutenberg.org/ebooks/15877">Source edition</a> · <a href="../README.md#readings">Reading archive</a> · <a href="../paragraph-review.md">Editorial paragraph breaks</a></sub>
 

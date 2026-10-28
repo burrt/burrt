@@ -12,11 +12,15 @@
 > anything to propose for the common weal; and undeviating firmness in
 > giving to every man according to his deserts; and a knowledge derived
 > from experience of the occasions for vigorous action and for remission\.
+
+
 > And I observed that he had overcome all passion for boys; and he
 > considered himself no more than any other citizen;\[B\] and he released
 > his friends from all obligation to sup with him or to attend him of
 > necessity when he went abroad, and those who had failed to accompany
-> him, by reason of any urgent circumstances, always found him the same\. I
+> him, by reason of any urgent circumstances, always found him the same\.&#32;
+
+> I
 > observed too his habit of careful inquiry in all matters of
 > deliberation, and his persistency, and that he never stopped his
 > investigation through being satisfied with appearances which first
@@ -31,14 +35,18 @@
 > conduct; and he was neither superstitious with respect to the gods, nor
 > did he court men by gifts or by trying to please them, or by flattering
 > the populace; but he showed sobriety in all things, and firmness, and
-> never any mean thoughts or action, nor love of novelty\. And the things
+> never any mean thoughts or action, nor love of novelty\.&#32;
+
+> And the things
 > which conduce in any way to the commodity of life, and of which fortune
 > gives an abundant supply, he used without arrogance and without excusing
 > himself; so that when he had them, he enjoyed them without affectation,
 > and when he had them not, he did not want them\. No one could ever say of
 > him that he was either a sophist or a \[home\-bred\] flippant slave or a
 > pedant; but every one acknowledged him to be a man ripe, perfect, above
-> flattery, able to manage his own and other men's affairs\. Besides this,
+> flattery, able to manage his own and other men's affairs\.&#32;
+
+> Besides this,
 > he honored those who were true philosophers, and he did not reproach
 > those who pretended to be philosophers, nor yet was he easily led by
 > them\. He was also easy in conversation, and he made himself agreeable
@@ -46,13 +54,17 @@
 > body's health, not as one who was greatly attached to life, nor out of
 > regard to personal appearance, nor yet in a careless way, but so that
 > through his own attention he very seldom stood in need of the
-> physician's art or of medicine or external applications\. He was most
+> physician's art or of medicine or external applications\.&#32;
+
+> He was most
 > ready to give without envy to those who possessed any particular
 > faculty, such as that of eloquence or knowledge of the law or of morals,
 > or of anything else; and he gave them his help, that each might enjoy
 > reputation according to his deserts; and he always acted conformably to
 > the institutions of his country, without showing any affectation of
-> doing so\. Further, he was not fond of change nor unsteady, but he loved
+> doing so\.&#32;
+
+> Further, he was not fond of change nor unsteady, but he loved
 > to stay in the same places, and to employ himself about the same things;
 > and after his paroxysms of headache he came immediately fresh and
 > vigorous to his usual occupations\. His secrets were not many, but very
@@ -60,13 +72,17 @@
 > prudence and economy in the exhibition of the public spectacles and the
 > construction of public buildings, his donations to the people, and in
 > such things, for he was a man who looked to what ought to be done, not
-> to the reputation which is got by a man's acts\. He did not take the bath
+> to the reputation which is got by a man's acts\.&#32;
+
+> He did not take the bath
 > at unseasonable hours; he was not fond of building houses, nor curious
 > about what he ate, nor about the texture and color of his clothes, nor
 > about the beauty of his slaves\.\[C\] His dress came from Lorium, his villa
 > on the coast, and from Lanuvium generally\.\[D\] We know how he behaved to
 > the toll\-collector at Tusculum who asked his pardon; and such was all
-> his behavior\. There was in him nothing harsh, nor implacable, nor
+> his behavior\.&#32;
+
+> There was in him nothing harsh, nor implacable, nor
 > violent, nor, as one may say, anything carried to the sweating point;
 > but he examined all things severally, as if he had abundance of time,
 > and without confusion, in an orderly way, vigorously and consistently\.
@@ -101,7 +117,7 @@
 
 </details>
 
-<sub><a href="https://www.gutenberg.org/ebooks/15877">Source edition</a> · <a href="philosophy/README.md#readings">Reading archive</a></sub>
+<sub><a href="https://www.gutenberg.org/ebooks/15877">Source edition</a> · <a href="philosophy/README.md#readings">Reading archive</a> · <a href="philosophy/paragraph-review.md">Editorial paragraph breaks</a></sub>
 
 <!-- DAILY-PHILOSOPHY:END -->
 

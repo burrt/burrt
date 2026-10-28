@@ -16,7 +16,9 @@
 > Nature herself design to do evil to the things which are parts of
 > herself, and to make them subject to evil and of necessity fall into
 > evil, or have such results happened without her knowing it? Both these
-> suppositions, indeed, are incredible\. But if a man should even drop the
+> suppositions, indeed, are incredible\.&#32;
+
+> But if a man should even drop the
 > term Nature \[as an efficient power\], and should speak of these things as
 > natural, even then it would be ridiculous to affirm at the same time
 > that the parts of the whole are in their nature subject to change, and
@@ -27,7 +29,9 @@
 > or a change from the solid to the earthy and from the airy to the
 > aerial, so that these parts are taken back into the universal reason,
 > whether this at certain periods is consumed by fire or renewed by
-> eternal changes\. And do not imagine that the solid and the airy part
+> eternal changes\.&#32;
+
+> And do not imagine that the solid and the airy part
 > belong to thee from the time of generation\. For all this received its
 > accretion only yesterday and the day before, as one may say, from the
 > food and the air which is inspired\. This, then, which has received \[the
@@ -54,5 +58,5 @@
 
 </details>
 
-<sub><a href="https://www.gutenberg.org/ebooks/15877">Source edition</a> · <a href="../README.md#readings">Reading archive</a></sub>
+<sub><a href="https://www.gutenberg.org/ebooks/15877">Source edition</a> · <a href="../README.md#readings">Reading archive</a> · <a href="../paragraph-review.md">Editorial paragraph breaks</a></sub>
 

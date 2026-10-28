@@ -11,6 +11,7 @@ import unittest
 from datetime import date
 from pathlib import Path
 from typing import Any
+from unittest.mock import patch
 
 REPOSITORY_ROOT = Path(__file__).resolve().parents[2]
 sys.path.insert(0, str(REPOSITORY_ROOT / "philosophy/scripts"))
@@ -19,6 +20,7 @@ import archive  # noqa: E402
 import audit_source  # noqa: E402
 import corpus  # noqa: E402
 import daily  # noqa: E402
+import paragraphs  # noqa: E402
 
 
 class RepositoryOutputTests(unittest.TestCase):
@@ -259,6 +261,81 @@ class ReadingsTests(unittest.TestCase):
                 self.assertEqual(len(hidden_definitions), len(definitions))
                 if not definitions:
                     self.assertNotIn(b"<details>", rendered)
+
+    def test_reviewed_paragraphs_preserve_whitespace_and_notes(self) -> None:
+        """Editorial breaks retain spaces, CRLF, and note placement."""
+        original = (
+            b"First sentence.[A] Second sentence.\r\nThird sentence.\r\n\r\n"
+            b"    [A] A note remains intact. More explanation.\r\n\r\n"
+        )
+        passage = dict(self.passages[0], start=0, end=len(original))
+        anchors = (b"Second sentence.", b"Third sentence.")
+        with patch.dict(paragraphs.PARAGRAPH_STARTS, {passage["id"]: anchors}):
+            source_blocks = daily.split_translator_notes(original)
+            split_blocks = paragraphs.split_paragraphs(
+                source_blocks, passage["id"]
+            )
+            self.assertEqual(
+                split_blocks,
+                [
+                    (False, b"First sentence.[A] "),
+                    (False, b"Second sentence.\r\n"),
+                    (False, b"Third sentence.\r\n\r\n"),
+                    source_blocks[-1],
+                ],
+            )
+            rendered = daily.render_reading(
+                original, passage, "2026-10-20", 1, 2
+            )
+            archive_rendered = daily.render_reading(
+                original,
+                passage,
+                None,
+                1,
+                2,
+                archive_url="../README.md#readings",
+            )
+        self.assertIn(b"\\[A\\]&#32;\n\n> Second", rendered)
+        self.assertIn(b"sentence\\.\r\n\n\n> Third", rendered)
+        self.assertEqual(rendered.count(b"<details>"), 1)
+        self.assertIn(b'href="philosophy/paragraph-review.md"', rendered)
+        self.assertIn(b'href="../paragraph-review.md"', archive_rendered)
+        self.assertEqual(
+            html.unescape(self._quote_payload(rendered).decode()).encode(),
+            original,
+        )
+
+    def test_invalid_editorial_paragraphs_are_rejected(self) -> None:
+        """Reject anchors within sentences, verse, or hidden notes."""
+        passage_id = "test-paragraphs"
+        cases = (
+            ([(False, b"First. Next.")], (b"Missing.",)),
+            ([(False, b"First. Next. Next.")], (b"Next.",)),
+            ([(False, b"First. Second. Third.")], (b"Third.", b"Second.")),
+            ([(False, b"First. Next.")], (b"Next.", b"Next.")),
+            ([(False, b"First. Next.")], (b"First.",)),
+            ([(False, b"First. Next.")], (b" Next.",)),
+            ([(False, b"First. Next.")], (b"",)),
+            ([(False, b"First; Next.")], (b"Next.",)),
+            ([(False, b"First.Next.")], (b"Next.",)),
+            ([(False, b"First.\r\n\r\nNext.")], (b"Next.",)),
+            ([(False, b"    Verse. Another line.")], (b"Another line.",)),
+            (
+                [(False, b"First.\r\n\r\n"), (True, b"[A] Note. More.")],
+                (b"More.",),
+            ),
+            (
+                [(False, b"First. "), (False, b"Next.")],
+                (b"Next.",),
+            ),
+        )
+        for blocks, anchors in cases:
+            with self.subTest(blocks=blocks, anchors=anchors):
+                with patch.dict(
+                    paragraphs.PARAGRAPH_STARTS, {passage_id: anchors}
+                ):
+                    with self.assertRaises(ValueError):
+                        paragraphs.split_paragraphs(blocks, passage_id)
 
     def test_archive_navigation_and_source(self) -> None:
         """Every archive arrow resolves and every payload preserves bytes."""

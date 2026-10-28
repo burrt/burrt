@@ -47,10 +47,13 @@ throughout; the audit does not merge the formats or correct discrepancies.
 The automated checks establish exact fidelity to the frozen text snapshot.
 They verify source hashes, section numbering, contiguous coverage of each book,
 every reading's offsets and checksum, and the README content against its source
-slice. Markdown quote prefixes, escapes, and collapsible note wrappers are
-presentation additions. Reversing them and joining all blocks in source order
-is verified to recover the original bytes. The browser wraps prose naturally and may collapse source whitespace;
-the linked source retains the original layout.
+slice. Markdown quote prefixes, escapes, collapsible note wrappers, and
+[reviewed editorial paragraph breaks](../paragraph-review.md) are presentation
+additions. Reversing them and joining all blocks in source order is verified to
+recover the original bytes. Paragraph breaks preserve complete sentences and
+do not alter which passage appears each day. The browser wraps prose naturally
+and may collapse source whitespace; the linked source retains the original
+layout.
 
 AI review cannot certify that the ebook's transcription or translation is
 error-free. Apparent anomalies remain unchanged, including `who snowed` in

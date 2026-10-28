@@ -15,7 +15,9 @@
 > means something like this: he prescribed this for this man as a thing
 > adapted to procure health; and in the second case it means, That which
 > happens\[A\] to \[or suits\] every man is fixed in a manner for him suitably
-> to his destiny\. For this is what we mean when we say that things are
+> to his destiny\.&#32;
+
+> For this is what we mean when we say that things are
 > suitable to us, as the workmen say of squared stones in walls or the
 > pyramids, that they are suitable, when they fit them to one another in
 > some kind of connection\. For there is altogether one fitness \[harmony\]\.
@@ -24,7 +26,9 @@
 > such a cause as it is\. And even those who are completely ignorant
 > understand what I mean; for they say, It \[necessity, destiny\] brought
 > this to such a person\.\-\-This then was brought and this was prescribed to
-> him\. Let us then receive these things, as well as those which
+> him\.&#32;
+
+> Let us then receive these things, as well as those which
 > Aesculapius prescribes\. Many as a matter of course even among his
 > prescriptions are disagreeable, but we accept them in the hope of
 > health\. Let the perfecting and accomplishment of the things which the
@@ -35,7 +39,9 @@
 > he would not have brought on any man what he has brought, if it were not
 > useful for the whole\. Neither does the nature of anything, whatever it
 > may be, cause anything which is not suitable to that which is directed
-> by it\. For two reasons then it is right to be content with that which
+> by it\.&#32;
+
+> For two reasons then it is right to be content with that which
 > happens to thee; the one, because it was done for thee and prescribed
 > for thee, and in a manner had reference to thee, originally from the
 > most ancient causes spun with thy destiny; and the other, because even
@@ -63,5 +69,5 @@
 > 
 
 
-<sub><a href="https://www.gutenberg.org/ebooks/15877">Source edition</a> · <a href="../README.md#readings">Reading archive</a></sub>
+<sub><a href="https://www.gutenberg.org/ebooks/15877">Source edition</a> · <a href="../README.md#readings">Reading archive</a> · <a href="../paragraph-review.md">Editorial paragraph breaks</a></sub>
 

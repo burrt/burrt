@@ -27,7 +27,9 @@
 > presented to thee, so as to see distinctly what kind of a thing it is in
 > its substance, in its nudity, in its complete entirety, and tell thyself
 > its proper name, and the names of the things of which it has been
-> compounded, and into which it will be resolved\. For nothing is so
+> compounded, and into which it will be resolved\.&#32;
+
+> For nothing is so
 > productive of elevation of mind as to be able to examine methodically
 > and truly every object which is presented to thee in life, and always to
 > look at things so as to see at the same time what kind of universe this
@@ -38,7 +40,9 @@
 > long it is the nature of this thing to endure which now makes an
 > impression on me, and what virtue I have need of with respect to it,
 > such as gentleness, manliness, truth, fidelity, simplicity, contentment,
-> and the rest\. Wherefore, on every occasion a man should say: This comes
+> and the rest\.&#32;
+
+> Wherefore, on every occasion a man should say: This comes
 > from god; and this is according to the apportionment \+ and spinning of
 > the thread of destiny, and such\-like coincidence and chance; and this is
 > from one of the same stock, and a kinsman and partner, one who knows
@@ -59,5 +63,5 @@
 
 </details>
 
-<sub><a href="https://www.gutenberg.org/ebooks/15877">Source edition</a> · <a href="../README.md#readings">Reading archive</a></sub>
+<sub><a href="https://www.gutenberg.org/ebooks/15877">Source edition</a> · <a href="../README.md#readings">Reading archive</a> · <a href="../paragraph-review.md">Editorial paragraph breaks</a></sub>
 

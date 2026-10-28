@@ -13,7 +13,9 @@
 > was not hurried into any offence against any of them, though I had a
 > disposition which, if opportunity had offered, might have led me to do
 > something of this kind; but, through their favor, there never was such a
-> concurrence of circumstances as put me to the trial\. Further, I am
+> concurrence of circumstances as put me to the trial\.&#32;
+
+> Further, I am
 > thankful to the gods that I was not longer brought up with my
 > grandfather's concubine, and that I preserved the flower of my youth,
 > and that I did not make proof of my virility before the proper season,
@@ -25,7 +27,9 @@
 > himself very near to the fashion of a private person, without being for
 > this reason either meaner in thought, or more remiss in action, with
 > respect to the things which must be done for the public interest in a
-> manner that befits a ruler\. I thank the gods for giving me such a
+> manner that befits a ruler\.&#32;
+
+> I thank the gods for giving me such a
 > brother,\[A\] who was able by his moral character to rouse me to vigilance
 > over myself, and who at the same time pleased me by his respect and
 > affection; that my children have not been stupid nor deformed in body;
@@ -86,5 +90,5 @@
 
 </details>
 
-<sub><a href="https://www.gutenberg.org/ebooks/15877">Source edition</a> · <a href="../README.md#readings">Reading archive</a></sub>
+<sub><a href="https://www.gutenberg.org/ebooks/15877">Source edition</a> · <a href="../README.md#readings">Reading archive</a> · <a href="../paragraph-review.md">Editorial paragraph breaks</a></sub>
 

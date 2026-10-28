@@ -13,7 +13,9 @@
 > according to right reason, and in the condition that is assigned to thee
 > without thy own choice; if, I say, thou seest anything better than this,
 > turn to it with all thy soul, and enjoy that which thou hast found to be
-> the best\. But if nothing appears to be better than the Deity which is
+> the best\.&#32;
+
+> But if nothing appears to be better than the Deity which is
 > planted in thee, which has subjected to itself all thy appetites, and
 > carefully examines all the impressions, and, as Socrates said, has
 > detached itself from the persuasions of sense, and has submitted itself
@@ -26,7 +28,9 @@
 > pleasure, should come into competition with that which is rationally and
 > politically \[or, practically\] good\. All these things, even though they
 > may seem to adapt themselves \[to the better things\] in a small degree,
-> obtain the superiority all at once, and carry us away\. But do thou, I
+> obtain the superiority all at once, and carry us away\.&#32;
+
+> But do thou, I
 > say, simply and freely choose the better, and hold to it\.\-\-But that
 > which is useful is the better\.\-\-Well, then, if it is useful to thee as a
 > rational being, keep to it; but if it is only useful to thee as an
@@ -35,5 +39,5 @@
 > 
 
 
-<sub><a href="https://www.gutenberg.org/ebooks/15877">Source edition</a> · <a href="../README.md#readings">Reading archive</a></sub>
+<sub><a href="https://www.gutenberg.org/ebooks/15877">Source edition</a> · <a href="../README.md#readings">Reading archive</a> · <a href="../paragraph-review.md">Editorial paragraph breaks</a></sub>
 

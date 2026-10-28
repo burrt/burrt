@@ -15,7 +15,9 @@
 > parting with the useless part of our food\. What then is worth being
 > valued? To be received with clapping of hands? No\. Neither must we value
 > the clapping of tongues; for the praise which comes from the many is a
-> clapping of tongues\. Suppose then that thou hast given up this worthless
+> clapping of tongues\.&#32;
+
+> Suppose then that thou hast given up this worthless
 > thing called fame, what remains that is worth valuing? This, in my
 > opinion: to move thyself and to restrain thyself in conformity to thy
 > proper constitution, to which end both all employments and arts lead\.
@@ -25,6 +27,8 @@
 > trains the dog, seek this end\. But the education and the teaching of
 > youth aim at something\. In this then is the value of the education and
 > the teaching\. And if this is well, thou wilt not seek anything else\.
+
+
 > Wilt thou not cease to value many other things too? Then thou wilt be
 > neither free, nor sufficient for thy own happiness, nor without passion\.
 > For of necessity thou must be envious, jealous, and suspicious of those
@@ -38,5 +42,5 @@
 > 
 
 
-<sub><a href="https://www.gutenberg.org/ebooks/15877">Source edition</a> · <a href="../README.md#readings">Reading archive</a></sub>
+<sub><a href="https://www.gutenberg.org/ebooks/15877">Source edition</a> · <a href="../README.md#readings">Reading archive</a> · <a href="../paragraph-review.md">Editorial paragraph breaks</a></sub>
 

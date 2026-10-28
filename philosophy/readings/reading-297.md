@@ -17,7 +17,9 @@
 > nor contemptuous with respect to death, but to wait for it as one of the
 > operations of nature\. As thou now waitest for the time when the child
 > shall come out of thy wife's womb, so be ready for the time when thy
-> soul shall fall out of this envelope\.\[A\] But if thou requirest also a
+> soul shall fall out of this envelope\.\[A\]&#32;
+
+> But if thou requirest also a
 > vulgar kind of comfort which shall reach thy heart, thou wilt be made
 > best reconciled to death by observing the objects from which thou art
 > going to be removed, and the morals of those with whom thy soul will no
@@ -42,5 +44,5 @@
 
 </details>
 
-<sub><a href="https://www.gutenberg.org/ebooks/15877">Source edition</a> · <a href="../README.md#readings">Reading archive</a></sub>
+<sub><a href="https://www.gutenberg.org/ebooks/15877">Source edition</a> · <a href="../README.md#readings">Reading archive</a> · <a href="../paragraph-review.md">Editorial paragraph breaks</a></sub>
 

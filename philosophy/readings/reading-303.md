@@ -16,7 +16,9 @@
 > elemental fire, but it is so ready to be kindled together with all the
 > fire which is here, that even every substance which is somewhat dry is
 > easily ignited, because there is less mingled with it of that which is a
-> hindrance to ignition\. Accordingly, then, everything also which
+> hindrance to ignition\.&#32;
+
+> Accordingly, then, everything also which
 > participates in the common intelligent nature moves in like manner
 > towards that which is of the same kind with itself, or moves even more\.
 > For so much as it is superior in comparison with all other things, in
@@ -32,7 +34,9 @@
 > are still superior, even though they are separated from one another,
 > unity in a manner exists, as in the stars\. Thus the ascent to the higher
 > degree is able to produce a sympathy even in things which are
-> separated\. See, then, what now takes place; for only intelligent animals
+> separated\.&#32;
+
+> See, then, what now takes place; for only intelligent animals
 > have now forgotten this mutual desire and inclination, and in them alone
 > the property of flowing together is not seen\. But still, though men
 > strive to avoid \[this union\], they are caught and held by it, for their
@@ -43,5 +47,5 @@
 > 
 
 
-<sub><a href="https://www.gutenberg.org/ebooks/15877">Source edition</a> · <a href="../README.md#readings">Reading archive</a></sub>
+<sub><a href="https://www.gutenberg.org/ebooks/15877">Source edition</a> · <a href="../README.md#readings">Reading archive</a> · <a href="../paragraph-review.md">Editorial paragraph breaks</a></sub>
 

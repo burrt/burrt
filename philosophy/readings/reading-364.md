@@ -16,12 +16,16 @@
 > doing of the things which are conformable to man's constitution; for a
 > man ought to consider as an enjoyment everything which it is in his
 > power to do according to his own nature\. And it is in his power
-> everywhere\. Now, it is not given to a cylinder to move everywhere by its
+> everywhere\.&#32;
+
+> Now, it is not given to a cylinder to move everywhere by its
 > own motion, nor yet to water nor to fire, nor to anything else which is
 > governed by nature or an irrational soul, for the things which check
 > them and stand in the way are many\. But intelligence and reason are able
 > to go through everything that opposes them, and in such manner as they
-> are formed by nature and as they choose\. Place before thy eyes this
+> are formed by nature and as they choose\.&#32;
+
+> Place before thy eyes this
 > facility with which the reason will be carried through all things, as
 > fire upwards, as a stone downwards, as a cylinder down an inclined
 > surface, and seek for nothing further\. For all other obstacles either
@@ -32,7 +36,9 @@
 > whatever harm may happen to any of them, that which is so affected
 > becomes consequently worse; but in the like case, a man becomes both
 > better, if one may say so, and more worthy of praise by making a right
-> use of these accidents\. And finally remember that nothing harms him who
+> use of these accidents\.&#32;
+
+> And finally remember that nothing harms him who
 > is really a citizen, which does not harm the state; nor yet does
 > anything harm the state, which does not harm law \[order\]; and of these
 > things which are called misfortunes not one harms law\. What then does
@@ -40,5 +46,5 @@
 > 
 
 
-<sub><a href="https://www.gutenberg.org/ebooks/15877">Source edition</a> · <a href="../README.md#readings">Reading archive</a></sub>
+<sub><a href="https://www.gutenberg.org/ebooks/15877">Source edition</a> · <a href="../README.md#readings">Reading archive</a> · <a href="../paragraph-review.md">Editorial paragraph breaks</a></sub>
 

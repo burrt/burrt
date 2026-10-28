@@ -16,7 +16,9 @@
 > to thee by the common nature; and that Magnanimity is the elevation of
 > the intelligent part above the pleasurable or painful sensations of the
 > flesh, and above that poor thing called fame, and death, and all such
-> things\. If, then, thou maintainest thyself in the possession of these
+> things\.&#32;
+
+> If, then, thou maintainest thyself in the possession of these
 > names, without desiring to be called by these names by others, thou wilt
 > be another person and wilt enter on another life\. For to continue to be
 > such as thou hast hitherto been, and to be torn in pieces and defiled in
@@ -24,14 +26,18 @@
 > his life, and like those half\-devoured fighters with wild beasts, who
 > though covered with wounds and gore, still intreat to be kept to the
 > following day, though they will be exposed in the same state to the same
-> claws and bites\.\[A\] Therefore fix thyself in the possession of these few
+> claws and bites\.\[A\]&#32;
+
+> Therefore fix thyself in the possession of these few
 > names: and if thou art able to abide in them, abide as if thou wast
 > removed to certain islands of the Happy\.\[B\] But if thou shalt perceive
 > that thou fallest out of them and dost not maintain thy hold, go
 > courageously into some nook where thou shalt maintain them, or even
 > depart at once from life, not in passion, but with simplicity and
 > freedom and modesty, after doing this one \[laudable\] thing at least in
-> thy life, to have gone out of it thus\. In order, however to the
+> thy life, to have gone out of it thus\.&#32;
+
+> In order, however to the
 > remembrance of these names, it will greatly help thee if thou
 > rememberest the gods, and that they wish not to be flattered, but wish
 > all reasonable beings to be made like themselves; and if thou
@@ -104,5 +110,5 @@
 
 </details>
 
-<sub><a href="https://www.gutenberg.org/ebooks/15877">Source edition</a> · <a href="../README.md#readings">Reading archive</a></sub>
+<sub><a href="https://www.gutenberg.org/ebooks/15877">Source edition</a> · <a href="../README.md#readings">Reading archive</a> · <a href="../paragraph-review.md">Editorial paragraph breaks</a></sub>
 

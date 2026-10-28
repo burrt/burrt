@@ -11,7 +11,9 @@
 > made rational animals for the sake of one another, to help one another
 > according to their deserts, but in no way to injure one another, he who
 > transgresses her will is clearly guilty of impiety towards the highest
-> divinity\. And he too who lies is guilty of impiety to the same divinity;
+> divinity\.&#32;
+
+> And he too who lies is guilty of impiety to the same divinity;
 > for the universal nature is the nature of things that are; and things
 > that are have a relation to all things that come into existence\.\[A\] And
 > further, this universal nature is named truth, and is the prime cause of
@@ -22,7 +24,9 @@
 > nature of the world; for he fights against it, who is moved of himself
 > to that which is contrary to truth, for he had received powers from
 > nature through the neglect of which he is not able now to distinguish
-> falsehood from truth\. And indeed he who pursues pleasure as good, and
+> falsehood from truth\.&#32;
+
+> And indeed he who pursues pleasure as good, and
 > avoids pain as evil, is guilty of impiety\. For of necessity such a man
 > must often find fault with the universal nature, alleging that it
 > assigns things to the bad and the good contrary to their deserts,
@@ -32,13 +36,17 @@
 > pain will sometimes also be afraid of some of the things which will
 > happen in the world, and even this is impiety\. And he who pursues
 > pleasure will not abstain from injustice, and this is plainly impiety\.
+
+
 > Now with respect to the things towards which the universal nature is
 > equally affected\-\-for it would not have made both, unless it was equally
 > affected towards both\-\-towards these they who wish to follow nature
 > should be of the same mind with it, and equally affected\. With respect
 > to pain, then, and pleasure, or death and life, or honor and dishonor,
 > which the universal nature employs equally, whoever is not equally
-> affected is manifestly acting impiously\. And I say that the universal
+> affected is manifestly acting impiously\.&#32;
+
+> And I say that the universal
 > nature employs them equally, instead of saying that they happen alike to
 > those who are produced in continuous series and to those who come after
 > them by virtue of a certain original movement of Providence, according
@@ -74,5 +82,5 @@
 
 </details>
 
-<sub><a href="https://www.gutenberg.org/ebooks/15877">Source edition</a> · <a href="../README.md#readings">Reading archive</a></sub>
+<sub><a href="https://www.gutenberg.org/ebooks/15877">Source edition</a> · <a href="../README.md#readings">Reading archive</a> · <a href="../paragraph-review.md">Editorial paragraph breaks</a></sub>
 

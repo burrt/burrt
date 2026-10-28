@@ -21,7 +21,9 @@
 > necessary\. However, Nature has fixed bounds to this too: she has fixed
 > bounds to eating and drinking, and yet thou goest beyond these bounds,
 > beyond what is sufficient; yet in thy acts it is not so, but thou
-> stoppest short of what thou canst do\. So thou lovest not thyself, for if
+> stoppest short of what thou canst do\.&#32;
+
+> So thou lovest not thyself, for if
 > thou didst, thou wouldst love thy nature and her will\. But those who
 > love their several arts exhaust themselves in working at them unwashed
 > and without food; but thou valuest thy own nature less than the turner
@@ -34,5 +36,5 @@
 > 
 
 
-<sub><a href="https://www.gutenberg.org/ebooks/15877">Source edition</a> · <a href="../README.md#readings">Reading archive</a></sub>
+<sub><a href="https://www.gutenberg.org/ebooks/15877">Source edition</a> · <a href="../README.md#readings">Reading archive</a> · <a href="../paragraph-review.md">Editorial paragraph breaks</a></sub>
 

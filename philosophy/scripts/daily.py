@@ -7,11 +7,12 @@ import os
 import re
 import tempfile
 from datetime import date, datetime
-from pathlib import Path
+from pathlib import Path, PurePosixPath
 from typing import Optional
 from zoneinfo import ZoneInfo
 
 import corpus
+import paragraphs
 from models import Passage, ProgressState
 
 START_MARKER = b"<!-- DAILY-PHILOSOPHY:START -->"
@@ -37,7 +38,11 @@ def render_quote(original_text: bytes) -> str:
     quoted_lines = []
     for line in escaped_text.splitlines(keepends=True):
         indentation = len(line) - len(line.lstrip(" "))
-        quoted_lines.append("> " + "&#32;" * indentation + line[indentation:])
+        content = line[indentation:]
+        trailing_spaces = len(content) - len(content.rstrip(" "))
+        if trailing_spaces:
+            content = content[:-trailing_spaces] + "&#32;" * trailing_spaces
+        quoted_lines.append("> " + "&#32;" * indentation + content)
     quote = "".join(quoted_lines)
     unquoted = "".join(line[2:] for line in quote.splitlines(keepends=True))
     unescaped = re.sub(r"\\([\\`*_{}\[\]()#+\-.!|~])", r"\1", unquoted)
@@ -142,16 +147,27 @@ def render_reading(
 
     original_text = source[passage["start"] : passage["end"]]
     reading = title
-    for is_note, content in split_translator_notes(original_text):
+    source_blocks = split_translator_notes(original_text)
+    reading_blocks = paragraphs.split_paragraphs(source_blocks, passage["id"])
+    for is_note, content in reading_blocks:
         if is_note:
             reading += "<details>\n<summary>Translator notes</summary>\n\n"
         reading += render_quote(content) + "\n\n"
         if is_note:
             reading += "</details>\n\n"
+    editorial_label = ""
+    if len(reading_blocks) > len(source_blocks):
+        review_url = PurePosixPath(archive_url.partition("#")[0]).with_name(
+            "paragraph-review.md"
+        )
+        editorial_label = (
+            f' · <a href="{review_url}">Editorial paragraph breaks</a>'
+        )
     reading += (
         '<sub><a href="https://www.gutenberg.org/ebooks/15877">'
         "Source edition</a>"
-        f' · <a href="{archive_url}">Reading archive</a></sub>'
+        f' · <a href="{archive_url}">Reading archive</a>'
+        f"{editorial_label}</sub>"
     )
     if reading_number == reading_count:
         reading += (

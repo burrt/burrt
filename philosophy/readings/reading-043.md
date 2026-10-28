@@ -15,11 +15,15 @@
 > retire than into his own soul, particularly when he has within him such
 > thoughts that by looking into them he is immediately in perfect
 > tranquillity; and I affirm that tranquillity is nothing else than the
-> good ordering of the mind\. Constantly then give to thyself this retreat,
+> good ordering of the mind\.&#32;
+
+> Constantly then give to thyself this retreat,
 > and renew thyself; and let thy principles be brief and fundamental,
 > which, as soon as thou shalt recur to them, will be sufficient to
 > cleanse the soul completely, and to send thee back free from all
-> discontent with the things to which thou returnest\. For with what art
+> discontent with the things to which thou returnest\.&#32;
+
+> For with what art
 > thou discontented? With the badness of men? Recall to thy mind this
 > conclusion, that rational animals exist for one another, and that to
 > endure is a part of justice, and that men do wrong involuntarily; and
@@ -67,5 +71,5 @@
 
 </details>
 
-<sub><a href="https://www.gutenberg.org/ebooks/15877">Source edition</a> · <a href="../README.md#readings">Reading archive</a></sub>
+<sub><a href="https://www.gutenberg.org/ebooks/15877">Source edition</a> · <a href="../README.md#readings">Reading archive</a> · <a href="../paragraph-review.md">Editorial paragraph breaks</a></sub>
 
