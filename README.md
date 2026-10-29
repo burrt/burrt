@@ -2,118 +2,89 @@
 
 <!-- DAILY-PHILOSOPHY:START -->
 
-**Marcus Aurelius — Meditations I.16**  
-<sub>George Long translation · 2026-10-28 · <a href="philosophy/readings/reading-008.md" aria-label="Previous reading">←</a> Reading 9 of 437</sub>
+**Marcus Aurelius — Meditations I.17**  
+<sub>George Long translation · 2026-10-29 · <a href="philosophy/readings/reading-009.md" aria-label="Previous reading">←</a> Reading 10 of 437</sub>
 
-> 16\. In my father\[A\] I observed mildness of temper, and unchangeable
-> resolution in the things which he had determined after due deliberation;
-> and no vain\-glory in those things which men call honors; and a love of
-> labor and perseverance; and a readiness to listen to those who had
-> anything to propose for the common weal; and undeviating firmness in
-> giving to every man according to his deserts; and a knowledge derived
-> from experience of the occasions for vigorous action and for remission\.
+> 17\. To the gods I am indebted for having good grandfathers, good
+> parents, a good sister, good teachers, good associates, good kinsmen and
+> friends, nearly everything good\. Further, I owe it to the gods that I
+> was not hurried into any offence against any of them, though I had a
+> disposition which, if opportunity had offered, might have led me to do
+> something of this kind; but, through their favor, there never was such a
+> concurrence of circumstances as put me to the trial\.&#32;
 
+> Further, I am
+> thankful to the gods that I was not longer brought up with my
+> grandfather's concubine, and that I preserved the flower of my youth,
+> and that I did not make proof of my virility before the proper season,
+> but even deferred the time; that I was subjected to a ruler and father
+> who was able to take away all pride from me, and to bring me to the
+> knowledge that it is possible for a man to live in a palace without
+> wanting either guards or embroidered dresses, or torches and statues,
+> and such\-like show; but that it is in such a man's power to bring
+> himself very near to the fashion of a private person, without being for
+> this reason either meaner in thought, or more remiss in action, with
+> respect to the things which must be done for the public interest in a
+> manner that befits a ruler\.&#32;
 
-> And I observed that he had overcome all passion for boys; and he
-> considered himself no more than any other citizen;\[B\] and he released
-> his friends from all obligation to sup with him or to attend him of
-> necessity when he went abroad, and those who had failed to accompany
-> him, by reason of any urgent circumstances, always found him the same\.&#32;
-
-> I
-> observed too his habit of careful inquiry in all matters of
-> deliberation, and his persistency, and that he never stopped his
-> investigation through being satisfied with appearances which first
-> present themselves; and that his disposition was to keep his friends,
-> and not to be soon tired of them, nor yet to be extravagant in his
-> affection; and to be satisfied on all occasions, and cheerful; and to
-> foresee things a long way off, and to provide for the smallest without
-> display; and to check immediately popular applause and all flattery; and
-> to be ever watchful over the things which were necessary for the
-> administration of the empire, and to be a good manager of the
-> expenditure, and patiently to endure the blame which he got for such
-> conduct; and he was neither superstitious with respect to the gods, nor
-> did he court men by gifts or by trying to please them, or by flattering
-> the populace; but he showed sobriety in all things, and firmness, and
-> never any mean thoughts or action, nor love of novelty\.&#32;
-
-> And the things
-> which conduce in any way to the commodity of life, and of which fortune
-> gives an abundant supply, he used without arrogance and without excusing
-> himself; so that when he had them, he enjoyed them without affectation,
-> and when he had them not, he did not want them\. No one could ever say of
-> him that he was either a sophist or a \[home\-bred\] flippant slave or a
-> pedant; but every one acknowledged him to be a man ripe, perfect, above
-> flattery, able to manage his own and other men's affairs\.&#32;
-
-> Besides this,
-> he honored those who were true philosophers, and he did not reproach
-> those who pretended to be philosophers, nor yet was he easily led by
-> them\. He was also easy in conversation, and he made himself agreeable
-> without any offensive affectation\. He took a reasonable care of his
-> body's health, not as one who was greatly attached to life, nor out of
-> regard to personal appearance, nor yet in a careless way, but so that
-> through his own attention he very seldom stood in need of the
-> physician's art or of medicine or external applications\.&#32;
-
-> He was most
-> ready to give without envy to those who possessed any particular
-> faculty, such as that of eloquence or knowledge of the law or of morals,
-> or of anything else; and he gave them his help, that each might enjoy
-> reputation according to his deserts; and he always acted conformably to
-> the institutions of his country, without showing any affectation of
-> doing so\.&#32;
-
-> Further, he was not fond of change nor unsteady, but he loved
-> to stay in the same places, and to employ himself about the same things;
-> and after his paroxysms of headache he came immediately fresh and
-> vigorous to his usual occupations\. His secrets were not many, but very
-> few and very rare, and these only about public matters; and he showed
-> prudence and economy in the exhibition of the public spectacles and the
-> construction of public buildings, his donations to the people, and in
-> such things, for he was a man who looked to what ought to be done, not
-> to the reputation which is got by a man's acts\.&#32;
-
-> He did not take the bath
-> at unseasonable hours; he was not fond of building houses, nor curious
-> about what he ate, nor about the texture and color of his clothes, nor
-> about the beauty of his slaves\.\[C\] His dress came from Lorium, his villa
-> on the coast, and from Lanuvium generally\.\[D\] We know how he behaved to
-> the toll\-collector at Tusculum who asked his pardon; and such was all
-> his behavior\.&#32;
-
-> There was in him nothing harsh, nor implacable, nor
-> violent, nor, as one may say, anything carried to the sweating point;
-> but he examined all things severally, as if he had abundance of time,
-> and without confusion, in an orderly way, vigorously and consistently\.
-> And that might be applied to him which is recorded of Socrates,\[E\] that
-> he was able both to abstain from, and to enjoy, those things which many
-> are too weak to abstain from, and cannot enjoy without excess\. But to be
-> strong enough both to bear the one and to be sober in the other is the
-> mark of a man who has a perfect and invincible soul, such as he showed
-> in the illness of Maximus\.
+> I thank the gods for giving me such a
+> brother,\[A\] who was able by his moral character to rouse me to vigilance
+> over myself, and who at the same time pleased me by his respect and
+> affection; that my children have not been stupid nor deformed in body;
+> that I did not make more proficiency in rhetoric, poetry, and the other
+> studies, in which I should perhaps have been completely engaged, if I
+> had seen that I was making progress in them; that I made haste to place
+> those who brought me up in the station of honor, which they seemed to
+> desire, without putting them off with hope of my doing it some other
+> time after, because they were then still young; that I knew Apollonius,
+> Rusticus, Maximus; that I received clear and frequent impressions about
+> living according to nature, and what kind of a life that is, so that, so
+> far as depended on the gods, and their gifts, and help, and
+> inspirations, nothing hindered me from forthwith living according to
+> nature, though I still fall short of it through my own fault, and
+> through not observing the admonitions of the gods, and, I may almost
+> say, their direct instructions; that my body has held out so long in
+> such a kind of life; that I never touched either Benedicta or Theodotus,
+> and that, after having fallen into amatory passions, I was cured, and,
+> though I was often out of humor with Rusticus, I never did anything of
+> which I had occasion to repent; that, though it was my mother's fate to
+> die young, she spent the last years of her life with me; that, whenever
+> I wished to help any man in his need, or on any other occasion, I was
+> never told that I had not the means of doing it; and that to myself the
+> same necessity never happened, to receive anything from another; that I
+> have such a wife,\[B\] so obedient, and so affectionate, and so simple;
+> that I had abundance of good masters for my children; and that remedies
+> have been shown to me by dreams, both others, and against bloodspitting
+> and giddiness\[C\]\.\.\.; and that, when I had an inclination to philosophy,
+> I did not fall into the hands of any sophist, and that I did not waste
+> my time on writers \[of histories\], or in the resolution of syllogisms,
+> or occupy myself about the investigation of appearances in the heavens;
+> for all these things require the help of the gods and fortune\.
+> 
+> Among the Quadi at the Granua\.\[D\]
 > 
 
 
 <details>
 <summary>Translator notes</summary>
 
-> &#32;&#32;&#32;&#32;\[A\] He means his adoptive father, his predecessor, the Emperor
-> &#32;&#32;&#32;&#32;Antoninus Pius\. Compare vi\. 30\.
+> &#32;&#32;&#32;&#32;\[A\] The emperor had no brother except L\. Verus, his brother by
+> &#32;&#32;&#32;&#32;adoption\.
 > 
-> &#32;&#32;&#32;&#32;\[B\] He uses the word \[Greek: koinonoêmosunê\]\. See Gataker's
-> &#32;&#32;&#32;&#32;note\.
+> &#32;&#32;&#32;&#32;\[B\] See the \_Life of Antoninus\_\.
 > 
-> &#32;&#32;&#32;&#32;\[C\] This passage is corrupt, and the exact meaning is
-> &#32;&#32;&#32;&#32;uncertain\.
+> &#32;&#32;&#32;&#32;\[C\] This is corrupt\.
 > 
-> &#32;&#32;&#32;&#32;\[D\] Lorium was a villa on the coast north of Rome, and there
-> &#32;&#32;&#32;&#32;Antoninus was brought up, and he died there\. This also is
-> &#32;&#32;&#32;&#32;corrupt\.
+> &#32;&#32;&#32;&#32;\[D\] The Quadi lived in the southern part of Bohemia and
+> &#32;&#32;&#32;&#32;Moravia; and Antoninus made a campaign against them\. \(See the
+> &#32;&#32;&#32;&#32;\_Life\_\.\) Granua is probably the river Graan, which flows into
+> &#32;&#32;&#32;&#32;the Danube\.
 > 
-> &#32;&#32;&#32;&#32;\[E\] Xenophon, Memorab\. i\. 3, 15\.
-> 
-
+> &#32;&#32;&#32;&#32;If these words are genuine, Antoninus may have written this
+> &#32;&#32;&#32;&#32;first book during the war with the Quadi\. In the first edition
+> &#32;&#32;&#32;&#32;of Antoninus, and in the older editions, the first three
+> &#32;&#32;&#32;&#32;sections of the second book make the conclusion of the first
+> &#32;&#32;&#32;&#32;book\. Gataker placed them at the beginning of the second book\.
 
 </details>
 
