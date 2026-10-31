@@ -2,33 +2,21 @@
 
 <!-- DAILY-PHILOSOPHY:START -->
 
-**Marcus Aurelius — Meditations II.1**  
-<sub>George Long translation · 2026-10-30 · <a href="philosophy/readings/reading-010.md" aria-label="Previous reading">←</a> Reading 11 of 437</sub>
+**Marcus Aurelius — Meditations II.2**  
+<sub>George Long translation · 2026-10-31 · <a href="philosophy/readings/reading-011.md" aria-label="Previous reading">←</a> Reading 12 of 437</sub>
 
-> Begin the morning by saying to thyself, I shall meet with the busybody,
-> the ungrateful, arrogant, deceitful, envious, unsocial\. All these things
-> happen to them by reason of their ignorance of what is good and evil\.
-> But I who have seen the nature of the good that it is beautiful, and of
-> the bad that it is ugly, and the nature of him who does wrong, that it
-> is akin to me; not \[only\] of the same blood or seed, but that it
-> participates in \[the same\] intelligence and \[the same\] portion of the
-> divinity, I can neither be injured by any of them, for no one can fix on
-> me what is ugly, nor can I be angry with my kinsman, nor hate him\. For
-> we are made for co\-operation, like feet, like hands, like eyelids, like
-> the rows of the upper and lower teeth\.\[A\] To act against one another,
-> then, is contrary to nature; and it is acting against one another to be
-> vexed and to turn away\.
+> 2\. Whatever this is that I am, it is a little flesh and breath, and the
+> ruling part\. Throw away thy books; no longer distract thyself: it is not
+> allowed; but as if thou wast now dying, despise the flesh; it is blood
+> and bones and network, a contexture of nerves, veins, and arteries\. See
+> the breath also, what kind of a thing it is; air, and not always the
+> same, but every moment sent out and again sucked in\. The third, then, is
+> the ruling part; consider thus: Thou art an old man; no longer let this
+> be a slave, no longer be pulled by the strings like a puppet to unsocial
+> movements, no longer be either dissatisfied with thy present lot, or
+> shrink from the future\.
 > 
 
-
-<details>
-<summary>Translator notes</summary>
-
-> &#32;&#32;&#32;&#32;\[A\] Xenophon, Mem\. ii\. 3\. 18\.
-> 
-
-
-</details>
 
 <sub><a href="https://www.gutenberg.org/ebooks/15877">Source edition</a> · <a href="philosophy/README.md#readings">Reading archive</a></sub>
 
