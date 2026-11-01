@@ -2,19 +2,29 @@
 
 <!-- DAILY-PHILOSOPHY:START -->
 
-**Marcus Aurelius — Meditations II.2**  
-<sub>George Long translation · 2026-10-31 · <a href="philosophy/readings/reading-011.md" aria-label="Previous reading">←</a> Reading 12 of 437</sub>
+**Marcus Aurelius — Meditations II.3–4**  
+<sub>George Long translation · 2026-11-01 · <a href="philosophy/readings/reading-012.md" aria-label="Previous reading">←</a> Reading 13 of 437</sub>
 
-> 2\. Whatever this is that I am, it is a little flesh and breath, and the
-> ruling part\. Throw away thy books; no longer distract thyself: it is not
-> allowed; but as if thou wast now dying, despise the flesh; it is blood
-> and bones and network, a contexture of nerves, veins, and arteries\. See
-> the breath also, what kind of a thing it is; air, and not always the
-> same, but every moment sent out and again sucked in\. The third, then, is
-> the ruling part; consider thus: Thou art an old man; no longer let this
-> be a slave, no longer be pulled by the strings like a puppet to unsocial
-> movements, no longer be either dissatisfied with thy present lot, or
-> shrink from the future\.
+> 3\. All that is from the gods is full of providence\. That which is from
+> fortune is not separated from nature or without an interweaving and
+> involution with the things which are ordered by providence\. From thence
+> all things flow; and there is besides necessity, and that which is for
+> the advantage of the whole universe, of which thou art a part\. But that
+> is good for every part of nature which the nature of the whole brings,
+> and what serves to maintain this nature\. Now the universe is preserved,
+> as by the changes of the elements so by the changes of things compounded
+> of the elements\. Let these principles be enough for thee; let them
+> always be fixed opinions\. But cast away the thirst after books, that
+> thou mayest not die murmuring, but cheerfully, truly, and from thy heart
+> thankful to the gods\.
+> 
+> 4\. Remember how long thou hast been putting off these things, and how
+> often thou hast received an opportunity from the gods, and yet dost not
+> use it\. Thou must now at last perceive of what universe thou art a
+> part, and of what administrator of the universe thy existence is an
+> efflux, and that a limit of time is fixed for thee, which if thou dost
+> not use for clearing away the clouds from thy mind, it will go and thou
+> wilt go, and it will never return\.
 > 
 
 
