@@ -2,29 +2,20 @@
 
 <!-- DAILY-PHILOSOPHY:START -->
 
-**Marcus Aurelius — Meditations II.3–4**  
-<sub>George Long translation · 2026-11-01 · <a href="philosophy/readings/reading-012.md" aria-label="Previous reading">←</a> Reading 13 of 437</sub>
+**Marcus Aurelius — Meditations II.5**  
+<sub>George Long translation · 2026-11-02 · <a href="philosophy/readings/reading-013.md" aria-label="Previous reading">←</a> Reading 14 of 437</sub>
 
-> 3\. All that is from the gods is full of providence\. That which is from
-> fortune is not separated from nature or without an interweaving and
-> involution with the things which are ordered by providence\. From thence
-> all things flow; and there is besides necessity, and that which is for
-> the advantage of the whole universe, of which thou art a part\. But that
-> is good for every part of nature which the nature of the whole brings,
-> and what serves to maintain this nature\. Now the universe is preserved,
-> as by the changes of the elements so by the changes of things compounded
-> of the elements\. Let these principles be enough for thee; let them
-> always be fixed opinions\. But cast away the thirst after books, that
-> thou mayest not die murmuring, but cheerfully, truly, and from thy heart
-> thankful to the gods\.
-> 
-> 4\. Remember how long thou hast been putting off these things, and how
-> often thou hast received an opportunity from the gods, and yet dost not
-> use it\. Thou must now at last perceive of what universe thou art a
-> part, and of what administrator of the universe thy existence is an
-> efflux, and that a limit of time is fixed for thee, which if thou dost
-> not use for clearing away the clouds from thy mind, it will go and thou
-> wilt go, and it will never return\.
+> 5\. Every moment think steadily as a Roman and a man to do what thou hast
+> in hand with perfect and simple dignity, and feeling of affection, and
+> freedom, and justice, and to give thyself relief from all other
+> thoughts\. And thou wilt give thyself relief if thou doest every act of
+> thy life as if it were the last, laying aside all carelessness and
+> passionate aversion from the commands of reason, and all hypocrisy, and
+> self\-love, and discontent with the portion which has been given to thee\.
+> Thou seest how few the things are, the which if a man lays hold of, he
+> is able to live a life which flows in quiet, and is like the existence
+> of the gods; for the gods on their part will require nothing more from
+> him who observes these things\.
 > 
 
 
