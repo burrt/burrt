@@ -2,22 +2,25 @@
 
 <!-- DAILY-PHILOSOPHY:START -->
 
-**Marcus Aurelius — Meditations II.5**  
-<sub>George Long translation · 2026-11-02 · <a href="philosophy/readings/reading-013.md" aria-label="Previous reading">←</a> Reading 14 of 437</sub>
+**Marcus Aurelius — Meditations II.6**  
+<sub>George Long translation · 2026-11-03 · <a href="philosophy/readings/reading-014.md" aria-label="Previous reading">←</a> Reading 15 of 437</sub>
 
-> 5\. Every moment think steadily as a Roman and a man to do what thou hast
-> in hand with perfect and simple dignity, and feeling of affection, and
-> freedom, and justice, and to give thyself relief from all other
-> thoughts\. And thou wilt give thyself relief if thou doest every act of
-> thy life as if it were the last, laying aside all carelessness and
-> passionate aversion from the commands of reason, and all hypocrisy, and
-> self\-love, and discontent with the portion which has been given to thee\.
-> Thou seest how few the things are, the which if a man lays hold of, he
-> is able to live a life which flows in quiet, and is like the existence
-> of the gods; for the gods on their part will require nothing more from
-> him who observes these things\.
+> 6\. Do wrong\[A\] to thyself, do wrong to thyself, my soul; but thou wilt
+> no longer have the opportunity of honoring thyself\. Every man's life is
+> sufficient\.\+ But thine is nearly finished, though thy soul reverences
+> not itself, but places thy felicity in the souls of others\.
 > 
 
+
+<details>
+<summary>Translator notes</summary>
+
+> &#32;&#32;&#32;&#32;\[A\] Perhaps it should be, "thou art doing violence to thyself\."
+> &#32;&#32;&#32;&#32;\[Greek: hybrizeis\] not \[Greek: hybrize\]\.
+> 
+
+
+</details>
 
 <sub><a href="https://www.gutenberg.org/ebooks/15877">Source edition</a> · <a href="philosophy/README.md#readings">Reading archive</a></sub>
 
