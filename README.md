@@ -2,25 +2,17 @@
 
 <!-- DAILY-PHILOSOPHY:START -->
 
-**Marcus Aurelius — Meditations II.6**  
-<sub>George Long translation · 2026-11-03 · <a href="philosophy/readings/reading-014.md" aria-label="Previous reading">←</a> Reading 15 of 437</sub>
+**Marcus Aurelius — Meditations II.7**  
+<sub>George Long translation · 2026-11-04 · <a href="philosophy/readings/reading-015.md" aria-label="Previous reading">←</a> Reading 16 of 437</sub>
 
-> 6\. Do wrong\[A\] to thyself, do wrong to thyself, my soul; but thou wilt
-> no longer have the opportunity of honoring thyself\. Every man's life is
-> sufficient\.\+ But thine is nearly finished, though thy soul reverences
-> not itself, but places thy felicity in the souls of others\.
+> 7\. Do the things external which fall upon thee distract thee? Give
+> thyself time to learn something new and good, and cease to be whirled
+> around\. But then thou must also avoid being carried about the other way;
+> for those too are triflers who have wearied themselves in life by their
+> activity, and yet have no object to which to direct every movement, and,
+> in a word, all their thoughts\.
 > 
 
-
-<details>
-<summary>Translator notes</summary>
-
-> &#32;&#32;&#32;&#32;\[A\] Perhaps it should be, "thou art doing violence to thyself\."
-> &#32;&#32;&#32;&#32;\[Greek: hybrizeis\] not \[Greek: hybrize\]\.
-> 
-
-
-</details>
 
 <sub><a href="https://www.gutenberg.org/ebooks/15877">Source edition</a> · <a href="philosophy/README.md#readings">Reading archive</a></sub>
 
