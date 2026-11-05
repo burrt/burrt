@@ -2,15 +2,12 @@
 
 <!-- DAILY-PHILOSOPHY:START -->
 
-**Marcus Aurelius — Meditations II.7**  
-<sub>George Long translation · 2026-11-04 · <a href="philosophy/readings/reading-015.md" aria-label="Previous reading">←</a> Reading 16 of 437</sub>
+**Marcus Aurelius — Meditations II.8**  
+<sub>George Long translation · 2026-11-05 · <a href="philosophy/readings/reading-016.md" aria-label="Previous reading">←</a> Reading 17 of 437</sub>
 
-> 7\. Do the things external which fall upon thee distract thee? Give
-> thyself time to learn something new and good, and cease to be whirled
-> around\. But then thou must also avoid being carried about the other way;
-> for those too are triflers who have wearied themselves in life by their
-> activity, and yet have no object to which to direct every movement, and,
-> in a word, all their thoughts\.
+> 8\. Through not observing what is in the mind of another a man has seldom
+> been seen to be unhappy; but those who do not observe the movements of
+> their own minds must of necessity be unhappy\.
 > 
 
 
