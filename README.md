@@ -2,12 +2,14 @@
 
 <!-- DAILY-PHILOSOPHY:START -->
 
-**Marcus Aurelius — Meditations II.8**  
-<sub>George Long translation · 2026-11-05 · <a href="philosophy/readings/reading-016.md" aria-label="Previous reading">←</a> Reading 17 of 437</sub>
+**Marcus Aurelius — Meditations II.9**  
+<sub>George Long translation · 2026-11-06 · <a href="philosophy/readings/reading-017.md" aria-label="Previous reading">←</a> Reading 18 of 437</sub>
 
-> 8\. Through not observing what is in the mind of another a man has seldom
-> been seen to be unhappy; but those who do not observe the movements of
-> their own minds must of necessity be unhappy\.
+> 9\. This thou must always bear in mind, what is the nature of the whole,
+> and what is my nature, and how this is related to that, and what kind of
+> a part it is of what kind of a whole, and that there is no one who
+> hinders thee from always doing and saying the things which are according
+> to the nature of which thou art a part\.
 > 
 
 
