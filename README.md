@@ -2,14 +2,23 @@
 
 <!-- DAILY-PHILOSOPHY:START -->
 
-**Marcus Aurelius — Meditations II.9**  
-<sub>George Long translation · 2026-11-06 · <a href="philosophy/readings/reading-017.md" aria-label="Previous reading">←</a> Reading 18 of 437</sub>
+**Marcus Aurelius — Meditations II.10**  
+<sub>George Long translation · 2026-11-07 · <a href="philosophy/readings/reading-018.md" aria-label="Previous reading">←</a> Reading 19 of 437</sub>
 
-> 9\. This thou must always bear in mind, what is the nature of the whole,
-> and what is my nature, and how this is related to that, and what kind of
-> a part it is of what kind of a whole, and that there is no one who
-> hinders thee from always doing and saying the things which are according
-> to the nature of which thou art a part\.
+> 10\. Theophrastus, in his comparison of bad acts\-\-such a comparison as
+> one would make in accordance with the common notions of mankind\-\-says,
+> like a true philosopher, that the offenses which are committed through
+> desire are more blamable than those which are committed through anger\.
+> For he who is excited by anger seems to turn away from reason with a
+> certain pain and unconscious contraction; but he who offends through
+> desire, being overpowered by pleasure, seems to be in a manner more
+> intemperate and more womanish in his offences\. Rightly, then, and in a
+> way worthy of philosophy, he said that the offence which is committed
+> with pleasure is more blamable than that which is committed with pain;
+> and on the whole the one is more like a person who has been first
+> wronged and through pain is compelled to be angry, but the other is
+> moved by his own impulse to do wrong, being carried towards doing
+> something by desire\.
 > 
 
 
