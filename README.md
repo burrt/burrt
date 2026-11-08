@@ -2,25 +2,43 @@
 
 <!-- DAILY-PHILOSOPHY:START -->
 
-**Marcus Aurelius — Meditations II.10**  
-<sub>George Long translation · 2026-11-07 · <a href="philosophy/readings/reading-018.md" aria-label="Previous reading">←</a> Reading 19 of 437</sub>
+**Marcus Aurelius — Meditations II.11**  
+<sub>George Long translation · 2026-11-08 · <a href="philosophy/readings/reading-019.md" aria-label="Previous reading">←</a> Reading 20 of 437</sub>
 
-> 10\. Theophrastus, in his comparison of bad acts\-\-such a comparison as
-> one would make in accordance with the common notions of mankind\-\-says,
-> like a true philosopher, that the offenses which are committed through
-> desire are more blamable than those which are committed through anger\.
-> For he who is excited by anger seems to turn away from reason with a
-> certain pain and unconscious contraction; but he who offends through
-> desire, being overpowered by pleasure, seems to be in a manner more
-> intemperate and more womanish in his offences\. Rightly, then, and in a
-> way worthy of philosophy, he said that the offence which is committed
-> with pleasure is more blamable than that which is committed with pain;
-> and on the whole the one is more like a person who has been first
-> wronged and through pain is compelled to be angry, but the other is
-> moved by his own impulse to do wrong, being carried towards doing
-> something by desire\.
+> 11\. Since it is possible\[A\] that thou mayest depart from life this very
+> moment, regulate every act and thought accordingly\.\[B\] But to go away
+> from among men, if there are gods, is not a thing to be afraid of, for
+> the gods will not involve thee in evil; but if indeed they do not exist,
+> or if they have no concern about human affairs, what is it to me to live
+> in a universe devoid of gods or devoid of providence? But in truth they
+> do exist, and they do care for human things, and they have put all the
+> means in man's power to enable him not to fall into real evils\. And as
+> to the rest, if there was anything evil, they would have provided for
+> this also, that it should be altogether in a man's power not to fall
+> into it\. Now that which does not make a man worse, how can it make a
+> man's life worse? But neither through ignorance, nor\-\-having the
+> knowledge but not the power to guard against or correct these things, is
+> it possible that the nature of the universe has overlooked them; nor is
+> it possible that it has made so great a mistake, either through want of
+> power or want of skill, that good and evil should happen
+> indiscriminately to the good and the bad\. But death certainly, and life,
+> honor and dishonor, pain and pleasure,\-\-all these things equally happen
+> to good men and bad, being things which make us neither better nor
+> worse\. Therefore they are neither good nor evil\.
 > 
 
+
+<details>
+<summary>Translator notes</summary>
+
+> &#32;&#32;&#32;&#32;\[A\] Or it may mean, "since it is in thy power to depart;" which
+> &#32;&#32;&#32;&#32;gives a meaning somewhat different\.
+> 
+> &#32;&#32;&#32;&#32;\[B\] See Cicero, Tuscul\., i\. 49\.
+> 
+
+
+</details>
 
 <sub><a href="https://www.gutenberg.org/ebooks/15877">Source edition</a> · <a href="philosophy/README.md#readings">Reading archive</a></sub>
 
