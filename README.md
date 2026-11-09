@@ -2,43 +2,27 @@
 
 <!-- DAILY-PHILOSOPHY:START -->
 
-**Marcus Aurelius — Meditations II.11**  
-<sub>George Long translation · 2026-11-08 · <a href="philosophy/readings/reading-019.md" aria-label="Previous reading">←</a> Reading 20 of 437</sub>
+**Marcus Aurelius — Meditations II.12**  
+<sub>George Long translation · 2026-11-09 · <a href="philosophy/readings/reading-020.md" aria-label="Previous reading">←</a> Reading 21 of 437</sub>
 
-> 11\. Since it is possible\[A\] that thou mayest depart from life this very
-> moment, regulate every act and thought accordingly\.\[B\] But to go away
-> from among men, if there are gods, is not a thing to be afraid of, for
-> the gods will not involve thee in evil; but if indeed they do not exist,
-> or if they have no concern about human affairs, what is it to me to live
-> in a universe devoid of gods or devoid of providence? But in truth they
-> do exist, and they do care for human things, and they have put all the
-> means in man's power to enable him not to fall into real evils\. And as
-> to the rest, if there was anything evil, they would have provided for
-> this also, that it should be altogether in a man's power not to fall
-> into it\. Now that which does not make a man worse, how can it make a
-> man's life worse? But neither through ignorance, nor\-\-having the
-> knowledge but not the power to guard against or correct these things, is
-> it possible that the nature of the universe has overlooked them; nor is
-> it possible that it has made so great a mistake, either through want of
-> power or want of skill, that good and evil should happen
-> indiscriminately to the good and the bad\. But death certainly, and life,
-> honor and dishonor, pain and pleasure,\-\-all these things equally happen
-> to good men and bad, being things which make us neither better nor
-> worse\. Therefore they are neither good nor evil\.
+> 12\. How quickly all things disappear,\-\-in the universe the bodies
+> themselves, but in time the remembrance of them\. What is the nature of
+> all sensible things, and particularly those which attract with the bait
+> of pleasure or terrify by pain, or are noised abroad by vapory fame; how
+> worthless, and contemptible, and sordid, and perishable, and dead they
+> are,\-\-all this it is the part of the intellectual faculty to observe\. To
+> observe too who these are whose opinions and voices give reputation;
+> what death is, and the fact that, if a man looks at it in itself, and by
+> the abstractive power of reflection resolves into their parts all the
+> things which present themselves to the imagination in it, he will then
+> consider it to be nothing else than an operation of nature; and if any
+> one is afraid of an operation of nature, he is a child\. This, however,
+> is not only an operation of nature, but it is also a thing which
+> conduces to the purposes of nature\. To observe too how man comes near to
+> the Deity, and by what part of him, and when this part of man is so
+> disposed\+ \(vi\. 28\)\.
 > 
 
-
-<details>
-<summary>Translator notes</summary>
-
-> &#32;&#32;&#32;&#32;\[A\] Or it may mean, "since it is in thy power to depart;" which
-> &#32;&#32;&#32;&#32;gives a meaning somewhat different\.
-> 
-> &#32;&#32;&#32;&#32;\[B\] See Cicero, Tuscul\., i\. 49\.
-> 
-
-
-</details>
 
 <sub><a href="https://www.gutenberg.org/ebooks/15877">Source edition</a> · <a href="philosophy/README.md#readings">Reading archive</a></sub>
 
