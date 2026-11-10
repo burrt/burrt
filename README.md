@@ -2,27 +2,32 @@
 
 <!-- DAILY-PHILOSOPHY:START -->
 
-**Marcus Aurelius — Meditations II.12**  
-<sub>George Long translation · 2026-11-09 · <a href="philosophy/readings/reading-020.md" aria-label="Previous reading">←</a> Reading 21 of 437</sub>
+**Marcus Aurelius — Meditations II.13**  
+<sub>George Long translation · 2026-11-10 · <a href="philosophy/readings/reading-021.md" aria-label="Previous reading">←</a> Reading 22 of 437</sub>
 
-> 12\. How quickly all things disappear,\-\-in the universe the bodies
-> themselves, but in time the remembrance of them\. What is the nature of
-> all sensible things, and particularly those which attract with the bait
-> of pleasure or terrify by pain, or are noised abroad by vapory fame; how
-> worthless, and contemptible, and sordid, and perishable, and dead they
-> are,\-\-all this it is the part of the intellectual faculty to observe\. To
-> observe too who these are whose opinions and voices give reputation;
-> what death is, and the fact that, if a man looks at it in itself, and by
-> the abstractive power of reflection resolves into their parts all the
-> things which present themselves to the imagination in it, he will then
-> consider it to be nothing else than an operation of nature; and if any
-> one is afraid of an operation of nature, he is a child\. This, however,
-> is not only an operation of nature, but it is also a thing which
-> conduces to the purposes of nature\. To observe too how man comes near to
-> the Deity, and by what part of him, and when this part of man is so
-> disposed\+ \(vi\. 28\)\.
+> 13\. Nothing is more wretched than a man who traverses everything in a
+> round, and pries into the things beneath the earth, as the poet\[A\] says,
+> and seeks by conjecture what is in the minds of his neighbors, without
+> perceiving that it is sufficient to attend to the daemon within him, and
+> to reverence it sincerely\. And reverence of the daemon consists in
+> keeping it pure from passion and thoughtlessness, and dissatisfaction
+> with what comes from gods and men\. For the things from the gods merit
+> veneration for their excellence; and the things from men should be dear
+> to us by reason of kinship; and sometimes even, in a manner, they move
+> our pity by reason of men's ignorance of good and bad; this defect being
+> not less than that which deprives us of the power of distinguishing
+> things that are white and black\.
 > 
 
+
+<details>
+<summary>Translator notes</summary>
+
+> &#32;&#32;&#32;&#32;\[A\] Pindar, in the Theaetetus of Plato\. See xi\. 1\.
+> 
+
+
+</details>
 
 <sub><a href="https://www.gutenberg.org/ebooks/15877">Source edition</a> · <a href="philosophy/README.md#readings">Reading archive</a></sub>
 
