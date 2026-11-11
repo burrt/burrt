@@ -2,28 +2,32 @@
 
 <!-- DAILY-PHILOSOPHY:START -->
 
-**Marcus Aurelius — Meditations II.13**  
-<sub>George Long translation · 2026-11-10 · <a href="philosophy/readings/reading-021.md" aria-label="Previous reading">←</a> Reading 22 of 437</sub>
+**Marcus Aurelius — Meditations II.14**  
+<sub>George Long translation · 2026-11-11 · <a href="philosophy/readings/reading-022.md" aria-label="Previous reading">←</a> Reading 23 of 437</sub>
 
-> 13\. Nothing is more wretched than a man who traverses everything in a
-> round, and pries into the things beneath the earth, as the poet\[A\] says,
-> and seeks by conjecture what is in the minds of his neighbors, without
-> perceiving that it is sufficient to attend to the daemon within him, and
-> to reverence it sincerely\. And reverence of the daemon consists in
-> keeping it pure from passion and thoughtlessness, and dissatisfaction
-> with what comes from gods and men\. For the things from the gods merit
-> veneration for their excellence; and the things from men should be dear
-> to us by reason of kinship; and sometimes even, in a manner, they move
-> our pity by reason of men's ignorance of good and bad; this defect being
-> not less than that which deprives us of the power of distinguishing
-> things that are white and black\.
+> 14\. Though thou shouldest be going to live three thousand years and as
+> many times ten thousand years, still remember that no man loses any
+> other life than this which he now lives, nor lives any other than this
+> which he now loses\. The longest and shortest are thus brought to the
+> same\. For the present is the same to all, though that which perish is
+> not the same;\+\[A\] and so that which is lost appears to be a mere
+> moment\. For a man cannot lose either the past or the future: for what a
+> man has not, how can any one take this from him? These two things then
+> thou must bear in mind; the one, that all things from eternity are of
+> like forms and come round in a circle, and that it makes no difference
+> whether a man shall see the same things during a hundred years, or two
+> hundred, or an infinite time; and the second, that the longest liver and
+> he who will die soonest lose just the same\. For the present is the only
+> thing of which a man can be deprived, if it is true that this is the
+> only thing which he has, and that a man cannot lose a thing if he has it
+> not\.
 > 
 
 
 <details>
 <summary>Translator notes</summary>
 
-> &#32;&#32;&#32;&#32;\[A\] Pindar, in the Theaetetus of Plato\. See xi\. 1\.
+> &#32;&#32;&#32;&#32;\[A\] See Gataker's note\.
 > 
 
 
