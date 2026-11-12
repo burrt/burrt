@@ -2,36 +2,14 @@
 
 <!-- DAILY-PHILOSOPHY:START -->
 
-**Marcus Aurelius — Meditations II.14**  
-<sub>George Long translation · 2026-11-11 · <a href="philosophy/readings/reading-022.md" aria-label="Previous reading">←</a> Reading 23 of 437</sub>
+**Marcus Aurelius — Meditations II.15**  
+<sub>George Long translation · 2026-11-12 · <a href="philosophy/readings/reading-023.md" aria-label="Previous reading">←</a> Reading 24 of 437</sub>
 
-> 14\. Though thou shouldest be going to live three thousand years and as
-> many times ten thousand years, still remember that no man loses any
-> other life than this which he now lives, nor lives any other than this
-> which he now loses\. The longest and shortest are thus brought to the
-> same\. For the present is the same to all, though that which perish is
-> not the same;\+\[A\] and so that which is lost appears to be a mere
-> moment\. For a man cannot lose either the past or the future: for what a
-> man has not, how can any one take this from him? These two things then
-> thou must bear in mind; the one, that all things from eternity are of
-> like forms and come round in a circle, and that it makes no difference
-> whether a man shall see the same things during a hundred years, or two
-> hundred, or an infinite time; and the second, that the longest liver and
-> he who will die soonest lose just the same\. For the present is the only
-> thing of which a man can be deprived, if it is true that this is the
-> only thing which he has, and that a man cannot lose a thing if he has it
-> not\.
+> 15\. Remember that all is opinion\. For what was said by the Cynic Monimus
+> is manifest: and manifest too is the use of what was said, if a man
+> receives what may be got out of it as far as it is true\.
 > 
 
-
-<details>
-<summary>Translator notes</summary>
-
-> &#32;&#32;&#32;&#32;\[A\] See Gataker's note\.
-> 
-
-
-</details>
 
 <sub><a href="https://www.gutenberg.org/ebooks/15877">Source edition</a> · <a href="philosophy/README.md#readings">Reading archive</a></sub>
 
