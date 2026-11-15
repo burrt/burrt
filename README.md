@@ -2,44 +2,26 @@
 
 <!-- DAILY-PHILOSOPHY:START -->
 
-**Marcus Aurelius — Meditations II.17**  
-<sub>George Long translation · 2026-11-14 · <a href="philosophy/readings/reading-025.md" aria-label="Previous reading">←</a> Reading 26 of 437</sub>
+**Marcus Aurelius — Meditations III.1**  
+<sub>George Long translation · 2026-11-15 · <a href="philosophy/readings/reading-026.md" aria-label="Previous reading">←</a> Reading 27 of 437</sub>
 
-> 17\. Of human life the time is a point, and the substance is in a flux,
-> and the perception dull, and the composition of the whole body subject
-> to putrefaction, and the soul a whirl, and fortune hard to divine, and
-> fame a thing devoid of judgment\. And, to say all in a word, everything
-> which belongs to the body is a stream, and what belongs to the soul is a
-> dream and vapor, and life is a warfare and a stranger's sojourn, and
-> after fame is oblivion\. What then is that which is able to conduct a
-> man? One thing, and only one, philosophy\. But this consists in keeping
-> the daemon within a man free from violence and unharmed, superior to
-> pains and pleasures, doing nothing without a purpose, nor yet falsely
-> and with hypocrisy, not feeling the need of another man's doing or not
-> doing anything; and besides, accepting all that happens, and all that
-> is allotted, as coming from thence, wherever it is, from whence he
-> himself came; and, finally, waiting for death with a cheerful mind, as
-> being nothing else than a dissolution of the elements of which every
-> living being is compounded\. But if there is no harm to the elements
-> themselves in each continually changing into another, why should a man
-> have any apprehension about the change and dissolution of all the
-> elements? For it is according to nature, and nothing is evil which is
-> according to nature\.
-> 
-> This in Carnuntum\.\[A\]
+> We ought to consider not only that our life is daily wasting away and a
+> smaller part of it is left, but another thing also must be taken into
+> the account, that if a man should live longer, it is quite uncertain
+> whether the understanding will still continue sufficient for the
+> comprehension of things, and retain the power of contemplation which
+> strives to acquire the knowledge of the divine and the human\. For if he
+> shall begin to fall into dotage, perspiration and nutrition and
+> imagination and appetite, and whatever else there is of the kind, will
+> not fail; but the power of making use of ourselves, and filling up the
+> measure of our duty, and clearly separating all appearances, and
+> considering whether a man should now depart from life, and whatever else
+> of the kind absolutely requires a disciplined reason,\-\-all this is
+> already extinguished\. We must make haste, then, not only because we are
+> daily nearer to death, but also because the conception of things and the
+> understanding of them cease first\.
 > 
 
-
-<details>
-<summary>Translator notes</summary>
-
-> &#32;&#32;&#32;&#32;\[A\] Carnuntum was a town of Pannonia, on the south side of the
-> &#32;&#32;&#32;&#32;Danube, about thirty miles east of Vindobona \(Vienna\)\.
-> &#32;&#32;&#32;&#32;Orosius \(vii\. 15\) and Eutropius \(viii\. 13\) say that Antoninus
-> &#32;&#32;&#32;&#32;remained three years at Carmuntum during his war with the
-> &#32;&#32;&#32;&#32;Marcomanni\.
-
-</details>
 
 <sub><a href="https://www.gutenberg.org/ebooks/15877">Source edition</a> · <a href="philosophy/README.md#readings">Reading archive</a></sub>
 
