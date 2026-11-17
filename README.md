@@ -2,33 +2,24 @@
 
 <!-- DAILY-PHILOSOPHY:START -->
 
-**Marcus Aurelius — Meditations III.2**  
-<sub>George Long translation · 2026-11-16 · <a href="philosophy/readings/reading-027.md" aria-label="Previous reading">←</a> Reading 28 of 437</sub>
+**Marcus Aurelius — Meditations III.3**  
+<sub>George Long translation · 2026-11-17 · <a href="philosophy/readings/reading-028.md" aria-label="Previous reading">←</a> Reading 29 of 437</sub>
 
-> 2\. We ought to observe also that even the things which follow after the
-> things which are produced according to nature contain something pleasing
-> and attractive\. For instance, when bread is baked some parts are split
-> at the surface, and these parts which thus open, and have a certain
-> fashion contrary to the purpose of the baker's art, are beautiful in a
-> manner, and in a peculiar way excite a desire for eating\. And again,
-> figs, when they are quite ripe, gape open; and in the ripe olives the
-> very circumstance of their being near to rottenness adds a peculiar
-> beauty to the fruit\. And the ears of corn bending down, and the lion's
-> eyebrows, and the foam which flows from the mouth of wild boars, and
-> many other things,\-\-though they are far from being beautiful if a man
-> should examine them severally,\-\-still, because they are consequent upon
-> the things which are formed by nature, help to adorn them, and they
-> please the mind; so that if a man should have a feeling and deeper
-> insight with respect to the things which are produced in the universe,
-> there is hardly one of those which follow by way of consequence which
-> will not seem to him to be in a manner disposed so as to give pleasure\.
-> And so he will see even the real gaping jaws of wild beasts with no less
-> pleasure than those which painters and sculptors show by imitation; and
-> in an old woman and an old man he will be able to see a certain maturity
-> and comeliness; and the attractive loveliness of young persons he will
-> be able to look on with chaste eyes; and many such things will present
-> themselves, not pleasing to every man, but to him only who has become
-> truly familiar with Nature and her works\.
+> 3\. Hippocrates, after curing many diseases, himself fell sick and died\.
+> The Chaldaei foretold the deaths of many, and then fate caught them too\.
+> Alexander and Pompeius, and Caius Caesar, after so often completely
+> destroying whole cities, and in battle cutting to pieces many ten
+> thousands of cavalry and infantry, themselves too at last departed from
+> life\. Heraclitus, after so many speculations on the conflagration of the
+> universe, was filled with water internally and died smeared all over
+> with mud\. And lice destroyed Democritus; and other lice killed Socrates\.
+> What means all this? Thou hast embarked, thou hast made the voyage, thou
+> art come to shore; get out\. If indeed to another life, there is no want
+> of gods, not even there; but if to a state without sensation, thou wilt
+> cease to be held by pains and pleasures, and to be a slave to the
+> vessel, which is as much inferior as that which serves it is superior:\+
+> for the one is intelligence and deity; the other is earth and
+> corruption\.
 > 
 
 
