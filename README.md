@@ -2,58 +2,23 @@
 
 <!-- DAILY-PHILOSOPHY:START -->
 
-**Marcus Aurelius — Meditations III.4**  
-<sub>George Long translation · 2026-11-18 · <a href="philosophy/readings/reading-029.md" aria-label="Previous reading">←</a> Reading 30 of 437</sub>
+**Marcus Aurelius — Meditations III.5**  
+<sub>George Long translation · 2026-11-19 · <a href="philosophy/readings/reading-030.md" aria-label="Previous reading">←</a> Reading 31 of 437</sub>
 
-> 4\. Do not waste the remainder of thy life in thoughts about others, when
-> thou dost not refer thy thoughts to some object of common utility\. For
-> thou losest the opportunity of doing something else when thou hast such
-> thoughts as these,\-\-What is such a person doing, and why, and what is he
-> saying, and what is he thinking of, and what is he contriving, and
-> whatever else of the kind makes us wander away from the observation of
-> our own ruling power\.&#32;
-
-> We ought then to check in the series of our
-> thoughts everything that is without a purpose and useless, but most of
-> all the over\-curious feeling and the malignant; and a man should use
-> himself to think of those things only about which if one should suddenly
-> ask, What hast thou now in thy thoughts? with perfect openness thou
-> mightest immediately answer, This or That; so that from thy words it
-> should be plain that everything in thee is simple and benevolent, and
-> such as befits a social animal, and one that cares not for thoughts
-> about pleasure or sensual enjoyments at all, nor has any rivalry or envy
-> and suspicion, or anything else for which thou wouldst blush if thou
-> shouldst say that thou hadst it in thy mind\.&#32;
-
-> For the man who is such,
-> and no longer delays being among the number of the best, is like a
-> priest and minister of the gods, using too the \[deity\] which is planted
-> within him, which makes the man uncontaminated by pleasure, unharmed by
-> any pain, untouched by any insult, feeling no wrong, a fighter in the
-> noblest fight, one who cannot be overpowered by any passion, dyed deep
-> with justice, accepting with all his soul everything which happens and
-> is assigned to him as his portion; and not often, nor yet without great
-> necessity and for the general interest, imagining what another says, or
-> does, or thinks\. For it is only what belongs to himself that he makes
-> the matter for his activity; and he constantly thinks of that which is
-> allotted to himself out of the sum total of things, and he makes his own
-> acts fair, and he is persuaded that his own portion is good\. For the lot
-> which is assigned to each man is carried along with him and carries him
-> along with it\.\+&#32;
-
-> And he remembers also that every rational animal is his
-> kinsman, and that to care for all men is according to man's nature; and
-> a man should hold on to the opinion not of all, but of those only who
-> confessedly live according to nature\. But as to those who live not so,
-> he always bears in mind what kind of men they are both at home and from
-> home, both by night and by day, and what they are, and with what men
-> they live an impure life\. Accordingly, he does not value at all the
-> praise which comes from such men, since they are not even satisfied with
-> themselves\.
+> 5\. Labor not unwillingly, nor without regard to the common interest, nor
+> without due consideration, nor with distraction; nor let studied
+> ornament set off thy thoughts, and be not either a man of many words, or
+> busy about too many things\. And further, let the deity which is in thee
+> be the guardian of a living being, manly and of ripe age, and engaged in
+> matter political, and a Roman, and a ruler, who has taken his post like
+> a man waiting for the signal which summons him from life, and ready to
+> go, having need neither of oath nor of any man's testimony\. Be cheerful
+> also, and seek not external help nor the tranquillity which others
+> give\. A man then must stand erect, not be kept erect by others\.
 > 
 
 
-<sub><a href="https://www.gutenberg.org/ebooks/15877">Source edition</a> · <a href="philosophy/README.md#readings">Reading archive</a> · <a href="philosophy/paragraph-review.md">Editorial paragraph breaks</a></sub>
+<sub><a href="https://www.gutenberg.org/ebooks/15877">Source edition</a> · <a href="philosophy/README.md#readings">Reading archive</a></sub>
 
 <!-- DAILY-PHILOSOPHY:END -->
 
