@@ -2,23 +2,42 @@
 
 <!-- DAILY-PHILOSOPHY:START -->
 
-**Marcus Aurelius — Meditations III.5**  
-<sub>George Long translation · 2026-11-19 · <a href="philosophy/readings/reading-030.md" aria-label="Previous reading">←</a> Reading 31 of 437</sub>
+**Marcus Aurelius — Meditations III.6**  
+<sub>George Long translation · 2026-11-20 · <a href="philosophy/readings/reading-031.md" aria-label="Previous reading">←</a> Reading 32 of 437</sub>
 
-> 5\. Labor not unwillingly, nor without regard to the common interest, nor
-> without due consideration, nor with distraction; nor let studied
-> ornament set off thy thoughts, and be not either a man of many words, or
-> busy about too many things\. And further, let the deity which is in thee
-> be the guardian of a living being, manly and of ripe age, and engaged in
-> matter political, and a Roman, and a ruler, who has taken his post like
-> a man waiting for the signal which summons him from life, and ready to
-> go, having need neither of oath nor of any man's testimony\. Be cheerful
-> also, and seek not external help nor the tranquillity which others
-> give\. A man then must stand erect, not be kept erect by others\.
+> 6\. If thou findest in human life anything better than justice, truth,
+> temperance, fortitude, and, in a word, anything better than thy own
+> mind's self\-satisfaction in the things which it enables thee to do
+> according to right reason, and in the condition that is assigned to thee
+> without thy own choice; if, I say, thou seest anything better than this,
+> turn to it with all thy soul, and enjoy that which thou hast found to be
+> the best\.&#32;
+
+> But if nothing appears to be better than the Deity which is
+> planted in thee, which has subjected to itself all thy appetites, and
+> carefully examines all the impressions, and, as Socrates said, has
+> detached itself from the persuasions of sense, and has submitted itself
+> to the gods, and cares for mankind; if thou findest everything else
+> smaller and of less value than this, give place to nothing else, for if
+> thou dost once diverge and incline to it, thou wilt no longer without
+> distraction be able to give the preference to that good thing which is
+> thy proper possession and thy own; for it is not right that anything of
+> any other kind, such as praise from the many, or power, or enjoyment of
+> pleasure, should come into competition with that which is rationally and
+> politically \[or, practically\] good\. All these things, even though they
+> may seem to adapt themselves \[to the better things\] in a small degree,
+> obtain the superiority all at once, and carry us away\.&#32;
+
+> But do thou, I
+> say, simply and freely choose the better, and hold to it\.\-\-But that
+> which is useful is the better\.\-\-Well, then, if it is useful to thee as a
+> rational being, keep to it; but if it is only useful to thee as an
+> animal, say so, and maintain thy judgment without arrogance: only take
+> care that thou makest the inquiry by a sure method\.
 > 
 
 
-<sub><a href="https://www.gutenberg.org/ebooks/15877">Source edition</a> · <a href="philosophy/README.md#readings">Reading archive</a></sub>
+<sub><a href="https://www.gutenberg.org/ebooks/15877">Source edition</a> · <a href="philosophy/README.md#readings">Reading archive</a> · <a href="philosophy/paragraph-review.md">Editorial paragraph breaks</a></sub>
 
 <!-- DAILY-PHILOSOPHY:END -->
 
