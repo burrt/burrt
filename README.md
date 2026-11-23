@@ -2,29 +2,66 @@
 
 <!-- DAILY-PHILOSOPHY:START -->
 
-**Marcus Aurelius — Meditations III.8**  
-<sub>George Long translation · 2026-11-22 · <a href="philosophy/readings/reading-033.md" aria-label="Previous reading">←</a> Reading 34 of 437</sub>
+**Marcus Aurelius — Meditations III.9–11**  
+<sub>George Long translation · 2026-11-23 · <a href="philosophy/readings/reading-034.md" aria-label="Previous reading">←</a> Reading 35 of 437</sub>
 
-> 8\. In the mind of one who is chastened and purified thou wilt find no
-> corrupt matter, nor impurity, nor any sore skinned over\. Nor is his life
-> incomplete when fate overtakes him, as one may say of an actor who
-> leaves the stage before ending and finishing the play\. Besides, there is
-> in him nothing servile, nor affected, nor too closely bound \[to other
-> things\], nor yet detached\[A\] \[from other things\], nothing worthy of
-> blame, nothing which seeks a hiding\-place\.
+> 9\. Reverence the faculty which produces opinion\. On this faculty it
+> entirely depends whether there shall exist in thy ruling part any
+> opinion inconsistent with nature and the constitution of the rational
+> animal\. And this faculty promises freedom from hasty judgment, and
+> friendship towards men, and obedience to the gods\.
+> 
+> 10\. Throwing away then all things, hold to these only which are few; and
+> besides, bear in mind that every man lives only this present time, which
+> is an indivisible point, and that all the rest of his life is either
+> past or it is uncertain\. Short then is the time which every man lives;
+> and small the nook of the earth where he lives; and short too the
+> longest posthumous fame, and even this only continued by a succession of
+> poor human beings, who will very soon die, and who know not even
+> themselves, much less him who died long ago\.
+> 
+> 11\. To the aids which have been mentioned let this one still be added:
+> Make for thyself a definition or description of the thing which is
+> presented to thee, so as to see distinctly what kind of a thing it is in
+> its substance, in its nudity, in its complete entirety, and tell thyself
+> its proper name, and the names of the things of which it has been
+> compounded, and into which it will be resolved\.&#32;
+
+> For nothing is so
+> productive of elevation of mind as to be able to examine methodically
+> and truly every object which is presented to thee in life, and always to
+> look at things so as to see at the same time what kind of universe this
+> is, and what kind of use everything performs in it, and what value
+> everything has with reference to the whole, and what with reference to
+> man, who is a citizen of the highest city, of which all other cities are
+> like families; what each thing is, and of what it is composed, and how
+> long it is the nature of this thing to endure which now makes an
+> impression on me, and what virtue I have need of with respect to it,
+> such as gentleness, manliness, truth, fidelity, simplicity, contentment,
+> and the rest\.&#32;
+
+> Wherefore, on every occasion a man should say: This comes
+> from god; and this is according to the apportionment \+ and spinning of
+> the thread of destiny, and such\-like coincidence and chance; and this is
+> from one of the same stock, and a kinsman and partner, one who knows
+> not, however, what is according to his nature\. But I know; for this
+> reason I behave towards him according to the natural law of fellowship
+> with benevolence and justice\. At the same time, however, in things
+> indifferent\[A\] I attempt to ascertain the value of each\.
 > 
 
 
 <details>
 <summary>Translator notes</summary>
 
-> &#32;&#32;&#32;&#32;\[A\] viii\. 34\.
+> &#32;&#32;&#32;&#32;\[A\] Est et horum quae media appellamus grande
+> &#32;&#32;&#32;&#32;discrimen\.\-\-\_Seneca\_, Ep\. 82\.
 > 
 
 
 </details>
 
-<sub><a href="https://www.gutenberg.org/ebooks/15877">Source edition</a> · <a href="philosophy/README.md#readings">Reading archive</a></sub>
+<sub><a href="https://www.gutenberg.org/ebooks/15877">Source edition</a> · <a href="philosophy/README.md#readings">Reading archive</a> · <a href="philosophy/paragraph-review.md">Editorial paragraph breaks</a></sub>
 
 <!-- DAILY-PHILOSOPHY:END -->
 
