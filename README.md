@@ -2,17 +2,16 @@
 
 <!-- DAILY-PHILOSOPHY:START -->
 
-**Marcus Aurelius — Meditations III.12**  
-<sub>George Long translation · 2026-11-24 · <a href="philosophy/readings/reading-035.md" aria-label="Previous reading">←</a> Reading 36 of 437</sub>
+**Marcus Aurelius — Meditations III.13**  
+<sub>George Long translation · 2026-11-25 · <a href="philosophy/readings/reading-036.md" aria-label="Previous reading">←</a> Reading 37 of 437</sub>
 
-> 12\. If thou workest at that which is before thee, following right reason
-> seriously, vigorously, calmly, without allowing anything else to
-> distract thee, but keeping thy divine part pure, as if thou shouldst be
-> bound to give it back immediately; if thou holdest to this, expecting
-> nothing, fearing nothing, but satisfied with thy present activity
-> according to nature, and with heroic truth in every word and sound which
-> thou utterest, thou wilt live happy\. And there is no man who is able to
-> prevent this\.
+> 13\. As physicians have always their instruments and knives ready for
+> cases which suddenly require their skill, so do thou have principles
+> ready for the understanding of things divine and human, and for doing
+> everything, even the smallest, with a recollection of the bond which
+> unites the divine and human to one another\. For neither wilt thou do
+> anything well which pertains to man without at the same time having a
+> reference to things divine; nor the contrary\.
 > 
 
 
