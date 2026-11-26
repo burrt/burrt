@@ -2,18 +2,32 @@
 
 <!-- DAILY-PHILOSOPHY:START -->
 
-**Marcus Aurelius — Meditations III.13**  
-<sub>George Long translation · 2026-11-25 · <a href="philosophy/readings/reading-036.md" aria-label="Previous reading">←</a> Reading 37 of 437</sub>
+**Marcus Aurelius — Meditations III.14**  
+<sub>George Long translation · 2026-11-26 · <a href="philosophy/readings/reading-037.md" aria-label="Previous reading">←</a> Reading 38 of 437</sub>
 
-> 13\. As physicians have always their instruments and knives ready for
-> cases which suddenly require their skill, so do thou have principles
-> ready for the understanding of things divine and human, and for doing
-> everything, even the smallest, with a recollection of the bond which
-> unites the divine and human to one another\. For neither wilt thou do
-> anything well which pertains to man without at the same time having a
-> reference to things divine; nor the contrary\.
+> 14\. No longer wander at hazard; for neither wilt thou read thy own
+> memoirs,\[A\] nor the acts of the ancient Romans and Hellenes, and the
+> selections from books which thou wast reserving for thy old age\.\[B\]
+> Hasten then to the end which thou hast before thee, and, throwing away
+> idle hopes, come to thy own aid, if thou carest at all for thyself,
+> while it is in thy power\.
 > 
 
+
+<details>
+<summary>Translator notes</summary>
+
+> &#32;&#32;&#32;&#32;\[A\] \[Greek: hypomnêmata\]: or memoranda, notes, and the like\.
+> &#32;&#32;&#32;&#32;See i\. 17\.
+> 
+> &#32;&#32;&#32;&#32;\[B\] Compare Fronto, ii\. 9; a letter of Marcus to Fronto, who
+> &#32;&#32;&#32;&#32;was then consul: "Feci tamen mihi per hos dies excerpta ex
+> &#32;&#32;&#32;&#32;libris sexaginta in quinque tomis\." But he says some of them
+> &#32;&#32;&#32;&#32;were small books\.
+> 
+
+
+</details>
 
 <sub><a href="https://www.gutenberg.org/ebooks/15877">Source edition</a> · <a href="philosophy/README.md#readings">Reading archive</a></sub>
 
