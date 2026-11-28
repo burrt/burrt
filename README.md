@@ -2,14 +2,38 @@
 
 <!-- DAILY-PHILOSOPHY:START -->
 
-**Marcus Aurelius — Meditations III.15**  
-<sub>George Long translation · 2026-11-27 · <a href="philosophy/readings/reading-038.md" aria-label="Previous reading">←</a> Reading 39 of 437</sub>
+**Marcus Aurelius — Meditations III.16**  
+<sub>George Long translation · 2026-11-28 · <a href="philosophy/readings/reading-039.md" aria-label="Previous reading">←</a> Reading 40 of 437</sub>
 
-> 15\. They know not how many things are signified by the words stealing,
-> sowing, buying, keeping quiet, seeing what ought to be done; for this is
-> not effected by the eyes, but by another kind of vision\.
+> 16\. Body, soul, intelligence: to the body belong sensation, to the soul
+> appetites, to the intelligence principles\. To receive the impressions of
+> forms by means of appearances belongs even to animals; to be pulled by
+> the strings\[A\] of desire belongs both to wild beasts and to men who have
+> made themselves into women, and to a Phalaris and a Nero: and to have
+> the intelligence that guides to the things which appear suitable belongs
+> also to those who do not believe in the gods, and who betray their
+> country, and do their impure deeds when they have shut the doors\. If
+> then everything else is common to all that I have mentioned, there
+> remains that which is peculiar to the good man, to be pleased and
+> content with what happens, and with the thread which is spun for him;
+> and not to defile the divinity which is planted in his breast, nor
+> disturb it by a crowd of images, but to preserve it tranquil, following
+> it obediently as a god, neither saying anything contrary to the truth,
+> nor doing anything contrary to justice\. And if all men refuse to believe
+> that he lives a simple, modest, and contented life, he is neither angry
+> with any of them, nor does he deviate from the way which leads to the
+> end of life, to which a man ought to come pure, tranquil, ready to
+> depart, and without any compulsion perfectly reconciled to his lot\.
 > 
 
+
+<details>
+<summary>Translator notes</summary>
+
+> &#32;&#32;&#32;&#32;\[A\] Compare Plato, De Legibus, i\. p\. 644, \[Greek: oti tauta ta
+> &#32;&#32;&#32;&#32;pathê\] etc\.; and Antoninus, ii\. 2; vii\. 3; xii\. 19\.
+
+</details>
 
 <sub><a href="https://www.gutenberg.org/ebooks/15877">Source edition</a> · <a href="philosophy/README.md#readings">Reading archive</a></sub>
 
